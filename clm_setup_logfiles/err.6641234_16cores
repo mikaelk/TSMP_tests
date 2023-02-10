@@ -1,0 +1,173 @@
+
+  Preparing the environment for use of requested stage ( 2020 ).
+
+
+Currently Loaded Modules:
+  1) Stages/2020                (S)    25) gperf/.3.1             (H)
+  2) GCCcore/.9.3.0             (H)    26) ncurses/.6.2           (H)
+  3) zlib/.1.2.11               (H)    27) util-linux/.2.36       (H)
+  4) binutils/.2.34             (H)    28) fontconfig/.2.13.92    (H)
+  5) Intel/2020.2.254-GCC-9.3.0        29) xorg-macros/.1.19.2    (H)
+  6) numactl/2.0.13                    30) libpciaccess/.0.16     (H)
+  7) nvidia-driver/.default     (H,g)  31) X11/20200222
+  8) CUDA/11.0                  (g)    32) libdrm/.2.4.99         (H)
+  9) UCX/1.9.0                         33) LLVM/10.0.1
+ 10) pscom/.5.4-default         (H)    34) libunwind/.1.4.0       (H)
+ 11) XZ/.5.2.5                  (H)    35) OpenGL/2020            (g)
+ 12) libxml2/.2.9.10            (H)    36) freeglut/.3.2.1        (H)
+ 13) mpi-settings/UCX-plain            37) NASM/.2.15.03          (H)
+ 14) ParaStationMPI/5.4.7-1     (g)    38) libjpeg-turbo/.2.0.5   (H)
+ 15) imkl/2020.2.254                   39) JasPer/.2.0.19         (H)
+ 16) Hypre/2.20.0                      40) ecCodes/2.18.0
+ 17) Silo/4.10.2                       41) HDF5/1.10.6
+ 18) Tcl/8.6.10                        42) netCDF/4.7.4
+ 19) GMP/6.2.0                         43) netCDF-Fortran/4.5.3
+ 20) nettle/.3.6                (H)    44) parallel-netcdf/1.12.1
+ 21) bzip2/.1.0.8               (H)    45) cURL/7.71.1
+ 22) expat/.2.2.9               (H)    46) Szip/.2.1.1            (H)
+ 23) libpng/.1.6.37             (H)    47) CMake/3.18.0
+ 24) freetype/.2.10.1           (H)
+
+  Where:
+   H:  Hidden Module
+   S:  Module is Sticky, requires --force to unload or purge
+   g:  built for GPU
+
+ 
+
+[jwc00n024:13075:0:13075] Caught signal 11 (Segmentation fault: address not mapped to object at address 0x15259e3d09a0)
+[jwc00n024:13074:0:13074] Caught signal 11 (Segmentation fault: address not mapped to object at address 0x15408a2ea9a0)
+[jwc00n024:13076:0:13076] Caught signal 11 (Segmentation fault: address not mapped to object at address 0x150f924029a0)
+==== backtrace (tid:  13075) ====
+ 0 0x0000000000022343 ucs_debug_print_backtrace()  /dev/shm/swmanage/UCX/1.9.0/system-system/ucx-1.9.0/src/ucs/debug/debug.c:656
+ 1 0x0000000000012cf0 __funlockfile()  :0
+ 2 0x0000000000138862 __TBB_machine_cmpswp1()  /nfs/site/proj/openmp/promo/20190814/cet-enabled/tbbmalloc/build/linux_intel64_icc_cc4.4.6_libc2.12_kernel2.6.32_release/../../include/tbb/machine/linux_intel64.h:70
+ 3 0x0000000000138862 __TBB_TryLockByte()  /nfs/site/proj/openmp/promo/20190814/cet-enabled/tbbmalloc/build/linux_intel64_icc_cc4.4.6_libc2.12_kernel2.6.32_release/../../include/tbb/tbb_machine.h:914
+ 4 0x0000000000138862 __TBB_LockByte()  /nfs/site/proj/openmp/promo/20190814/cet-enabled/tbbmalloc/build/linux_intel64_icc_cc4.4.6_libc2.12_kernel2.6.32_release/../../include/tbb/tbb_machine.h:921
+ 5 0x0000000000138862 MallocMutex::scoped_lock::scoped_lock()  /nfs/site/proj/openmp/promo/20190814/cet-enabled/tbbmalloc/build/linux_intel64_icc_cc4.4.6_libc2.12_kernel2.6.32_release/../../src/tbbmalloc/Synchronize.h:39
+ 6 0x0000000000138862 rml::internal::LifoList::push()  /nfs/site/proj/openmp/promo/20190814/cet-enabled/tbbmalloc/build/linux_intel64_icc_cc4.4.6_libc2.12_kernel2.6.32_release/../../src/tbbmalloc/frontend.cpp:927
+ 7 0x0000000000138862 rml::internal::OrphanedBlocks::put()  /nfs/site/proj/openmp/promo/20190814/cet-enabled/tbbmalloc/build/linux_intel64_icc_cc4.4.6_libc2.12_kernel2.6.32_release/../../src/tbbmalloc/frontend.cpp:1589
+ 8 0x00000000001386d2 rml::internal::TLSData::release()  /nfs/site/proj/openmp/promo/20190814/cet-enabled/tbbmalloc/build/linux_intel64_icc_cc4.4.6_libc2.12_kernel2.6.32_release/../../src/tbbmalloc/frontend.cpp:1778
+ 9 0x0000000000138538 rml::internal::MemoryPool::onThreadShutdown()  /nfs/site/proj/openmp/promo/20190814/cet-enabled/tbbmalloc/build/linux_intel64_icc_cc4.4.6_libc2.12_kernel2.6.32_release/../../src/tbbmalloc/frontend.cpp:1151
+10 0x000000000013827a doThreadShutdownNotification()  /nfs/site/proj/openmp/promo/20190814/cet-enabled/tbbmalloc/build/linux_intel64_icc_cc4.4.6_libc2.12_kernel2.6.32_release/../../src/tbbmalloc/frontend.cpp:2847
+11 0x0000000000138a7b __TBB_mallocProcessShutdownNotification()  /nfs/site/proj/openmp/promo/20190814/cet-enabled/tbbmalloc/build/linux_intel64_icc_cc4.4.6_libc2.12_kernel2.6.32_release/../../src/tbbmalloc/frontend.cpp:2883
+12 0x0000000000138a7b AtomicAdd()  /nfs/site/proj/openmp/promo/20190814/cet-enabled/tbbmalloc/build/linux_intel64_icc_cc4.4.6_libc2.12_kernel2.6.32_release/../../src/tbbmalloc/Synchronize.h:62
+13 0x0000000000138a7b rml::internal::ShutdownSync::processExit()  /nfs/site/proj/openmp/promo/20190814/cet-enabled/tbbmalloc/build/linux_intel64_icc_cc4.4.6_libc2.12_kernel2.6.32_release/../../src/tbbmalloc/frontend.cpp:1960
+14 0x0000000000138a7b __TBB_mallocProcessShutdownNotification()  /nfs/site/proj/openmp/promo/20190814/cet-enabled/tbbmalloc/build/linux_intel64_icc_cc4.4.6_libc2.12_kernel2.6.32_release/../../src/tbbmalloc/frontend.cpp:2891
+15 0x00000000000baeb9 _INTERNALf4b96ddc::__kmp_fini_allocator()  /nfs/site/proj/openmp/promo/20200504/tmp/lin_32e-rtl_int_5_nor_dyn.rel.c0.s0.t1..h1.w1-fxe16lin03/../../src/kmp_runtime.cpp:659
+16 0x00000000000baeb9 __kmp_internal_end_library()  /nfs/site/proj/openmp/promo/20200504/tmp/lin_32e-rtl_int_5_nor_dyn.rel.c0.s0.t1..h1.w1-fxe16lin03/../../src/kmp_runtime.cpp:6575
+17 0x0000000000008e2d _dl_fini()  /usr/src/debug/glibc-2.28-211.el8.x86_64/elf/dl-fini.c:147
+18 0x000000000005129c __run_exit_handlers()  :0
+19 0x00000000000513d0 __GI_exit()  :0
+20 0x0000000000899658 for_stop_core()  ???:0
+21 0x000000000079508e MAIN__()  ???:0
+22 0x000000000040eea2 main()  ???:0
+23 0x000000000003ad85 __libc_start_main()  ???:0
+24 0x000000000040edae _start()  ???:0
+=================================
+<PSP:r0000014:Backtrace after SIGSEGV (Invalid memory reference):>
+<PSP:r0000014:# 0: /p/software/juwels/stages/2020/software/pscom/5.4-default/lib64/libpscom.so.2(+0x159b4) [0x15159e9b29b4]>
+<PSP:r0000014:# 1: /usr/lib64/libpthread.so.0(+0x12cf0) [0x1515a4d26cf0]>
+<PSP:r0000014:# 2: /p/software/juwels/stages/2020/software/imkl/2020.2.254-ipsmpi-2020/lib/intel64/libiomp5.so(+0x138862) [0x15159e105862]>
+<PSP:r0000014:# 3: /p/software/juwels/stages/2020/software/imkl/2020.2.254-ipsmpi-2020/lib/intel64/libiomp5.so(+0x1386d2) [0x15159e1056d2]>
+<PSP:r0000014:# 4: /p/software/juwels/stages/2020/software/imkl/2020.2.254-ipsmpi-2020/lib/intel64/libiomp5.so(+0x138538) [0x15159e105538]>
+<PSP:r0000014:# 5: /p/software/juwels/stages/2020/software/imkl/2020.2.254-ipsmpi-2020/lib/intel64/libiomp5.so(+0x13827a) [0x15159e10527a]>
+<PSP:r0000014:# 6: /p/software/juwels/stages/2020/software/imkl/2020.2.254-ipsmpi-2020/lib/intel64/libiomp5.so(+0x138a7b) [0x15159e105a7b]>
+<PSP:r0000014:# 7: /p/software/juwels/stages/2020/software/imkl/2020.2.254-ipsmpi-2020/lib/intel64/libiomp5.so(+0xbaeb9) [0x15159e087eb9]>
+<PSP:r0000014:# 8: /lib64/ld-linux-x86-64.so.2(+0x8e2d) [0x1515a5d18e2d]>
+<PSP:r0000014:# 9: /usr/lib64/libc.so.6(+0x5129c) [0x1515a499f29c]>
+<PSP:r0000014:#10: /usr/lib64/libc.so.6(on_exit+0) [0x1515a499f3d0]>
+<PSP:r0000014:#11: ./clm(for_stop_core+0x8d8) [0x899658]>
+<PSP:r0000014:#12: ./clm() [0x79508e]>
+<PSP:r0000014:#13: ./clm() [0x40eea2]>
+<PSP:r0000014:#14: /usr/lib64/libc.so.6(__libc_start_main+0xe5) [0x1515a4988d85]>
+<PSP:r0000014:#15: ./clm() [0x40edae]>
+==== backtrace (tid:  13076) ====
+ 0 0x0000000000022343 ucs_debug_print_backtrace()  /dev/shm/swmanage/UCX/1.9.0/system-system/ucx-1.9.0/src/ucs/debug/debug.c:656
+ 1 0x0000000000012cf0 __funlockfile()  :0
+ 2 0x0000000000138862 __TBB_machine_cmpswp1()  /nfs/site/proj/openmp/promo/20190814/cet-enabled/tbbmalloc/build/linux_intel64_icc_cc4.4.6_libc2.12_kernel2.6.32_release/../../include/tbb/machine/linux_intel64.h:70
+ 3 0x0000000000138862 __TBB_TryLockByte()  /nfs/site/proj/openmp/promo/20190814/cet-enabled/tbbmalloc/build/linux_intel64_icc_cc4.4.6_libc2.12_kernel2.6.32_release/../../include/tbb/tbb_machine.h:914
+ 4 0x0000000000138862 __TBB_LockByte()  /nfs/site/proj/openmp/promo/20190814/cet-enabled/tbbmalloc/build/linux_intel64_icc_cc4.4.6_libc2.12_kernel2.6.32_release/../../include/tbb/tbb_machine.h:921
+ 5 0x0000000000138862 MallocMutex::scoped_lock::scoped_lock()  /nfs/site/proj/openmp/promo/20190814/cet-enabled/tbbmalloc/build/linux_intel64_icc_cc4.4.6_libc2.12_kernel2.6.32_release/../../src/tbbmalloc/Synchronize.h:39
+ 6 0x0000000000138862 rml::internal::LifoList::push()  /nfs/site/proj/openmp/promo/20190814/cet-enabled/tbbmalloc/build/linux_intel64_icc_cc4.4.6_libc2.12_kernel2.6.32_release/../../src/tbbmalloc/frontend.cpp:927
+ 7 0x0000000000138862 rml::internal::OrphanedBlocks::put()  /nfs/site/proj/openmp/promo/20190814/cet-enabled/tbbmalloc/build/linux_intel64_icc_cc4.4.6_libc2.12_kernel2.6.32_release/../../src/tbbmalloc/frontend.cpp:1589
+ 8 0x00000000001386d2 rml::internal::TLSData::release()  /nfs/site/proj/openmp/promo/20190814/cet-enabled/tbbmalloc/build/linux_intel64_icc_cc4.4.6_libc2.12_kernel2.6.32_release/../../src/tbbmalloc/frontend.cpp:1778
+ 9 0x0000000000138538 rml::internal::MemoryPool::onThreadShutdown()  /nfs/site/proj/openmp/promo/20190814/cet-enabled/tbbmalloc/build/linux_intel64_icc_cc4.4.6_libc2.12_kernel2.6.32_release/../../src/tbbmalloc/frontend.cpp:1151
+10 0x000000000013827a doThreadShutdownNotification()  /nfs/site/proj/openmp/promo/20190814/cet-enabled/tbbmalloc/build/linux_intel64_icc_cc4.4.6_libc2.12_kernel2.6.32_release/../../src/tbbmalloc/frontend.cpp:2847
+11 0x0000000000138a7b __TBB_mallocProcessShutdownNotification()  /nfs/site/proj/openmp/promo/20190814/cet-enabled/tbbmalloc/build/linux_intel64_icc_cc4.4.6_libc2.12_kernel2.6.32_release/../../src/tbbmalloc/frontend.cpp:2883
+12 0x0000000000138a7b AtomicAdd()  /nfs/site/proj/openmp/promo/20190814/cet-enabled/tbbmalloc/build/linux_intel64_icc_cc4.4.6_libc2.12_kernel2.6.32_release/../../src/tbbmalloc/Synchronize.h:62
+13 0x0000000000138a7b rml::internal::ShutdownSync::processExit()  /nfs/site/proj/openmp/promo/20190814/cet-enabled/tbbmalloc/build/linux_intel64_icc_cc4.4.6_libc2.12_kernel2.6.32_release/../../src/tbbmalloc/frontend.cpp:1960
+14 0x0000000000138a7b __TBB_mallocProcessShutdownNotification()  /nfs/site/proj/openmp/promo/20190814/cet-enabled/tbbmalloc/build/linux_intel64_icc_cc4.4.6_libc2.12_kernel2.6.32_release/../../src/tbbmalloc/frontend.cpp:2891
+15 0x00000000000baeb9 _INTERNALf4b96ddc::__kmp_fini_allocator()  /nfs/site/proj/openmp/promo/20200504/tmp/lin_32e-rtl_int_5_nor_dyn.rel.c0.s0.t1..h1.w1-fxe16lin03/../../src/kmp_runtime.cpp:659
+16 0x00000000000baeb9 __kmp_internal_end_library()  /nfs/site/proj/openmp/promo/20200504/tmp/lin_32e-rtl_int_5_nor_dyn.rel.c0.s0.t1..h1.w1-fxe16lin03/../../src/kmp_runtime.cpp:6575
+17 0x0000000000008e2d _dl_fini()  /usr/src/debug/glibc-2.28-211.el8.x86_64/elf/dl-fini.c:147
+18 0x000000000005129c __run_exit_handlers()  :0
+19 0x00000000000513d0 __GI_exit()  :0
+20 0x0000000000899658 for_stop_core()  ???:0
+21 0x000000000079508e MAIN__()  ???:0
+22 0x000000000040eea2 main()  ???:0
+23 0x000000000003ad85 __libc_start_main()  ???:0
+24 0x000000000040edae _start()  ???:0
+=================================
+<PSP:r0000015:Backtrace after SIGSEGV (Invalid memory reference):>
+<PSP:r0000015:# 0: /p/software/juwels/stages/2020/software/pscom/5.4-default/lib64/libpscom.so.2(+0x159b4) [0x14ff929e49b4]>
+<PSP:r0000015:# 1: /usr/lib64/libpthread.so.0(+0x12cf0) [0x14ff98d58cf0]>
+<PSP:r0000015:# 2: /p/software/juwels/stages/2020/software/imkl/2020.2.254-ipsmpi-2020/lib/intel64/libiomp5.so(+0x138862) [0x14ff92137862]>
+<PSP:r0000015:# 3: /p/software/juwels/stages/2020/software/imkl/2020.2.254-ipsmpi-2020/lib/intel64/libiomp5.so(+0x1386d2) [0x14ff921376d2]>
+<PSP:r0000015:# 4: /p/software/juwels/stages/2020/software/imkl/2020.2.254-ipsmpi-2020/lib/intel64/libiomp5.so(+0x138538) [0x14ff92137538]>
+<PSP:r0000015:# 5: /p/software/juwels/stages/2020/software/imkl/2020.2.254-ipsmpi-2020/lib/intel64/libiomp5.so(+0x13827a) [0x14ff9213727a]>
+<PSP:r0000015:# 6: /p/software/juwels/stages/2020/software/imkl/2020.2.254-ipsmpi-2020/lib/intel64/libiomp5.so(+0x138a7b) [0x14ff92137a7b]>
+<PSP:r0000015:# 7: /p/software/juwels/stages/2020/software/imkl/2020.2.254-ipsmpi-2020/lib/intel64/libiomp5.so(+0xbaeb9) [0x14ff920b9eb9]>
+<PSP:r0000015:# 8: /lib64/ld-linux-x86-64.so.2(+0x8e2d) [0x14ff99d4ae2d]>
+<PSP:r0000015:# 9: /usr/lib64/libc.so.6(+0x5129c) [0x14ff989d129c]>
+<PSP:r0000015:#10: /usr/lib64/libc.so.6(on_exit+0) [0x14ff989d13d0]>
+<PSP:r0000015:#11: ./clm(for_stop_core+0x8d8) [0x899658]>
+<PSP:r0000015:#12: ./clm() [0x79508e]>
+<PSP:r0000015:#13: ./clm() [0x40eea2]>
+<PSP:r0000015:#14: /usr/lib64/libc.so.6(__libc_start_main+0xe5) [0x14ff989bad85]>
+<PSP:r0000015:#15: ./clm() [0x40edae]>
+==== backtrace (tid:  13074) ====
+ 0 0x0000000000022343 ucs_debug_print_backtrace()  /dev/shm/swmanage/UCX/1.9.0/system-system/ucx-1.9.0/src/ucs/debug/debug.c:656
+ 1 0x0000000000012cf0 __funlockfile()  :0
+ 2 0x0000000000138862 __TBB_machine_cmpswp1()  /nfs/site/proj/openmp/promo/20190814/cet-enabled/tbbmalloc/build/linux_intel64_icc_cc4.4.6_libc2.12_kernel2.6.32_release/../../include/tbb/machine/linux_intel64.h:70
+ 3 0x0000000000138862 __TBB_TryLockByte()  /nfs/site/proj/openmp/promo/20190814/cet-enabled/tbbmalloc/build/linux_intel64_icc_cc4.4.6_libc2.12_kernel2.6.32_release/../../include/tbb/tbb_machine.h:914
+ 4 0x0000000000138862 __TBB_LockByte()  /nfs/site/proj/openmp/promo/20190814/cet-enabled/tbbmalloc/build/linux_intel64_icc_cc4.4.6_libc2.12_kernel2.6.32_release/../../include/tbb/tbb_machine.h:921
+ 5 0x0000000000138862 MallocMutex::scoped_lock::scoped_lock()  /nfs/site/proj/openmp/promo/20190814/cet-enabled/tbbmalloc/build/linux_intel64_icc_cc4.4.6_libc2.12_kernel2.6.32_release/../../src/tbbmalloc/Synchronize.h:39
+ 6 0x0000000000138862 rml::internal::LifoList::push()  /nfs/site/proj/openmp/promo/20190814/cet-enabled/tbbmalloc/build/linux_intel64_icc_cc4.4.6_libc2.12_kernel2.6.32_release/../../src/tbbmalloc/frontend.cpp:927
+ 7 0x0000000000138862 rml::internal::OrphanedBlocks::put()  /nfs/site/proj/openmp/promo/20190814/cet-enabled/tbbmalloc/build/linux_intel64_icc_cc4.4.6_libc2.12_kernel2.6.32_release/../../src/tbbmalloc/frontend.cpp:1589
+ 8 0x00000000001386d2 rml::internal::TLSData::release()  /nfs/site/proj/openmp/promo/20190814/cet-enabled/tbbmalloc/build/linux_intel64_icc_cc4.4.6_libc2.12_kernel2.6.32_release/../../src/tbbmalloc/frontend.cpp:1778
+ 9 0x0000000000138538 rml::internal::MemoryPool::onThreadShutdown()  /nfs/site/proj/openmp/promo/20190814/cet-enabled/tbbmalloc/build/linux_intel64_icc_cc4.4.6_libc2.12_kernel2.6.32_release/../../src/tbbmalloc/frontend.cpp:1151
+10 0x000000000013827a doThreadShutdownNotification()  /nfs/site/proj/openmp/promo/20190814/cet-enabled/tbbmalloc/build/linux_intel64_icc_cc4.4.6_libc2.12_kernel2.6.32_release/../../src/tbbmalloc/frontend.cpp:2847
+11 0x0000000000138a7b __TBB_mallocProcessShutdownNotification()  /nfs/site/proj/openmp/promo/20190814/cet-enabled/tbbmalloc/build/linux_intel64_icc_cc4.4.6_libc2.12_kernel2.6.32_release/../../src/tbbmalloc/frontend.cpp:2883
+12 0x0000000000138a7b AtomicAdd()  /nfs/site/proj/openmp/promo/20190814/cet-enabled/tbbmalloc/build/linux_intel64_icc_cc4.4.6_libc2.12_kernel2.6.32_release/../../src/tbbmalloc/Synchronize.h:62
+13 0x0000000000138a7b rml::internal::ShutdownSync::processExit()  /nfs/site/proj/openmp/promo/20190814/cet-enabled/tbbmalloc/build/linux_intel64_icc_cc4.4.6_libc2.12_kernel2.6.32_release/../../src/tbbmalloc/frontend.cpp:1960
+14 0x0000000000138a7b __TBB_mallocProcessShutdownNotification()  /nfs/site/proj/openmp/promo/20190814/cet-enabled/tbbmalloc/build/linux_intel64_icc_cc4.4.6_libc2.12_kernel2.6.32_release/../../src/tbbmalloc/frontend.cpp:2891
+15 0x00000000000baeb9 _INTERNALf4b96ddc::__kmp_fini_allocator()  /nfs/site/proj/openmp/promo/20200504/tmp/lin_32e-rtl_int_5_nor_dyn.rel.c0.s0.t1..h1.w1-fxe16lin03/../../src/kmp_runtime.cpp:659
+16 0x00000000000baeb9 __kmp_internal_end_library()  /nfs/site/proj/openmp/promo/20200504/tmp/lin_32e-rtl_int_5_nor_dyn.rel.c0.s0.t1..h1.w1-fxe16lin03/../../src/kmp_runtime.cpp:6575
+17 0x0000000000008e2d _dl_fini()  /usr/src/debug/glibc-2.28-211.el8.x86_64/elf/dl-fini.c:147
+18 0x000000000005129c __run_exit_handlers()  :0
+19 0x00000000000513d0 __GI_exit()  :0
+20 0x0000000000899658 for_stop_core()  ???:0
+21 0x000000000079508e MAIN__()  ???:0
+22 0x000000000040eea2 main()  ???:0
+23 0x000000000003ad85 __libc_start_main()  ???:0
+24 0x000000000040edae _start()  ???:0
+=================================
+<PSP:r0000013:Backtrace after SIGSEGV (Invalid memory reference):>
+<PSP:r0000013:# 0: /p/software/juwels/stages/2020/software/pscom/5.4-default/lib64/libpscom.so.2(+0x159b4) [0x15308a8cc9b4]>
+<PSP:r0000013:# 1: /usr/lib64/libpthread.so.0(+0x12cf0) [0x153090c40cf0]>
+<PSP:r0000013:# 2: /p/software/juwels/stages/2020/software/imkl/2020.2.254-ipsmpi-2020/lib/intel64/libiomp5.so(+0x138862) [0x15308a01f862]>
+<PSP:r0000013:# 3: /p/software/juwels/stages/2020/software/imkl/2020.2.254-ipsmpi-2020/lib/intel64/libiomp5.so(+0x1386d2) [0x15308a01f6d2]>
+<PSP:r0000013:# 4: /p/software/juwels/stages/2020/software/imkl/2020.2.254-ipsmpi-2020/lib/intel64/libiomp5.so(+0x138538) [0x15308a01f538]>
+<PSP:r0000013:# 5: /p/software/juwels/stages/2020/software/imkl/2020.2.254-ipsmpi-2020/lib/intel64/libiomp5.so(+0x13827a) [0x15308a01f27a]>
+<PSP:r0000013:# 6: /p/software/juwels/stages/2020/software/imkl/2020.2.254-ipsmpi-2020/lib/intel64/libiomp5.so(+0x138a7b) [0x15308a01fa7b]>
+<PSP:r0000013:# 7: /p/software/juwels/stages/2020/software/imkl/2020.2.254-ipsmpi-2020/lib/intel64/libiomp5.so(+0xbaeb9) [0x153089fa1eb9]>
+<PSP:r0000013:# 8: /lib64/ld-linux-x86-64.so.2(+0x8e2d) [0x153091c32e2d]>
+<PSP:r0000013:# 9: /usr/lib64/libc.so.6(+0x5129c) [0x1530908b929c]>
+<PSP:r0000013:#10: /usr/lib64/libc.so.6(on_exit+0) [0x1530908b93d0]>
+<PSP:r0000013:#11: ./clm(for_stop_core+0x8d8) [0x899658]>
+<PSP:r0000013:#12: ./clm() [0x79508e]>
+<PSP:r0000013:#13: ./clm() [0x40eea2]>
+<PSP:r0000013:#14: /usr/lib64/libc.so.6(__libc_start_main+0xe5) [0x1530908a2d85]>
+<PSP:r0000013:#15: ./clm() [0x40edae]>
+srun: error: jwc00n024: tasks 13-15: Exited with exit code 1

@@ -1,0 +1,132 @@
+
+  Preparing the environment for use of requested stage ( 2020 ).
+
+
+Currently Loaded Modules:
+  1) Stages/2020                (S)    25) gperf/.3.1             (H)
+  2) GCCcore/.9.3.0             (H)    26) ncurses/.6.2           (H)
+  3) zlib/.1.2.11               (H)    27) util-linux/.2.36       (H)
+  4) binutils/.2.34             (H)    28) fontconfig/.2.13.92    (H)
+  5) Intel/2020.2.254-GCC-9.3.0        29) xorg-macros/.1.19.2    (H)
+  6) numactl/2.0.13                    30) libpciaccess/.0.16     (H)
+  7) nvidia-driver/.default     (H,g)  31) X11/20200222
+  8) CUDA/11.0                  (g)    32) libdrm/.2.4.99         (H)
+  9) UCX/1.9.0                         33) LLVM/10.0.1
+ 10) pscom/.5.4-default         (H)    34) libunwind/.1.4.0       (H)
+ 11) XZ/.5.2.5                  (H)    35) OpenGL/2020            (g)
+ 12) libxml2/.2.9.10            (H)    36) freeglut/.3.2.1        (H)
+ 13) mpi-settings/UCX-plain            37) NASM/.2.15.03          (H)
+ 14) ParaStationMPI/5.4.7-1     (g)    38) libjpeg-turbo/.2.0.5   (H)
+ 15) imkl/2020.2.254                   39) JasPer/.2.0.19         (H)
+ 16) Hypre/2.20.0                      40) ecCodes/2.18.0
+ 17) Silo/4.10.2                       41) HDF5/1.10.6
+ 18) Tcl/8.6.10                        42) netCDF/4.7.4
+ 19) GMP/6.2.0                         43) netCDF-Fortran/4.5.3
+ 20) nettle/.3.6                (H)    44) parallel-netcdf/1.12.1
+ 21) bzip2/.1.0.8               (H)    45) cURL/7.71.1
+ 22) expat/.2.2.9               (H)    46) Szip/.2.1.1            (H)
+ 23) libpng/.1.6.37             (H)    47) CMake/3.18.0
+ 24) freetype/.2.10.1           (H)
+
+  Where:
+   H:  Hidden Module
+   S:  Module is Sticky, requires --force to unload or purge
+   g:  built for GPU
+
+ 
+
+srun: error: jwc00n025: tasks 0-19,21-31: Exited with exit code 143
+srun: error: jwc00n025: task 20: Exited with exit code 1
+application called MPI_Abort(comm=0x84000000, 1) - process 20Fatal error in PMPI_Recv: Other MPI error, error stack:
+PMPI_Recv(171)......: MPI_Recv(buf=0x7ffe6ac8d320, count=1, dtype=0x4c000829, src=20, tag=999, comm=0x84000000, status=0xacb0c0) failed
+mpid_irecv_done(103): read from socket failed - request state:recv(pde)doneFatal error in PMPI_Waitany: Other MPI error, error stack:
+PMPI_Waitany(282)...: MPI_Waitany(count=1, req_array=0x7fff974da480, index=0x7fff974d9be0, status=0x7fff974dac80) failed
+PMPI_Waitany(265)...: 
+mpid_irecv_done(103): read from socket failed - request state:recv(pde)doneFatal error in PMPI_Waitany: Other MPI error, error stack:
+PMPI_Waitany(282)...: MPI_Waitany(count=1, req_array=0x7ffcc2235180, index=0x7ffcc22348e0, status=0x7ffcc2235980) failed
+PMPI_Waitany(265)...: 
+mpid_irecv_done(103): read from socket failed - request state:recv(pde)doneFatal error in PMPI_Waitany: Other MPI error, error stack:
+PMPI_Waitany(282)...: MPI_Waitany(count=1, req_array=0x7ffe044fec80, index=0x7ffe044fe3e0, status=0x7ffe044ff480) failed
+PMPI_Waitany(265)...: 
+mpid_irecv_done(103): read from socket failed - request state:recv(pde)doneFatal error in PMPI_Waitany: Other MPI error, error stack:
+PMPI_Waitany(282)...: MPI_Waitany(count=1, req_array=0x7ffdb3514a80, index=0x7ffdb35141e0, status=0x7ffdb3515280) failed
+PMPI_Waitany(265)...: 
+mpid_irecv_done(103): read from socket failed - request state:recv(pde)doneFatal error in PMPI_Waitany: Other MPI error, error stack:
+PMPI_Waitany(282)...: MPI_Waitany(count=1, req_array=0x7fffdcbe1800, index=0x7fffdcbe0f60, status=0x7fffdcbe2000) failed
+PMPI_Waitany(265)...: 
+mpid_irecv_done(103): read from socket failed - request state:recv(pde)doneFatal error in PMPI_Waitany: Other MPI error, error stack:
+PMPI_Waitany(282)...: MPI_Waitany(count=1, req_array=0x7ffe07705600, index=0x7ffe07704d60, status=0x7ffe07705e00) failed
+PMPI_Waitany(265)...: 
+mpid_irecv_done(103): read from socket failed - request state:recv(pde)doneFatal error in PMPI_Waitany: Other MPI error, error stack:
+PMPI_Waitany(282)...: MPI_Waitany(count=1, req_array=0x7ffffb790480, index=0x7ffffb78fbe0, status=0x7ffffb790c80) failed
+PMPI_Waitany(265)...: 
+mpid_irecv_done(103): read from socket failed - request state:recv(pde)doneFatal error in PMPI_Waitany: Other MPI error, error stack:
+PMPI_Waitany(282)...: MPI_Waitany(count=1, req_array=0x7ffe86f35380, index=0x7ffe86f34ae0, status=0x7ffe86f35b80) failed
+PMPI_Waitany(265)...: 
+mpid_irecv_done(103): read from socket failed - request state:recv(pde)doneFatal error in PMPI_Waitany: Other MPI error, error stack:
+PMPI_Waitany(282)...: MPI_Waitany(count=1, req_array=0x7ffdc5b11580, index=0x7ffdc5b10ce0, status=0x7ffdc5b11d80) failed
+PMPI_Waitany(265)...: 
+mpid_irecv_done(103): read from socket failed - request state:recv(pde)doneFatal error in PMPI_Waitany: Other MPI error, error stack:
+PMPI_Waitany(282)...: MPI_Waitany(count=1, req_array=0x7ffddb1af700, index=0x7ffddb1aee60, status=0x7ffddb1aff00) failed
+PMPI_Waitany(265)...: 
+mpid_irecv_done(103): read from socket failed - request state:recv(pde)doneFatal error in PMPI_Waitany: Other MPI error, error stack:
+PMPI_Waitany(282)...: MPI_Waitany(count=1, req_array=0x7ffdc5d0ac00, index=0x7ffdc5d0a360, status=0x7ffdc5d0b400) failed
+PMPI_Waitany(265)...: 
+mpid_irecv_done(103): read from socket failed - request state:recv(pde)doneFatal error in PMPI_Waitany: Other MPI error, error stack:
+PMPI_Waitany(282)...: MPI_Waitany(count=1, req_array=0x7ffda85f3380, index=0x7ffda85f2ae0, status=0x7ffda85f3b80) failed
+PMPI_Waitany(265)...: 
+mpid_irecv_done(103): read from socket failed - request state:recv(pde)doneFatal error in PMPI_Waitany: Other MPI error, error stack:
+PMPI_Waitany(282)...: MPI_Waitany(count=1, req_array=0x7ffe86f98600, index=0x7ffe86f97d60, status=0x7ffe86f98e00) failed
+PMPI_Waitany(265)...: 
+mpid_irecv_done(103): read from socket failed - request state:recv(pde)doneFatal error in PMPI_Waitany: Other MPI error, error stack:
+PMPI_Waitany(282)...: MPI_Waitany(count=1, req_array=0x7fffe4b65a80, index=0x7fffe4b651e0, status=0x7fffe4b66280) failed
+PMPI_Waitany(265)...: 
+mpid_irecv_done(103): read from socket failed - request state:recv(pde)doneFatal error in PMPI_Waitany: Other MPI error, error stack:
+PMPI_Waitany(282)...: MPI_Waitany(count=1, req_array=0x7ffcb3a91600, index=0x7ffcb3a90d60, status=0x7ffcb3a91e00) failed
+PMPI_Waitany(265)...: 
+mpid_irecv_done(103): read from socket failed - request state:recv(pde)doneFatal error in PMPI_Waitany: Other MPI error, error stack:
+PMPI_Waitany(282)...: MPI_Waitany(count=1, req_array=0x7ffc030a1000, index=0x7ffc030a0760, status=0x7ffc030a1800) failed
+PMPI_Waitany(265)...: 
+mpid_irecv_done(103): read from socket failed - request state:recv(pde)doneFatal error in PMPI_Waitany: Other MPI error, error stack:
+PMPI_Waitany(282)...: MPI_Waitany(count=1, req_array=0x7ffde4235a00, index=0x7ffde4235160, status=0x7ffde4236200) failed
+PMPI_Waitany(265)...: 
+mpid_irecv_done(103): read from socket failed - request state:recv(pde)doneFatal error in PMPI_Waitany: Other MPI error, error stack:
+PMPI_Waitany(282)...: MPI_Waitany(count=1, req_array=0x7ffd6b819000, index=0x7ffd6b818760, status=0x7ffd6b819800) failed
+PMPI_Waitany(265)...: 
+mpid_irecv_done(103): read from socket failed - request state:recv(pde)doneFatal error in PMPI_Waitany: Other MPI error, error stack:
+PMPI_Waitany(282)...: MPI_Waitany(count=1, req_array=0x7fff1fc62580, index=0x7fff1fc61ce0, status=0x7fff1fc62d80) failed
+PMPI_Waitany(265)...: 
+mpid_irecv_done(103): read from socket failed - request state:recv(pde)doneFatal error in PMPI_Waitany: Other MPI error, error stack:
+PMPI_Waitany(282)...: MPI_Waitany(count=1, req_array=0x7ffde3eefb80, index=0x7ffde3eef2e0, status=0x7ffde3ef0380) failed
+PMPI_Waitany(265)...: 
+mpid_irecv_done(103): read from socket failed - request state:recv(pde)doneFatal error in PMPI_Waitany: Other MPI error, error stack:
+PMPI_Waitany(282)...: MPI_Waitany(count=1, req_array=0x7ffc9bee6600, index=0x7ffc9bee5d60, status=0x7ffc9bee6e00) failed
+PMPI_Waitany(265)...: 
+mpid_irecv_done(103): read from socket failed - request state:recv(pde)doneFatal error in PMPI_Waitany: Other MPI error, error stack:
+PMPI_Waitany(282)...: MPI_Waitany(count=1, req_array=0x7ffd151b3000, index=0x7ffd151b2760, status=0x7ffd151b3800) failed
+PMPI_Waitany(265)...: 
+mpid_irecv_done(103): read from socket failed - request state:recv(pde)doneFatal error in PMPI_Waitany: Other MPI error, error stack:
+PMPI_Waitany(282)...: MPI_Waitany(count=1, req_array=0x7ffc693f9800, index=0x7ffc693f8f60, status=0x7ffc693fa000) failed
+PMPI_Waitany(265)...: 
+mpid_irecv_done(103): read from socket failed - request state:recv(pde)doneFatal error in PMPI_Waitany: Other MPI error, error stack:
+PMPI_Waitany(282)...: MPI_Waitany(count=1, req_array=0x7ffe182a9a80, index=0x7ffe182a91e0, status=0x7ffe182aa280) failed
+PMPI_Waitany(265)...: 
+mpid_irecv_done(103): read from socket failed - request state:recv(pde)doneFatal error in PMPI_Waitany: Other MPI error, error stack:
+PMPI_Waitany(282)...: MPI_Waitany(count=1, req_array=0x7ffd78f00b80, index=0x7ffd78f002e0, status=0x7ffd78f01380) failed
+PMPI_Waitany(265)...: 
+mpid_irecv_done(103): read from socket failed - request state:recv(pde)doneFatal error in PMPI_Waitany: Other MPI error, error stack:
+PMPI_Waitany(282)...: MPI_Waitany(count=1, req_array=0x7ffe24040700, index=0x7ffe2403fe60, status=0x7ffe24040f00) failed
+PMPI_Waitany(265)...: 
+mpid_irecv_done(103): read from socket failed - request state:recv(pde)doneFatal error in PMPI_Waitany: Other MPI error, error stack:
+PMPI_Waitany(282)...: MPI_Waitany(count=1, req_array=0x7fff22c19800, index=0x7fff22c18f60, status=0x7fff22c1a000) failed
+PMPI_Waitany(265)...: 
+mpid_irecv_done(103): read from socket failed - request state:recv(pde)doneFatal error in PMPI_Waitany: Other MPI error, error stack:
+PMPI_Waitany(282)...: MPI_Waitany(count=1, req_array=0x7ffde1634800, index=0x7ffde1633f60, status=0x7ffde1635000) failed
+PMPI_Waitany(265)...: 
+mpid_irecv_done(103): read from socket failed - request state:recv(pde)doneFatal error in PMPI_Waitany: Other MPI error, error stack:
+PMPI_Waitany(282)...: MPI_Waitany(count=1, req_array=0x7fff4d9ab800, index=0x7fff4d9aaf60, status=0x7fff4d9ac000) failed
+PMPI_Waitany(265)...: 
+mpid_irecv_done(103): read from socket failed - request state:recv(pde)doneFatal error in PMPI_Waitany: Other MPI error, error stack:
+PMPI_Waitany(282)...: MPI_Waitany(count=1, req_array=0x7fffdcdd4e80, index=0x7fffdcdd45e0, status=0x7fffdcdd5680) failed
+PMPI_Waitany(265)...: 
+mpid_irecv_done(103): read from socket failed - request state:recv(pde)done
