@@ -1,0 +1,59 @@
+test!!
+
+TSMP Git Configuration
+----------------------
+Git (TSMP):
+root dir: /p/scratch/cjibg36/kaandorp2/TSMP2/.git
+remote url: https://github.com/HPSCTerrSys/TSMP.git
+commit: 5c3512a556b084f4c8367d960334ab2d799136a2
+tag: stages-2020-25-g5c3512a-dirty
+
+Git (oasis3-mct):
+root dir: /p/scratch/cjibg36/kaandorp2/TSMP2/oasis3-mct/.git
+remote url: https://gitlab.jsc.fz-juelich.de/sdlts/tsmp_components_mirrors/oasis3-mct.git
+commit: bc583429127d375c86ec83fedcaaba7d39489418
+tag: svn-r1506
+
+Git (clm3_5):
+root dir: /p/scratch/cjibg36/kaandorp2/TSMP2/clm3_5/.git
+remote url: https://gitlab.jsc.fz-juelich.de/sdlts/tsmp_components_mirrors/clm3.5_fresh.git
+commit: 801b5304179f0a8cbe3dc2c50b584a6bfee387b0
+tag: 801b530
+
+Git (parflow):
+root dir: /p/scratch/cjibg36/kaandorp2/TSMP2/parflow/.git
+remote url: https://github.com/parflow/parflow.git
+commit: bc80e3ac2ba0a517fdb6641828b4bb3fbaa48455
+tag: v3.9.0
+
+----------------------
+
+make -f /p/scratch/cjibg36/kaandorp2/TSMP2/oasis3-mct_JUWELS_3.1.0MCT_clm-pfl/util/make_dir/TopMakefileOasis3 cleanlibs
+make[1]: Entering directory '/p/scratch/cjibg36/kaandorp2/TSMP2/oasis3-mct_JUWELS_3.1.0MCT_clm-pfl/lib/psmile/src'
+cleaning oasis3-mct libraries
+rm -f /p/scratch/cjibg36/kaandorp2/TSMP2/oasis3-mct_JUWELS_3.1.0MCT_clm-pfl/JUWELS/build/lib/scrip/*
+rm -f /p/scratch/cjibg36/kaandorp2/TSMP2/oasis3-mct_JUWELS_3.1.0MCT_clm-pfl/JUWELS/build/lib/mct/*
+rm -f -r /p/scratch/cjibg36/kaandorp2/TSMP2/oasis3-mct_JUWELS_3.1.0MCT_clm-pfl/JUWELS/build/lib/mctdir/*
+rm -f /p/scratch/cjibg36/kaandorp2/TSMP2/oasis3-mct_JUWELS_3.1.0MCT_clm-pfl/JUWELS/build/lib/psmile.MPI1/*
+rm -f /p/scratch/cjibg36/kaandorp2/TSMP2/oasis3-mct_JUWELS_3.1.0MCT_clm-pfl/JUWELS/lib/libscrip.a
+rm -f /p/scratch/cjibg36/kaandorp2/TSMP2/oasis3-mct_JUWELS_3.1.0MCT_clm-pfl/JUWELS/lib/libmct.a
+rm -f /p/scratch/cjibg36/kaandorp2/TSMP2/oasis3-mct_JUWELS_3.1.0MCT_clm-pfl/JUWELS/lib/libmpeu.a
+rm -f /p/scratch/cjibg36/kaandorp2/TSMP2/oasis3-mct_JUWELS_3.1.0MCT_clm-pfl/JUWELS/lib/libpsmile.MPI1.a
+make[1]: Leaving directory '/p/scratch/cjibg36/kaandorp2/TSMP2/oasis3-mct_JUWELS_3.1.0MCT_clm-pfl/lib/psmile/src'
+rm -f /p/scratch/cjibg36/kaandorp2/TSMP2/oasis3-mct_JUWELS_3.1.0MCT_clm-pfl/util/make_dir/COMP.log /p/scratch/cjibg36/kaandorp2/TSMP2/oasis3-mct_JUWELS_3.1.0MCT_clm-pfl/util/make_dir/COMP.err
+make -f /p/scratch/cjibg36/kaandorp2/TSMP2/oasis3-mct_JUWELS_3.1.0MCT_clm-pfl/util/make_dir/TopMakefileOasis3 makedirs
+make[1]: Entering directory '/p/scratch/cjibg36/kaandorp2/TSMP2/oasis3-mct_JUWELS_3.1.0MCT_clm-pfl/lib/psmile/src'
+make[1]: Leaving directory '/p/scratch/cjibg36/kaandorp2/TSMP2/oasis3-mct_JUWELS_3.1.0MCT_clm-pfl/lib/psmile/src'
+make -f /p/scratch/cjibg36/kaandorp2/TSMP2/oasis3-mct_JUWELS_3.1.0MCT_clm-pfl/util/make_dir/TopMakefileOasis3 makemct
+make[1]: Entering directory '/p/scratch/cjibg36/kaandorp2/TSMP2/oasis3-mct_JUWELS_3.1.0MCT_clm-pfl/lib/psmile/src'
+=> Compiling library mpeu and mct
+(cd /p/scratch/cjibg36/kaandorp2/TSMP2/oasis3-mct_JUWELS_3.1.0MCT_clm-pfl/JUWELS/build/lib/mctdir; cp -f -r -p /p/scratch/cjibg36/kaandorp2/TSMP2/oasis3-mct_JUWELS_3.1.0MCT_clm-pfl/lib/mct/* .;\
+         export SCOREP_WRAPPER=off ;\
+         ./configure MPIFC="/p/software/juwels/stages/2020/software/psmpi/5.4.7-1-iccifort-2020.2.254-GCC-9.3.0/bin/mpif90 -O2 -xHost" FC="/p/software/juwels/stages/2020/software/psmpi/5.4.7-1-iccifort-2020.2.254-GCC-9.3.0/bin/mpif90 -O2 -xHost" CC="/p/software/juwels/stages/2020/software/psmpi/5.4.7-1-iccifort-2020.2.254-GCC-9.3.0/bin/mpicc -O2 -xHost" \
+         1>> /p/scratch/cjibg36/kaandorp2/TSMP2/oasis3-mct_JUWELS_3.1.0MCT_clm-pfl/util/make_dir/COMP.log 2>> /p/scratch/cjibg36/kaandorp2/TSMP2/oasis3-mct_JUWELS_3.1.0MCT_clm-pfl/util/make_dir/COMP.err ;\
+         export SCOREP_WRAPPER=on ; \
+         make 1>> /p/scratch/cjibg36/kaandorp2/TSMP2/oasis3-mct_JUWELS_3.1.0MCT_clm-pfl/util/make_dir/COMP.log 2>> /p/scratch/cjibg36/kaandorp2/TSMP2/oasis3-mct_JUWELS_3.1.0MCT_clm-pfl/util/make_dir/COMP.err ; \
+         cp -f ./*/lib*.a   /p/scratch/cjibg36/kaandorp2/TSMP2/oasis3-mct_JUWELS_3.1.0MCT_clm-pfl/JUWELS/lib/; \
+         cp -f ./*/*.o    /p/scratch/cjibg36/kaandorp2/TSMP2/oasis3-mct_JUWELS_3.1.0MCT_clm-pfl/JUWELS/build/lib/mct/; \
+         cp -f ./*/*.mod  /p/scratch/cjibg36/kaandorp2/TSMP2/oasis3-mct_JUWELS_3.1.0MCT_clm-pfl/JUWELS/build/lib/mct/;)
+make[1]: Leaving directory '/p/scratch/cjibg36/kaandorp2/TSMP2/oasis3-mct_JUWELS_3.1.0MCT_clm-pfl/lib/psmile/src'
