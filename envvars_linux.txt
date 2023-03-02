@@ -1,0 +1,145 @@
+LD_LIBRARY_PATH=/p/software/jurecadc/stages/2023/software/binutils/2.38-GCCcore-11.3.0/lib:/p/software/jurecadc/stages/2023/software/zlib/1.2.12-GCCcore-11.3.0/lib:/p/software/jurecadc/stages/2023/software/GCCcore/11.3.0/lib64
+LS_COLORS=rs=0:di=38;5;33:ln=38;5;51:mh=00:pi=40;38;5;11:so=38;5;13:do=38;5;5:bd=48;5;232;38;5;11:cd=48;5;232;38;5;3:or=48;5;232;38;5;9:mi=01;05;37;41:su=48;5;196;38;5;15:sg=48;5;11;38;5;16:ca=48;5;196;38;5;226:tw=48;5;10;38;5;16:ow=48;5;10;38;5;21:st=48;5;21;38;5;15:ex=38;5;40:*.tar=38;5;9:*.tgz=38;5;9:*.arc=38;5;9:*.arj=38;5;9:*.taz=38;5;9:*.lha=38;5;9:*.lz4=38;5;9:*.lzh=38;5;9:*.lzma=38;5;9:*.tlz=38;5;9:*.txz=38;5;9:*.tzo=38;5;9:*.t7z=38;5;9:*.zip=38;5;9:*.z=38;5;9:*.dz=38;5;9:*.gz=38;5;9:*.lrz=38;5;9:*.lz=38;5;9:*.lzo=38;5;9:*.xz=38;5;9:*.zst=38;5;9:*.tzst=38;5;9:*.bz2=38;5;9:*.bz=38;5;9:*.tbz=38;5;9:*.tbz2=38;5;9:*.tz=38;5;9:*.deb=38;5;9:*.rpm=38;5;9:*.jar=38;5;9:*.war=38;5;9:*.ear=38;5;9:*.sar=38;5;9:*.rar=38;5;9:*.alz=38;5;9:*.ace=38;5;9:*.zoo=38;5;9:*.cpio=38;5;9:*.7z=38;5;9:*.rz=38;5;9:*.cab=38;5;9:*.wim=38;5;9:*.swm=38;5;9:*.dwm=38;5;9:*.esd=38;5;9:*.jpg=38;5;13:*.jpeg=38;5;13:*.mjpg=38;5;13:*.mjpeg=38;5;13:*.gif=38;5;13:*.bmp=38;5;13:*.pbm=38;5;13:*.pgm=38;5;13:*.ppm=38;5;13:*.tga=38;5;13:*.xbm=38;5;13:*.xpm=38;5;13:*.tif=38;5;13:*.tiff=38;5;13:*.png=38;5;13:*.svg=38;5;13:*.svgz=38;5;13:*.mng=38;5;13:*.pcx=38;5;13:*.mov=38;5;13:*.mpg=38;5;13:*.mpeg=38;5;13:*.m2v=38;5;13:*.mkv=38;5;13:*.webm=38;5;13:*.ogm=38;5;13:*.mp4=38;5;13:*.m4v=38;5;13:*.mp4v=38;5;13:*.vob=38;5;13:*.qt=38;5;13:*.nuv=38;5;13:*.wmv=38;5;13:*.asf=38;5;13:*.rm=38;5;13:*.rmvb=38;5;13:*.flc=38;5;13:*.avi=38;5;13:*.fli=38;5;13:*.flv=38;5;13:*.gl=38;5;13:*.dl=38;5;13:*.xcf=38;5;13:*.xwd=38;5;13:*.yuv=38;5;13:*.cgm=38;5;13:*.emf=38;5;13:*.ogv=38;5;13:*.ogx=38;5;13:*.aac=38;5;45:*.au=38;5;45:*.flac=38;5;45:*.m4a=38;5;45:*.mid=38;5;45:*.midi=38;5;45:*.mka=38;5;45:*.mp3=38;5;45:*.mpc=38;5;45:*.ogg=38;5;45:*.ra=38;5;45:*.wav=38;5;45:*.oga=38;5;45:*.opus=38;5;45:*.spx=38;5;45:*.xspf=38;5;45:
+LC_MEASUREMENT=de_DE.UTF-8
+EBROOTBINUTILS=/p/software/jurecadc/stages/2023/software/binutils/2.38-GCCcore-11.3.0
+_ModuleTable002_=L3Avc29mdHdhcmUvanVyZWNhZGMvcHJvZHVjdGlvbnN0YWdlcy9TdGFnZXMvMjAyMy5sdWEiLApmdWxsTmFtZSA9ICJTdGFnZXMvMjAyMyIsCmxvYWRPcmRlciA9IDEsCnByb3BUID0gewpsbW9kID0gewpzdGlja3kgPSAxLAp9LAp9LApzdGFja0RlcHRoID0gMCwKc3RhdHVzID0gImFjdGl2ZSIsCnVzZXJOYW1lID0gIlN0YWdlcyIsCndWID0gIl4wMDAwMjAyMy4qemZpbmFsIiwKfSwKU3RkRW52ID0gewpmbiA9ICIvcC9zb2Z0d2FyZS9qdXJlY2FkYy9zdGFnZXMvMjAyMy9VSS9Ub29scy9TdGRFbnYvMjAyMy5sdWEiLApmdWxsTmFtZSA9ICJTdGRFbnYvMjAyMyIsCmxvYWRPcmRlciA9IDUsCnByb3BUID0ge30sCnN0YWNrRGVwdGggPSAwLApzdGF0dXMgPSAiYWN0aXZlIiwK
+SSH_CONNECTION=134.94.67.247 46766 134.94.1.135 22
+LC_PAPER=de_DE.UTF-8
+LC_MONETARY=de_DE.UTF-8
+STAGES=/p/software/jurecadc/stages
+LMOD_MODULERCFILE=/p/software/jurecadc/stages/2023/lmod/modulerc.lua
+SCRATCH_cjibg36=/p/scratch/cjibg36
+LANG=en_US.UTF-8
+HISTCONTROL=ignoredups
+MODULERCFILE=/p/software/jurecadc/configs/modulerc.lua
+DISPLAY=localhost:11.0
+HOSTNAME=jrlogin08.jureca
+JUTIL_ENV_VARS=ARCHIVE_jicg41,HOME,ARCHIVE_slts,ARCHIVE_jibg36,ARCHIVE_detectdata,PROJECT_cjibg36,PROJECT_cjicg41,PROJECT_detectrea,SCRATCH_cjibg36,SCRATCH_cjicg41,SCRATCH_detectrea,DATA_slts,DATA_jibg36,DATA_jicg41,DATA_detectdata
+SCRATCH_detectrea=/p/scratch/detectrea
+ARCHIVE_jicg41=/p/arch/jicg41
+LMOD_RC=/p/software/jurecadc/configs/lmodrc.lua
+DATA_slts=/p/largedata/slts
+EBROOTGCCCORE=/p/software/jurecadc/stages/2023/software/GCCcore/11.3.0
+_ModuleTable004_=YWxsL0NvbXBpbGVyL0dDQ2NvcmUvMTEuMy4wL3psaWIvLjEuMi4xMi5sdWEiLApmdWxsTmFtZSA9ICJ6bGliLy4xLjIuMTIiLApsb2FkT3JkZXIgPSAzLApwcm9wVCA9IHt9LApzdGFja0RlcHRoID0gMiwKc3RhdHVzID0gImFjdGl2ZSIsCnVzZXJOYW1lID0gInpsaWIvLjEuMi4xMiIsCndWID0gIjAwMDAwMDAwMC4wMDAwMDAwMDEuMDAwMDAwMDAyLjAwMDAwMDAxMi4qemZpbmFsIiwKfSwKfSwKbXBhdGhBID0gewoiL3Avc29mdHdhcmUvanVyZWNhZGMvc3RhZ2VzLzIwMjMvbW9kdWxlcy9hbGwvQ29tcGlsZXIvc2lkZWNvbXBpbGVyL0dDQ2NvcmUvMTEuMy4wIiwgIi9wL3NvZnR3YXJlL2p1cmVjYWRjL3N0YWdlcy8yMDIzL21vZHVsZXMvYWxsL0NvbXBpbGVyL0dDQ2NvcmUv
+which_declare=declare -f
+PROJECT_cjibg36=/p/project/cjibg36
+ARCHIVE_jibg36=/p/arch2/jibg36
+EBROOTZLIB=/p/software/jurecadc/stages/2023/software/zlib/1.2.12-GCCcore-11.3.0
+LC_NAME=de_DE.UTF-8
+XDG_SESSION_ID=1565
+USER=kaandorp2
+EBVERSIONGCCCORE=11.3.0
+DATA_jicg41=/p/largedata/jicg41
+__LMOD_REF_COUNT_MODULEPATH=/p/software/jurecadc/stages/2023/modules/all/Compiler/sidecompiler/GCCcore/11.3.0:1;/p/software/jurecadc/stages/2023/modules/all/Compiler/GCCcore/11.3.0:1;/p/software/jurecadc/stages/2023/UI/Defaults:1;/p/software/jurecadc/stages/2023/UI/Tools:1;/p/software/jurecadc/stages/2023/UI/Compilers:1;/p/software/jurecadc/supercomputer_modules:1;/p/software/jurecadc/productionstages:1
+PWD=/p/home/jusers/kaandorp2/jureca
+SSH_ASKPASS=/usr/libexec/openssh/gnome-ssh-askpass
+HOME=/p/home/jusers/kaandorp2/jureca
+CMAKE_PREFIX_PATH=/p/software/jurecadc/stages/2023/software/binutils/2.38-GCCcore-11.3.0:/p/software/jurecadc/stages/2023/software/zlib/1.2.12-GCCcore-11.3.0:/p/software/jurecadc/stages/2023/software/GCCcore/11.3.0
+LMOD_COLORIZE=yes
+SSH_CLIENT=134.94.67.247 46766 22
+JUMO_USRCMD_EXEC=/usr/libexec/jutil-exe
+LMOD_VERSION=8.7.12
+CPATH=/p/software/jurecadc/stages/2023/software/binutils/2.38-GCCcore-11.3.0/include:/p/software/jurecadc/stages/2023/software/zlib/1.2.12-GCCcore-11.3.0/include
+LMOD_SETTARG_CMD=:
+DATA_detectdata=/p/largedata2/detectdata
+BASH_ENV=/p/software/jurecadc/lmod/lmod/init/bash
+XDG_DATA_DIRS=/usr/local/share:/usr/share
+SBB_DISABLE_FSTYPE_CHECK=1
+STAGE=2023
+ARCHIVE_detectdata=/p/arch2/detectdata
+LMOD_SHELL_PRGM=bash
+LC_ADDRESS=de_DE.UTF-8
+LIBRARY_PATH=/p/software/jurecadc/stages/2023/software/binutils/2.38-GCCcore-11.3.0/lib:/p/software/jurecadc/stages/2023/software/zlib/1.2.12-GCCcore-11.3.0/lib
+LC_NUMERIC=de_DE.UTF-8
+LMOD_sys=Linux
+_ModuleTable001_=X01vZHVsZVRhYmxlXyA9IHsKTVR2ZXJzaW9uID0gMywKY19yZWJ1aWxkVGltZSA9IGZhbHNlLApjX3Nob3J0VGltZSA9IGZhbHNlLApkZXB0aFQgPSB7fSwKZmFtaWx5ID0ge30sCm1UID0gewpHQ0Njb3JlID0gewpmbiA9ICIvcC9zb2Z0d2FyZS9qdXJlY2FkYy9zdGFnZXMvMjAyMy9VSS9Db21waWxlcnMvR0NDY29yZS8uMTEuMy4wLmx1YSIsCmZ1bGxOYW1lID0gIkdDQ2NvcmUvLjExLjMuMCIsCmxvYWRPcmRlciA9IDIsCnByb3BUID0ge30sCnN0YWNrRGVwdGggPSAxLApzdGF0dXMgPSAiYWN0aXZlIiwKdXNlck5hbWUgPSAiR0NDY29yZS8uMTEuMy4wIiwKd1YgPSAiMDAwMDAwMDAwLjAwMDAwMDAxMS4wMDAwMDAwMDMuKnpmaW5hbCIsCn0sClN0YWdlcyA9IHsKZm4gPSAi
+LOADEDMODULES=Stages/2023:GCCcore/.11.3.0:zlib/.1.2.12:binutils/.2.38:StdEnv/2023
+LMOD_AVAIL_STYLE=labels
+EBVERSIONZLIB=1.2.12
+_ModuleTable003_=dXNlck5hbWUgPSAiU3RkRW52IiwKd1YgPSAiMDAwMDAyMDIzLip6ZmluYWwiLAp9LApiaW51dGlscyA9IHsKZm4gPSAiL3Avc29mdHdhcmUvanVyZWNhZGMvc3RhZ2VzLzIwMjMvbW9kdWxlcy9hbGwvQ29tcGlsZXIvR0NDY29yZS8xMS4zLjAvYmludXRpbHMvLjIuMzgubHVhIiwKZnVsbE5hbWUgPSAiYmludXRpbHMvLjIuMzgiLApsb2FkT3JkZXIgPSA0LApwcm9wVCA9IHt9LApzdGFja0RlcHRoID0gMSwKc3RhdHVzID0gImFjdGl2ZSIsCnVzZXJOYW1lID0gImJpbnV0aWxzLy4yLjM4IiwKd1YgPSAiMDAwMDAwMDAwLjAwMDAwMDAwMi4wMDAwMDAwMzguKnpmaW5hbCIsCn0sCnpsaWIgPSB7CmZuID0gIi9wL3NvZnR3YXJlL2p1cmVjYWRjL3N0YWdlcy8yMDIzL21vZHVsZXMv
+LMOD_ROOT=/p/software/jurecadc/lmod
+SSH_TTY=/dev/pts/1
+LMOD_DUPLICATE_PATHS=yes
+MAIL=/var/spool/mail/kaandorp2
+LMOD_arch=x86_64
+__Init_Default_Modules=1
+TERM=xterm-256color
+SHELL=/bin/bash
+SOFTWAREROOT=/p/software/jurecadc
+EBDEVELGCCCORE=/p/software/jurecadc/stages/2023/software/GCCcore/11.3.0/easybuild/Core-GCCcore-.11.3.0-easybuild-devel
+_ModuleTable_Sz_=5
+EBDEVELBINUTILS=/p/software/jurecadc/stages/2023/software/binutils/2.38-GCCcore-11.3.0/easybuild/Compiler-GCCcore-11.3.0-binutils-.2.38-easybuild-devel
+SHLVL=1
+MANPATH=/p/software/jurecadc/stages/2023/software/binutils/2.38-GCCcore-11.3.0/share/man:/p/software/jurecadc/stages/2023/software/zlib/1.2.12-GCCcore-11.3.0/share/man:/p/software/jurecadc/stages/2023/software/GCCcore/11.3.0/share/man:/p/software/jurecadc/lmod/lmod/share/man:/usr/local/share/man:/usr/share/man:/opt/ddn/ime/share/man:/opt/ddn/ime/share/man
+OTHERSTAGES=/p/software/jurecadc/otherstages
+LC_TELEPHONE=de_DE.UTF-8
+LMOD_PREPEND_BLOCK=normal
+GDK_BACKEND=x11
+MODULEPATH=/p/software/jurecadc/stages/2023/modules/all/Compiler/sidecompiler/GCCcore/11.3.0:/p/software/jurecadc/stages/2023/modules/all/Compiler/GCCcore/11.3.0:/p/software/jurecadc/stages/2023/UI/Defaults:/p/software/jurecadc/stages/2023/UI/Tools:/p/software/jurecadc/stages/2023/UI/Compilers:/p/software/jurecadc/supercomputer_modules:/p/software/jurecadc/productionstages
+LOGNAME=kaandorp2
+DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-FETtN23bc9,guid=c4acdb615928f3824517535e64009dd4
+XDG_RUNTIME_DIR=/run/user/22093
+EBVERSIONBINUTILS=2.38
+MODULEPATH_ROOT=/p/software/jurecadc/stages/2022/modules/all
+LMOD_PACKAGE_PATH=/p/software/jurecadc/configs
+SCRATCH_cjicg41=/p/scratch/cjicg41
+EBDEVELZLIB=/p/software/jurecadc/stages/2023/software/zlib/1.2.12-GCCcore-11.3.0/easybuild/Compiler-GCCcore-11.3.0-zlib-.1.2.12-easybuild-devel
+DATA_jibg36=/p/largedata/jibg36
+PATH=/p/software/jurecadc/stages/2023/software/binutils/2.38-GCCcore-11.3.0/bin:/p/software/jurecadc/stages/2023/software/GCCcore/11.3.0/bin:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/opt/ddn/ime/bin:/opt/jsc/bin:/usr/local/jsc/bin:/opt/parastation/bin:/p/software/jurecadc/bin
+SYSTEMNAME=jurecadc
+LC_IDENTIFICATION=de_DE.UTF-8
+_LMFILES_=/p/software/jurecadc/productionstages/Stages/2023.lua:/p/software/jurecadc/stages/2023/UI/Compilers/GCCcore/.11.3.0.lua:/p/software/jurecadc/stages/2023/modules/all/Compiler/GCCcore/11.3.0/zlib/.1.2.12.lua:/p/software/jurecadc/stages/2023/modules/all/Compiler/GCCcore/11.3.0/binutils/.2.38.lua:/p/software/jurecadc/stages/2023/UI/Tools/StdEnv/2023.lua
+DEBUGINFOD_URLS=https://debuginfod.centos.org/ 
+ARCHIVE_slts=/p/arch2/slts
+MODULESHOME=/p/software/jurecadc/lmod/8.7.12
+PKG_CONFIG_PATH=/p/software/jurecadc/stages/2023/software/zlib/1.2.12-GCCcore-11.3.0/lib/pkgconfig
+LMOD_SETTARG_FULL_SUPPORT=no
+HISTSIZE=1000
+LMOD_PKG=/p/software/jurecadc/lmod/8.7.12
+PROJECT_detectrea=/p/project/detectrea
+CMAKE_LIBRARY_PATH=/p/software/jurecadc/stages/2023/software/GCCcore/11.3.0/lib64
+PROJECT_cjicg41=/p/project/cjicg41
+_ModuleTable005_=MTEuMy4wIgosICIvcC9zb2Z0d2FyZS9qdXJlY2FkYy9zdGFnZXMvMjAyMy9VSS9EZWZhdWx0cyIsICIvcC9zb2Z0d2FyZS9qdXJlY2FkYy9zdGFnZXMvMjAyMy9VSS9Ub29scyIsICIvcC9zb2Z0d2FyZS9qdXJlY2FkYy9zdGFnZXMvMjAyMy9VSS9Db21waWxlcnMiLCAiL3Avc29mdHdhcmUvanVyZWNhZGMvc3VwZXJjb21wdXRlcl9tb2R1bGVzIiwgIi9wL3NvZnR3YXJlL2p1cmVjYWRjL3Byb2R1Y3Rpb25zdGFnZXMiLAp9LApzeXN0ZW1CYXNlTVBBVEggPSAiL3Avc29mdHdhcmUvanVyZWNhZGMvc3VwZXJjb21wdXRlcl9tb2R1bGVzOi9wL3NvZnR3YXJlL2p1cmVjYWRjL3Byb2R1Y3Rpb25zdGFnZXMiLAp9Cg==
+LMOD_CMD=/p/software/jurecadc/lmod/8.7.12/libexec/lmod
+LESSOPEN=||/usr/bin/lesspipe.sh %s
+LMOD_FULL_SETTARG_SUPPORT=no
+LMOD_DIR=/p/software/jurecadc/lmod/8.7.12/libexec
+LC_TIME=de_DE.UTF-8
+BASH_FUNC_jutil%%=() {  if [ $# -ge 1 ] && [ "$1" = "env" ]; then
+ eval $($JUMO_USRCMD_EXEC $@);
+ else
+ $JUMO_USRCMD_EXEC $@;
+ fi
+}
+BASH_FUNC_which%%=() {  ( alias;
+ eval ${which_declare} ) | /usr/bin/which --tty-only --read-alias --read-functions --show-tilde --show-dot $@
+}
+BASH_FUNC_module%%=() {  if [ -z "${LMOD_SH_DBG_ON+x}" ]; then
+ case "$-" in 
+ *v*x*)
+ __lmod_sh_dbg='vx'
+ ;;
+ *v*)
+ __lmod_sh_dbg='v'
+ ;;
+ *x*)
+ __lmod_sh_dbg='x'
+ ;;
+ esac;
+ fi;
+ if [ -n "${__lmod_sh_dbg:-}" ]; then
+ set +$__lmod_sh_dbg;
+ echo "Shell debugging temporarily silenced: export LMOD_SH_DBG_ON=1 for Lmod's output" 1>&2;
+ fi;
+ eval "$($LMOD_CMD $LMOD_SHELL_PRGM "$@")" && eval "$(${LMOD_SETTARG_CMD:-:} -s sh)";
+ __lmod_my_status=$?;
+ if [ -n "${__lmod_sh_dbg:-}" ]; then
+ echo "Shell debugging restarted" 1>&2;
+ set -$__lmod_sh_dbg;
+ fi;
+ unset __lmod_sh_dbg;
+ return $__lmod_my_status
+}
+BASH_FUNC_ml%%=() {  eval "$($LMOD_DIR/ml_cmd "$@")"
+}
+_=/usr/bin/printenv
