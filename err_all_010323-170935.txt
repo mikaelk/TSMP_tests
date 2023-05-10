@@ -1,0 +1,34 @@
+
+  Preparing the environment for use of requested stage ( 2020 ).
+
+
+Currently Loaded Modules:
+  1) Stages/2020                (S)    15) imkl/2020.2.254          29) xorg-macros/.1.19.2  (H)  43) netCDF-Fortran/4.5.3        57) Python/3.8.5
+  2) GCCcore/.9.3.0             (H)    16) Hypre/2.20.0             30) libpciaccess/.0.16   (H)  44) parallel-netcdf/1.12.1      58) UDUNITS/.2.2.26                     (H)
+  3) zlib/.1.2.11               (H)    17) Silo/4.10.2              31) X11/20200222              45) cURL/7.71.1                 59) GSL/2.6
+  4) binutils/.2.34             (H)    18) Tcl/8.6.10               32) libdrm/.2.4.99       (H)  46) Szip/.2.1.1            (H)  60) Java/1.8_292-b10-OpenJDK
+  5) Intel/2020.2.254-GCC-9.3.0        19) GMP/6.2.0                33) LLVM/10.0.1               47) libreadline/.8.0       (H)  61) ANTLR/.2.7.7-Python-3.8.5           (H)
+  6) numactl/2.0.13                    20) nettle/.3.6         (H)  34) libunwind/.1.4.0     (H)  48) SQLite/.3.32.3         (H)  62) libiconv/.1.16                      (H)
+  7) nvidia-driver/.default     (H,g)  21) bzip2/.1.0.8        (H)  35) OpenGL/2020          (g)  49) Tk/.8.6.10             (H)  63) libxml2-python/.2.9.10-Python-3.8.5 (H)
+  8) CUDA/11.0                  (g)    22) expat/.2.2.9        (H)  36) freeglut/.3.2.1      (H)  50) libxslt/.1.1.34        (H)  64) libdap/.3.20.6                      (H)
+  9) UCX/1.9.0                         23) libpng/.1.6.37      (H)  37) NASM/.2.15.03        (H)  51) libffi/.3.3            (H)  65) NCO/4.9.5
+ 10) pscom/.5.4-default         (H)    24) freetype/.2.10.1    (H)  38) libjpeg-turbo/.2.0.5 (H)  52) libyaml/.0.2.5         (H)  66) CMake/3.18.0
+ 11) XZ/.5.2.5                  (H)    25) gperf/.3.1          (H)  39) JasPer/.2.0.19       (H)  53) PostgreSQL/12.3
+ 12) libxml2/.2.9.10            (H)    26) ncurses/.6.2        (H)  40) ecCodes/2.18.0            54) protobuf/.3.13.0       (H)
+ 13) mpi-settings/UCX-plain            27) util-linux/.2.36    (H)  41) HDF5/1.10.6               55) gflags/.2.2.2          (H)
+ 14) ParaStationMPI/5.4.7-1     (g)    28) fontconfig/.2.13.92 (H)  42) netCDF/4.7.4              56) libspatialindex/.1.9.3 (H)
+
+  Where:
+   H:  Hidden Module
+   S:  Module is Sticky, requires --force to unload or purge
+   g:  built for GPU
+
+ 
+
+make[1]: warning: jobserver unavailable: using -j1.  Add '+' to parent make rule.
+make[1]: warning: jobserver unavailable: using -j1.  Add '+' to parent make rule.
+cp: cannot stat './*/lib*.a': No such file or directory
+cp: cannot stat './*/*.o': No such file or directory
+cp: cannot stat './*/*.mod': No such file or directory
+make[1]: *** [/p/scratch/cjibg36/kaandorp2/TSMP2/oasis3-mct_JUWELS_3.1.0MCT_clm-pfl/util/make_dir/TopMakefileOasis3:55: makemct] Error 1
+make: *** [/p/scratch/cjibg36/kaandorp2/TSMP2/oasis3-mct_JUWELS_3.1.0MCT_clm-pfl/util/make_dir/TopMakefileOasis3:35: oasis3_psmile] Error 2
