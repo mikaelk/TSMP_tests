@@ -1,0 +1,240 @@
+/var/spool/parastation/jobs/7880910: line 16: loadenvs: No such file or directory
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+application called MPI_Abort(comm=0x84000001, 1) - process 0Fatal error in PMPI_Waitany: Other MPI error, error stack:
+PMPI_Waitany(282)...: MPI_Waitany(count=1, req_array=0x7ffc59f6db40, index=0x7ffc59f6c1a0, status=0x7ffc59f6f340) failed
+PMPI_Waitany(265)...: 
+mpid_irecv_done(103): read from socket failed - request state:recv(pde)doneFatal error in PMPI_Waitany: Other MPI error, error stack:
+PMPI_Waitany(282)...: MPI_Waitany(count=1, req_array=0x7ffd5a0bb540, index=0x7ffd5a0b9ba0, status=0x7ffd5a0bcd40) failed
+PMPI_Waitany(265)...: 
+mpid_irecv_done(103): read from socket failed - request state:recv(pde)doneFatal error in PMPI_Waitany: Other MPI error, error stack:
+PMPI_Waitany(282)...: MPI_Waitany(count=1, req_array=0x7ffe4c9341c0, index=0x7ffe4c932820, status=0x7ffe4c9359c0) failed
+PMPI_Waitany(265)...: 
+mpid_irecv_done(103): read from socket failed - request state:recv(pde)doneFatal error in PMPI_Waitany: Other MPI error, error stack:
+PMPI_Waitany(282)...: MPI_Waitany(count=1, req_array=0x7ffdd23dd640, index=0x7ffdd23dbca0, status=0x7ffdd23dee40) failed
+PMPI_Waitany(265)...: 
+mpid_irecv_done(103): read from socket failed - request state:recv(pde)doneFatal error in PMPI_Waitany: Other MPI error, error stack:
+PMPI_Waitany(282)...: MPI_Waitany(count=1, req_array=0x7ffddeab58c0, index=0x7ffddeab3f20, status=0x7ffddeab70c0) failed
+PMPI_Waitany(265)...: 
+mpid_irecv_done(103): read from socket failed - request state:recv(pde)doneFatal error in PMPI_Waitany: Other MPI error, error stack:
+PMPI_Waitany(282)...: MPI_Waitany(count=1, req_array=0x7ffc65954340, index=0x7ffc659529a0, status=0x7ffc65955b40) failed
+PMPI_Waitany(265)...: 
+mpid_irecv_done(103): read from socket failed - request state:recv(pde)doneFatal error in PMPI_Waitany: Other MPI error, error stack:
+PMPI_Waitany(282)...: MPI_Waitany(count=1, req_array=0x7ffcd7ac7940, index=0x7ffcd7ac5fa0, status=0x7ffcd7ac9140) failed
+PMPI_Waitany(265)...: 
+mpid_irecv_done(103): read from socket failed - request state:recv(pde)doneFatal error in PMPI_Waitany: Other MPI error, error stack:
+PMPI_Waitany(282)...: MPI_Waitany(count=1, req_array=0x7ffea60496c0, index=0x7ffea6047d20, status=0x7ffea604aec0) failed
+PMPI_Waitany(265)...: 
+mpid_irecv_done(103): read from socket failed - request state:recv(pde)doneFatal error in PMPI_Waitany: Other MPI error, error stack:
+PMPI_Waitany(282)...: MPI_Waitany(count=1, req_array=0x7ffddcd10840, index=0x7ffddcd0eea0, status=0x7ffddcd12040) failed
+PMPI_Waitany(265)...: 
+mpid_irecv_done(103): read from socket failed - request state:recv(pde)doneFatal error in PMPI_Waitany: Other MPI error, error stack:
+PMPI_Waitany(282)...: MPI_Waitany(count=1, req_array=0x7ffe55fbe340, index=0x7ffe55fbc9a0, status=0x7ffe55fbfb40) failed
+PMPI_Waitany(265)...: 
+mpid_irecv_done(103): read from socket failed - request state:recv(pde)doneFatal error in PMPI_Waitany: Other MPI error, error stack:
+PMPI_Waitany(282)...: MPI_Waitany(count=1, req_array=0x7fff1a197440, index=0x7fff1a195aa0, status=0x7fff1a198c40) failed
+PMPI_Waitany(265)...: 
+mpid_irecv_done(103): read from socket failed - request state:recv(pde)doneFatal error in PMPI_Waitany: Other MPI error, error stack:
+PMPI_Waitany(282)...: MPI_Waitany(count=1, req_array=0x7ffd5fb21a40, index=0x7ffd5fb200a0, status=0x7ffd5fb23240) failed
+PMPI_Waitany(265)...: 
+mpid_irecv_done(103): read from socket failed - request state:recv(pde)doneFatal error in PMPI_Waitany: Other MPI error, error stack:
+PMPI_Waitany(282)...: MPI_Waitany(count=1, req_array=0x7ffd382e9440, index=0x7ffd382e7aa0, status=0x7ffd382eac40) failed
+PMPI_Waitany(265)...: 
+mpid_irecv_done(103): read from socket failed - request state:recv(pde)doneFatal error in PMPI_Waitany: Other MPI error, error stack:
+PMPI_Waitany(282)...: MPI_Waitany(count=1, req_array=0x7ffef14bbfc0, index=0x7ffef14ba620, status=0x7ffef14bd7c0) failed
+PMPI_Waitany(265)...: 
+mpid_irecv_done(103): read from socket failed - request state:recv(pde)donereadFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+Fatal error in PMPI_Waitall: See the MPI_ERROR field in MPI_Status for the error codeFatal error in PMPI_Waitall: See the MPI_ERROR field in MPI_Status for the error codeFatal error in PMPI_Waitall: See the MPI_ERROR field in MPI_Status for the error codeFatal error in PMPI_Waitall: See the MPI_ERROR field in MPI_Status for the error codeFatal error in PMPI_Waitall: See the MPI_ERROR field in MPI_Status for the error codeFatal error in PMPI_Waitall: See the MPI_ERROR field in MPI_Status for the error codeFatal error in PMPI_Waitall: See the MPI_ERROR field in MPI_Status for the error codeFatal error in PMPI_Waitall: See the MPI_ERROR field in MPI_Status for the error codeFatal error in PMPI_Waitall: See the MPI_ERROR field in MPI_Status for the error codeFatal error in PMPI_Waitall: See the MPI_ERROR field in MPI_Status for the error codeFatal error in PMPI_Waitall: See the MPI_ERROR field in MPI_Status for the error codeFatal error in PMPI_Waitall: See the MPI_ERROR field in MPI_Status for the error codeFatal error in PMPI_Waitall: See the MPI_ERROR field in MPI_Status for the error codeFatal error in PMPI_Waitall: See the MPI_ERROR field in MPI_Status for the error codeFatal error in PMPI_Waitall: See the MPI_ERROR field in MPI_Status for the error codeFatal error in PMPI_Waitall: See the MPI_ERROR field in MPI_Status for the error codeFatal error in PMPI_Waitall: See the MPI_ERROR field in MPI_Status for the error codeFatal error in PMPI_Waitall: See the MPI_ERROR field in MPI_Status for the error codeFatal error in PMPI_Waitall: See the MPI_ERROR field in MPI_Status for the error codeFatal error in PMPI_Waitall: See the MPI_ERROR field in MPI_Status for the error codeFatal error in PMPI_Waitall: See the MPI_ERROR field in MPI_Status for the error codeFatal error in PMPI_Waitall: See the MPI_ERROR field in MPI_Status for the error codeFatal error in PMPI_Waitall: See the MPI_ERROR field in MPI_Status for the error codeFatal error in PMPI_Waitall: See the MPI_ERROR field in MPI_Status for the error codeFatal error in PMPI_Waitall: See the MPI_ERROR field in MPI_Status for the error codeFatal error in PMPI_Waitall: See the MPI_ERROR field in MPI_Status for the error codeFatal error in PMPI_Waitall: See the MPI_ERROR field in MPI_Status for the error codeFatal error in PMPI_Waitall: See the MPI_ERROR field in MPI_Status for the error codeFatal error in PMPI_Waitall: See the MPI_ERROR field in MPI_Status for the error codeFatal error in PMPI_Waitall: See the MPI_ERROR field in MPI_Status for the error codeFatal error in PMPI_Waitall: See the MPI_ERROR field in MPI_Status for the error codeFatal error in PMPI_Waitall: See the MPI_ERROR field in MPI_Status for the error codeFatal error in PMPI_Waitall: See the MPI_ERROR field in MPI_Status for the error codeFatal error in PMPI_Waitall: See the MPI_ERROR field in MPI_Status for the error codeFatal error in PMPI_Waitall: See the MPI_ERROR field in MPI_Status for the error codeFatal error in PMPI_Waitall: See the MPI_ERROR field in MPI_Status for the error codeFatal error in PMPI_Waitall: See the MPI_ERROR field in MPI_Status for the error codeFatal error in PMPI_Waitall: See the MPI_ERROR field in MPI_Status for the error codeFatal error in PMPI_Waitall: See the MPI_ERROR field in MPI_Status for the error codeFatal error in PMPI_Waitall: See the MPI_ERROR field in MPI_Status for the error codeFatal error in PMPI_Waitall: See the MPI_ERROR field in MPI_Status for the error codeFatal error in PMPI_Waitall: See the MPI_ERROR field in MPI_Status for the error codeFatal error in PMPI_Waitall: See the MPI_ERROR field in MPI_Status for the error codeFatal error in PMPI_Waitall: See the MPI_ERROR field in MPI_Status for the error codeFatal error in PMPI_Waitall: See the MPI_ERROR field in MPI_Status for the error codeFatal error in PMPI_Waitall: See the MPI_ERROR field in MPI_Status for the error codeFatal error in PMPI_Waitall: See the MPI_ERROR field in MPI_Status for the error codeFatal error in PMPI_Waitall: See the MPI_ERROR field in MPI_Status for the error codeFatal error in PMPI_Waitall: See the MPI_ERROR field in MPI_Status for the error codeFatal error in PMPI_Waitall: See the MPI_ERROR field in MPI_Status for the error codeFatal error in PMPI_Waitall: See the MPI_ERROR field in MPI_Status for the error codeFatal error in PMPI_Waitall: See the MPI_ERROR field in MPI_Status for the error codeFatal error in PMPI_Waitall: See the MPI_ERROR field in MPI_Status for the error codeFatal error in PMPI_Waitall: See the MPI_ERROR field in MPI_Status for the error codeFatal error in PMPI_Waitall: See the MPI_ERROR field in MPI_Status for the error codeFatal error in PMPI_Waitall: See the MPI_ERROR field in MPI_Status for the error codeFatal error in PMPI_Waitall: See the MPI_ERROR field in MPI_Status for the error codeFatal error in PMPI_Waitall: See the MPI_ERROR field in MPI_Status for the error codeFatal error in PMPI_Waitall: See the MPI_ERROR field in MPI_Status for the error codeFatal error in PMPI_Waitall: See the MPI_ERROR field in MPI_Status for the error codeFatal error in PMPI_Waitall: See the MPI_ERROR field in MPI_Status for the error codeFatal error in PMPI_Waitall: See the MPI_ERROR field in MPI_Status for the error codeFatal error in PMPI_Waitall: See the MPI_ERROR field in MPI_Status for the error codeFatal error in PMPI_Waitall: See the MPI_ERROR field in MPI_Status for the error codeFatal error in PMPI_Waitall: See the MPI_ERROR field in MPI_Status for the error codeFatal error in PMPI_Waitall: See the MPI_ERROR field in MPI_Status for the error codeFatal error in PMPI_Waitall: See the MPI_ERROR field in MPI_Status for the error codeFatal error in PMPI_Waitall: See the MPI_ERROR field in MPI_Status for the error codeFatal error in PMPI_Waitall: See the MPI_ERROR field in MPI_Status for the error codeFatal error in PMPI_Waitall: See the MPI_ERROR field in MPI_Status for the error codeFatal error in PMPI_Waitall: See the MPI_ERROR field in MPI_Status for the error codeFatal error in PMPI_Waitall: See the MPI_ERROR field in MPI_Status for the error codeFatal error in PMPI_Waitall: See the MPI_ERROR field in MPI_Status for the error codeFatal error in PMPI_Waitall: See the MPI_ERROR field in MPI_Status for the error codeFatal error in PMPI_Waitall: See the MPI_ERROR field in MPI_Status for the error codeFatal error in PMPI_Waitall: See the MPI_ERROR field in MPI_Status for the error codeFatal error in PMPI_Waitall: See the MPI_ERROR field in MPI_Status for the error codeFatal error in PMPI_Waitall: See the MPI_ERROR field in MPI_Status for the error codeFatal error in PMPI_Waitall: See the MPI_ERROR field in MPI_Status for the error codeFatal error in PMPI_Waitall: See the MPI_ERROR field in MPI_Status for the error codereadFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+srun: error: jwc02n140: tasks 48-80: Exited with exit code 17
+srun: error: jwc02n140: task 81: Exited with exit code 1
+srun: error: jwc02n140: tasks 82-95: Exited with exit code 143
+srun: error: jwc02n139: tasks 0-47: Terminated
+srun: Force Terminated StepId=7880910.0
