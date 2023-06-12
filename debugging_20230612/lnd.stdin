@@ -1,0 +1,36 @@
+&clm_inparm
+ caseid         = 'clm'
+ ctitle         = 'clm'
+ nsrest         =  0
+ nelapse        =  -364 
+ dtime          =  900
+ start_ymd      =  20120106
+ start_tod      =  43200 
+
+ finidat        = '/p/project/cjibg36/kaandorp2/TSMP_patched/tsmp_cordex_111x108/run_20110107-20120106/clm.clm2.r.2012-01-06-43200.nc'
+ flndtopo       = '../input_clm/topodata_CLM_EUR-11_TSMP_FZJ-IBG3_CLMPFLDomain_111x108.nc'
+ fsurdat        = '../input_clm/surfdata_CLM_EUR-11_TSMP_FZJ-IBG3_CLMPFLDomain_111x108.nc'
+ fatmgrid       = '../input_clm/griddata_CLM_EUR-11_TSMP_FZJ-IBG3_CLMPFLDomain_111x108.nc'
+ fatmlndfrc     = '../input_clm/fracdata_CLM_EUR-11_TSMP_FZJ-IBG3_CLMPFLDomain_111x108.nc'
+ fatmtopo       = ''
+ fpftcon        = '../input_clm/pft-physiology.c110504'
+ offline_atmdir = '/p/scratch/cjibg36/kaandorp2/data/ERA5_EUR-44_CLM'
+ frivinp_rtm    = ''
+
+ hist_empty_htapes = .true.
+ hist_dov2xy    = .true.
+ hist_avgflag_pertape = 'A'
+ hist_nhtfrq    =  -168
+ hist_mfilt     =  1
+ hist_crtinic   = 'NONE'
+ mss_irt        =  0 
+ hist_fincl1     = 'H2OSOI','SOILLIQ','WT','FSH','FSDS','FLDS','FGR','FGEV','FCTR','FCEV','FSR','FIRA','TBOT','TSA','QFLX_RAIN_GRND','QFLX_SNOW_GRND','QFLX_EVAP_TOT'
+
+ irad           =  1
+ wrtdia         = .true.
+ archive_dir    = ''
+ rest_flag      = .true. 
+ rpntpath       = '../input_clm/lnd.clmoas.rpointer'
+/
+ &prof_inparm
+ /
