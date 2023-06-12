@@ -1,0 +1,25 @@
+#!/bin/bash
+
+#SBATCH --job-name="TSMP"
+#SBATCH --nodes=2
+#SBATCH --ntasks=96
+#SBATCH --ntasks-per-node=48
+#SBATCH --output=mpiMPMD-out.%j
+#SBATCH --error=mpiMPMD-err.%j
+#SBATCH --time=1-00:00:00
+#SBATCH --partition=batch
+#SBATCH --mail-type=NONE
+#SBATCH --account=jibg36 
+
+export PSP_RENDEZVOUS_OPENIB=-1
+
+source loadenvs
+date
+echo "started" > started.txt
+rm -rf YU*
+export 
+srun --multi-prog slm_multiprog_mapping.conf
+date
+echo "ready" > ready.txt
+exit 0
+

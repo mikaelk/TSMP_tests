@@ -1,0 +1,3612 @@
+ oasis_namcouple_init open namcouple file namcouple with unit number 
+        1026
+  
+   ROUTINE inipar_alloc - Level 0
+   ********************   *******
+  
+   Initialization of run parameters
+  
+   Reading input file namcouple
+  
+  
+* ===>>> : The number of models for this run is nmodel =                  2
+  ------   ---------------------------------------------                        
+
+* ===>>> : The number of exchanged fields is nfield =                 30
+  ------   ------------------------------------------                           
+
+ lncdfrst = F
+ CLVARI=
+ 111                                                                            
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                     
+ LG_STATE cg_c=
+ SCRIPR                                                                         
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                     
+ CLVARI=
+ 111                                                                            
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                     
+ LG_STATE cg_c=
+ SCRIPR                                                                         
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                     
+ CLVARI=
+ 111                                                                            
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                     
+ LG_STATE cg_c=
+ SCRIPR                                                                         
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                     
+ CLVARI=
+ 111                                                                            
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                     
+ LG_STATE cg_c=
+ SCRIPR                                                                         
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                     
+ CLVARI=
+ 111                                                                            
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                     
+ LG_STATE cg_c=
+ SCRIPR                                                                         
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                     
+ CLVARI=
+ 111                                                                            
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                     
+ LG_STATE cg_c=
+ SCRIPR                                                                         
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                     
+ CLVARI=
+ 111                                                                            
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                     
+ LG_STATE cg_c=
+ SCRIPR                                                                         
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                     
+ CLVARI=
+ 111                                                                            
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                     
+ LG_STATE cg_c=
+ SCRIPR                                                                         
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                     
+ CLVARI=
+ 111                                                                            
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                     
+ LG_STATE cg_c=
+ SCRIPR                                                                         
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                     
+ CLVARI=
+ 111                                                                            
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                     
+ LG_STATE cg_c=
+ SCRIPR                                                                         
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                     
+ CLVARI=
+ 111                                                                            
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                     
+ LG_STATE cg_c=
+ SCRIPR                                                                         
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                     
+ CLVARI=
+ 111                                                                            
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                     
+ LG_STATE cg_c=
+ SCRIPR                                                                         
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                     
+ CLVARI=
+ 111                                                                            
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                     
+ LG_STATE cg_c=
+ SCRIPR                                                                         
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                     
+ CLVARI=
+ 111                                                                            
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                     
+ LG_STATE cg_c=
+ SCRIPR                                                                         
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                     
+ CLVARI=
+ 111                                                                            
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                     
+ LG_STATE cg_c=
+ SCRIPR                                                                         
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                     
+ CLVARI=
+ 111                                                                            
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                     
+ LG_STATE cg_c=
+ SCRIPR                                                                         
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                     
+ CLVARI=
+ 111                                                                            
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                     
+ LG_STATE cg_c=
+ SCRIPR                                                                         
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                     
+ CLVARI=
+ 111                                                                            
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                     
+ LG_STATE cg_c=
+ SCRIPR                                                                         
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                     
+ CLVARI=
+ 111                                                                            
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                     
+ LG_STATE cg_c=
+ SCRIPR                                                                         
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                     
+ CLVARI=
+ 111                                                                            
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                     
+ LG_STATE cg_c=
+ SCRIPR                                                                         
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                     
+ CLVARI=
+ 11988                                                                          
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                     
+ LG_STATE cg_c=
+ SCRIPR                                                                         
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                     
+ CLVARI=
+ 11988                                                                          
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                     
+ LG_STATE cg_c=
+ SCRIPR                                                                         
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                     
+ CLVARI=
+ 11988                                                                          
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                     
+ LG_STATE cg_c=
+ SCRIPR                                                                         
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                     
+ CLVARI=
+ 11988                                                                          
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                     
+ LG_STATE cg_c=
+ SCRIPR                                                                         
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                     
+ CLVARI=
+ 11988                                                                          
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                     
+ LG_STATE cg_c=
+ SCRIPR                                                                         
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                     
+ CLVARI=
+ 11988                                                                          
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                     
+ LG_STATE cg_c=
+ SCRIPR                                                                         
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                     
+ CLVARI=
+ 11988                                                                          
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                     
+ LG_STATE cg_c=
+ SCRIPR                                                                         
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                     
+ CLVARI=
+ 11988                                                                          
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                     
+ LG_STATE cg_c=
+ SCRIPR                                                                         
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                     
+ CLVARI=
+ 11988                                                                          
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                     
+ LG_STATE cg_c=
+ SCRIPR                                                                         
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                     
+ CLVARI=
+ 11988                                                                          
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                     
+ LG_STATE cg_c=
+ SCRIPR                                                                         
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                     
+ Max number of neighbors for GAUSSIAN interp :            1
+  
+ Maximum number of different GAUSSIAN interpolations :            1
+  
+  
+ -- End of ROUTINE inipar_alloc --
+  
+    ROUTINE inipar  -  Level 0
+    **************     *******
+  
+    Initialization of run parameters
+    Reading input file namcouple
+  
+   Name for model 1 is oaspfl
+
+   Name for model 2 is oasclm
+
+  
+ The maximum Fortran unit number used in model is           1          99
+  
+  
+ The maximum Fortran unit number used in model is           2          99
+  
+* ===>>> : The total time for this run is ntime =             604800
+  ------   --------------------------------------                               
+
+* ===>>> : The information mode is activated ? ==>    
+  ------   ---------------------------------------                              
+
+         ***WARNING***
+  Nothing on input for time statistic 
+  Default value 0 will be used 
+  
+* ===>>> : The printing level is nlogprt =                  0
+  ------   -------------------------------                                      
+
+* ===>>> : The time statistics level is ntlogprt =                  0
+  ------   ---------------------------------------                              
+
+
+     No lag in namcouple for the field  1
+      Default value LAG=0 will be used 
+
+     No lag in namcouple for the field  2
+      Default value LAG=0 will be used 
+
+     No lag in namcouple for the field  3
+      Default value LAG=0 will be used 
+
+     No lag in namcouple for the field  4
+      Default value LAG=0 will be used 
+
+     No lag in namcouple for the field  5
+      Default value LAG=0 will be used 
+
+     No lag in namcouple for the field  6
+      Default value LAG=0 will be used 
+
+     No lag in namcouple for the field  7
+      Default value LAG=0 will be used 
+
+     No lag in namcouple for the field  8
+      Default value LAG=0 will be used 
+
+     No lag in namcouple for the field  9
+      Default value LAG=0 will be used 
+
+     No lag in namcouple for the field 10
+      Default value LAG=0 will be used 
+
+     No lag in namcouple for the field 11
+      Default value LAG=0 will be used 
+
+     No lag in namcouple for the field 12
+      Default value LAG=0 will be used 
+
+     No lag in namcouple for the field 13
+      Default value LAG=0 will be used 
+
+     No lag in namcouple for the field 14
+      Default value LAG=0 will be used 
+
+     No lag in namcouple for the field 15
+      Default value LAG=0 will be used 
+
+     No lag in namcouple for the field 16
+      Default value LAG=0 will be used 
+
+     No lag in namcouple for the field 17
+      Default value LAG=0 will be used 
+
+     No lag in namcouple for the field 18
+      Default value LAG=0 will be used 
+
+     No lag in namcouple for the field 19
+      Default value LAG=0 will be used 
+
+     No lag in namcouple for the field 20
+      Default value LAG=0 will be used 
+
+     No lag in namcouple for the field 21
+      Default value LAG=0 will be used 
+
+     No lag in namcouple for the field 22
+      Default value LAG=0 will be used 
+
+     No lag in namcouple for the field 23
+      Default value LAG=0 will be used 
+
+     No lag in namcouple for the field 24
+      Default value LAG=0 will be used 
+
+     No lag in namcouple for the field 25
+      Default value LAG=0 will be used 
+
+     No lag in namcouple for the field 26
+      Default value LAG=0 will be used 
+
+     No lag in namcouple for the field 27
+      Default value LAG=0 will be used 
+
+     No lag in namcouple for the field 28
+      Default value LAG=0 will be used 
+
+     No lag in namcouple for the field 29
+      Default value LAG=0 will be used 
+
+     No lag in namcouple for the field 30
+      Default value LAG=0 will be used 
+
+
+                 FIELD NUMBER   1
+                 ************  
+
+            Field parameters 
+            ****************  
+
+
+            Input field symbolic name       = PFLSAT01
+            Output field symbolic name      = CLMSAT01
+            Field exchange frequency        =      900
+            Model sequential index          =  1
+            Field Lag                       =        0
+            Field I/O status                = EXPOUT  
+            Number of basic operations      =    1
+
+
+            Restart file name               = pfl01.nc
+
+
+            Source grid periodicity type is      = R       
+            Number of overlapped grid points is  =  0
+            Target grid periodicity type is      = R       
+            Number of overlapped grid points is  =  0
+
+
+            Source longitude file string    = gpfl.lon
+            Source latitude file string     = gpfl.lat
+            Source mask file string         = gpfl.msk
+            Source surface file string      = gpfl.srf
+            Target longitude file string    = gclm.lon
+            Target latitude file string     = gclm.lat
+            Target mask file string         = gclm.msk
+            Target surface file string      = gclm.srf
+
+
+            ANALYSIS PARAMETERS 
+            ******************* 
+
+
+       ANALYSIS number  1 is SCRIPR  
+       ***************  
+
+      Remapping method is               = BILINEAR
+      Field type is                     = SCALAR  
+      Normalization option is           = NONORM  
+      Seach restriction type is         = LATLON  
+      Number of search bins is          =    1
+
+
+                 FIELD NUMBER   2
+                 ************  
+
+            Field parameters 
+            ****************  
+
+
+            Input field symbolic name       = PFLSAT02
+            Output field symbolic name      = CLMSAT02
+            Field exchange frequency        =      900
+            Model sequential index          =  1
+            Field Lag                       =        0
+            Field I/O status                = EXPORTED
+            Number of basic operations      =    1
+
+
+            Restart file name               = pfl02.nc
+
+
+            Source grid periodicity type is      = R       
+            Number of overlapped grid points is  =  0
+            Target grid periodicity type is      = R       
+            Number of overlapped grid points is  =  0
+
+
+            Source longitude file string    = gpfl.lon
+            Source latitude file string     = gpfl.lat
+            Source mask file string         = gpfl.msk
+            Source surface file string      = gpfl.srf
+            Target longitude file string    = gclm.lon
+            Target latitude file string     = gclm.lat
+            Target mask file string         = gclm.msk
+            Target surface file string      = gclm.srf
+
+
+            ANALYSIS PARAMETERS 
+            ******************* 
+
+
+       ANALYSIS number  1 is SCRIPR  
+       ***************  
+
+      Remapping method is               = BILINEAR
+      Field type is                     = SCALAR  
+      Normalization option is           = NONORM  
+      Seach restriction type is         = LATLON  
+      Number of search bins is          =    1
+
+
+                 FIELD NUMBER   3
+                 ************  
+
+            Field parameters 
+            ****************  
+
+
+            Input field symbolic name       = PFLSAT03
+            Output field symbolic name      = CLMSAT03
+            Field exchange frequency        =      900
+            Model sequential index          =  1
+            Field Lag                       =        0
+            Field I/O status                = EXPORTED
+            Number of basic operations      =    1
+
+
+            Restart file name               = pfl03.nc
+
+
+            Source grid periodicity type is      = R       
+            Number of overlapped grid points is  =  0
+            Target grid periodicity type is      = R       
+            Number of overlapped grid points is  =  0
+
+
+            Source longitude file string    = gpfl.lon
+            Source latitude file string     = gpfl.lat
+            Source mask file string         = gpfl.msk
+            Source surface file string      = gpfl.srf
+            Target longitude file string    = gclm.lon
+            Target latitude file string     = gclm.lat
+            Target mask file string         = gclm.msk
+            Target surface file string      = gclm.srf
+
+
+            ANALYSIS PARAMETERS 
+            ******************* 
+
+
+       ANALYSIS number  1 is SCRIPR  
+       ***************  
+
+      Remapping method is               = BILINEAR
+      Field type is                     = SCALAR  
+      Normalization option is           = NONORM  
+      Seach restriction type is         = LATLON  
+      Number of search bins is          =    1
+
+
+                 FIELD NUMBER   4
+                 ************  
+
+            Field parameters 
+            ****************  
+
+
+            Input field symbolic name       = PFLSAT04
+            Output field symbolic name      = CLMSAT04
+            Field exchange frequency        =      900
+            Model sequential index          =  1
+            Field Lag                       =        0
+            Field I/O status                = EXPORTED
+            Number of basic operations      =    1
+
+
+            Restart file name               = pfl04.nc
+
+
+            Source grid periodicity type is      = R       
+            Number of overlapped grid points is  =  0
+            Target grid periodicity type is      = R       
+            Number of overlapped grid points is  =  0
+
+
+            Source longitude file string    = gpfl.lon
+            Source latitude file string     = gpfl.lat
+            Source mask file string         = gpfl.msk
+            Source surface file string      = gpfl.srf
+            Target longitude file string    = gclm.lon
+            Target latitude file string     = gclm.lat
+            Target mask file string         = gclm.msk
+            Target surface file string      = gclm.srf
+
+
+            ANALYSIS PARAMETERS 
+            ******************* 
+
+
+       ANALYSIS number  1 is SCRIPR  
+       ***************  
+
+      Remapping method is               = BILINEAR
+      Field type is                     = SCALAR  
+      Normalization option is           = NONORM  
+      Seach restriction type is         = LATLON  
+      Number of search bins is          =    1
+
+
+                 FIELD NUMBER   5
+                 ************  
+
+            Field parameters 
+            ****************  
+
+
+            Input field symbolic name       = PFLSAT05
+            Output field symbolic name      = CLMSAT05
+            Field exchange frequency        =      900
+            Model sequential index          =  1
+            Field Lag                       =        0
+            Field I/O status                = EXPORTED
+            Number of basic operations      =    1
+
+
+            Restart file name               = pfl05.nc
+
+
+            Source grid periodicity type is      = R       
+            Number of overlapped grid points is  =  0
+            Target grid periodicity type is      = R       
+            Number of overlapped grid points is  =  0
+
+
+            Source longitude file string    = gpfl.lon
+            Source latitude file string     = gpfl.lat
+            Source mask file string         = gpfl.msk
+            Source surface file string      = gpfl.srf
+            Target longitude file string    = gclm.lon
+            Target latitude file string     = gclm.lat
+            Target mask file string         = gclm.msk
+            Target surface file string      = gclm.srf
+
+
+            ANALYSIS PARAMETERS 
+            ******************* 
+
+
+       ANALYSIS number  1 is SCRIPR  
+       ***************  
+
+      Remapping method is               = BILINEAR
+      Field type is                     = SCALAR  
+      Normalization option is           = NONORM  
+      Seach restriction type is         = LATLON  
+      Number of search bins is          =    1
+
+
+                 FIELD NUMBER   6
+                 ************  
+
+            Field parameters 
+            ****************  
+
+
+            Input field symbolic name       = PFLSAT06
+            Output field symbolic name      = CLMSAT06
+            Field exchange frequency        =      900
+            Model sequential index          =  1
+            Field Lag                       =        0
+            Field I/O status                = EXPORTED
+            Number of basic operations      =    1
+
+
+            Restart file name               = pfl06.nc
+
+
+            Source grid periodicity type is      = R       
+            Number of overlapped grid points is  =  0
+            Target grid periodicity type is      = R       
+            Number of overlapped grid points is  =  0
+
+
+            Source longitude file string    = gpfl.lon
+            Source latitude file string     = gpfl.lat
+            Source mask file string         = gpfl.msk
+            Source surface file string      = gpfl.srf
+            Target longitude file string    = gclm.lon
+            Target latitude file string     = gclm.lat
+            Target mask file string         = gclm.msk
+            Target surface file string      = gclm.srf
+
+
+            ANALYSIS PARAMETERS 
+            ******************* 
+
+
+       ANALYSIS number  1 is SCRIPR  
+       ***************  
+
+      Remapping method is               = BILINEAR
+      Field type is                     = SCALAR  
+      Normalization option is           = NONORM  
+      Seach restriction type is         = LATLON  
+      Number of search bins is          =    1
+
+
+                 FIELD NUMBER   7
+                 ************  
+
+            Field parameters 
+            ****************  
+
+
+            Input field symbolic name       = PFLSAT07
+            Output field symbolic name      = CLMSAT07
+            Field exchange frequency        =      900
+            Model sequential index          =  1
+            Field Lag                       =        0
+            Field I/O status                = EXPORTED
+            Number of basic operations      =    1
+
+
+            Restart file name               = pfl07.nc
+
+
+            Source grid periodicity type is      = R       
+            Number of overlapped grid points is  =  0
+            Target grid periodicity type is      = R       
+            Number of overlapped grid points is  =  0
+
+
+            Source longitude file string    = gpfl.lon
+            Source latitude file string     = gpfl.lat
+            Source mask file string         = gpfl.msk
+            Source surface file string      = gpfl.srf
+            Target longitude file string    = gclm.lon
+            Target latitude file string     = gclm.lat
+            Target mask file string         = gclm.msk
+            Target surface file string      = gclm.srf
+
+
+            ANALYSIS PARAMETERS 
+            ******************* 
+
+
+       ANALYSIS number  1 is SCRIPR  
+       ***************  
+
+      Remapping method is               = BILINEAR
+      Field type is                     = SCALAR  
+      Normalization option is           = NONORM  
+      Seach restriction type is         = LATLON  
+      Number of search bins is          =    1
+
+
+                 FIELD NUMBER   8
+                 ************  
+
+            Field parameters 
+            ****************  
+
+
+            Input field symbolic name       = PFLSAT08
+            Output field symbolic name      = CLMSAT08
+            Field exchange frequency        =      900
+            Model sequential index          =  1
+            Field Lag                       =        0
+            Field I/O status                = EXPORTED
+            Number of basic operations      =    1
+
+
+            Restart file name               = pfl08.nc
+
+
+            Source grid periodicity type is      = R       
+            Number of overlapped grid points is  =  0
+            Target grid periodicity type is      = R       
+            Number of overlapped grid points is  =  0
+
+
+            Source longitude file string    = gpfl.lon
+            Source latitude file string     = gpfl.lat
+            Source mask file string         = gpfl.msk
+            Source surface file string      = gpfl.srf
+            Target longitude file string    = gclm.lon
+            Target latitude file string     = gclm.lat
+            Target mask file string         = gclm.msk
+            Target surface file string      = gclm.srf
+
+
+            ANALYSIS PARAMETERS 
+            ******************* 
+
+
+       ANALYSIS number  1 is SCRIPR  
+       ***************  
+
+      Remapping method is               = BILINEAR
+      Field type is                     = SCALAR  
+      Normalization option is           = NONORM  
+      Seach restriction type is         = LATLON  
+      Number of search bins is          =    1
+
+
+                 FIELD NUMBER   9
+                 ************  
+
+            Field parameters 
+            ****************  
+
+
+            Input field symbolic name       = PFLSAT09
+            Output field symbolic name      = CLMSAT09
+            Field exchange frequency        =      900
+            Model sequential index          =  1
+            Field Lag                       =        0
+            Field I/O status                = EXPORTED
+            Number of basic operations      =    1
+
+
+            Restart file name               = pfl09.nc
+
+
+            Source grid periodicity type is      = R       
+            Number of overlapped grid points is  =  0
+            Target grid periodicity type is      = R       
+            Number of overlapped grid points is  =  0
+
+
+            Source longitude file string    = gpfl.lon
+            Source latitude file string     = gpfl.lat
+            Source mask file string         = gpfl.msk
+            Source surface file string      = gpfl.srf
+            Target longitude file string    = gclm.lon
+            Target latitude file string     = gclm.lat
+            Target mask file string         = gclm.msk
+            Target surface file string      = gclm.srf
+
+
+            ANALYSIS PARAMETERS 
+            ******************* 
+
+
+       ANALYSIS number  1 is SCRIPR  
+       ***************  
+
+      Remapping method is               = BILINEAR
+      Field type is                     = SCALAR  
+      Normalization option is           = NONORM  
+      Seach restriction type is         = LATLON  
+      Number of search bins is          =    1
+
+
+                 FIELD NUMBER  10
+                 ************  
+
+            Field parameters 
+            ****************  
+
+
+            Input field symbolic name       = PFLSAT10
+            Output field symbolic name      = CLMSAT10
+            Field exchange frequency        =      900
+            Model sequential index          =  1
+            Field Lag                       =        0
+            Field I/O status                = EXPORTED
+            Number of basic operations      =    1
+
+
+            Restart file name               = pfl10.nc
+
+
+            Source grid periodicity type is      = R       
+            Number of overlapped grid points is  =  0
+            Target grid periodicity type is      = R       
+            Number of overlapped grid points is  =  0
+
+
+            Source longitude file string    = gpfl.lon
+            Source latitude file string     = gpfl.lat
+            Source mask file string         = gpfl.msk
+            Source surface file string      = gpfl.srf
+            Target longitude file string    = gclm.lon
+            Target latitude file string     = gclm.lat
+            Target mask file string         = gclm.msk
+            Target surface file string      = gclm.srf
+
+
+            ANALYSIS PARAMETERS 
+            ******************* 
+
+
+       ANALYSIS number  1 is SCRIPR  
+       ***************  
+
+      Remapping method is               = BILINEAR
+      Field type is                     = SCALAR  
+      Normalization option is           = NONORM  
+      Seach restriction type is         = LATLON  
+      Number of search bins is          =    1
+
+
+                 FIELD NUMBER  11
+                 ************  
+
+            Field parameters 
+            ****************  
+
+
+            Input field symbolic name       = PFLPSI01
+            Output field symbolic name      = CLMPSI01
+            Field exchange frequency        =      900
+            Model sequential index          =  1
+            Field Lag                       =        0
+            Field I/O status                = EXPORTED
+            Number of basic operations      =    1
+
+
+            Restart file name               = pfl11.nc
+
+
+            Source grid periodicity type is      = R       
+            Number of overlapped grid points is  =  0
+            Target grid periodicity type is      = R       
+            Number of overlapped grid points is  =  0
+
+
+            Source longitude file string    = gpfl.lon
+            Source latitude file string     = gpfl.lat
+            Source mask file string         = gpfl.msk
+            Source surface file string      = gpfl.srf
+            Target longitude file string    = gclm.lon
+            Target latitude file string     = gclm.lat
+            Target mask file string         = gclm.msk
+            Target surface file string      = gclm.srf
+
+
+            ANALYSIS PARAMETERS 
+            ******************* 
+
+
+       ANALYSIS number  1 is SCRIPR  
+       ***************  
+
+      Remapping method is               = BILINEAR
+      Field type is                     = SCALAR  
+      Normalization option is           = NONORM  
+      Seach restriction type is         = LATLON  
+      Number of search bins is          =    1
+
+
+                 FIELD NUMBER  12
+                 ************  
+
+            Field parameters 
+            ****************  
+
+
+            Input field symbolic name       = PFLPSI02
+            Output field symbolic name      = CLMPSI02
+            Field exchange frequency        =      900
+            Model sequential index          =  1
+            Field Lag                       =        0
+            Field I/O status                = EXPORTED
+            Number of basic operations      =    1
+
+
+            Restart file name               = pfl12.nc
+
+
+            Source grid periodicity type is      = R       
+            Number of overlapped grid points is  =  0
+            Target grid periodicity type is      = R       
+            Number of overlapped grid points is  =  0
+
+
+            Source longitude file string    = gpfl.lon
+            Source latitude file string     = gpfl.lat
+            Source mask file string         = gpfl.msk
+            Source surface file string      = gpfl.srf
+            Target longitude file string    = gclm.lon
+            Target latitude file string     = gclm.lat
+            Target mask file string         = gclm.msk
+            Target surface file string      = gclm.srf
+
+
+            ANALYSIS PARAMETERS 
+            ******************* 
+
+
+       ANALYSIS number  1 is SCRIPR  
+       ***************  
+
+      Remapping method is               = BILINEAR
+      Field type is                     = SCALAR  
+      Normalization option is           = NONORM  
+      Seach restriction type is         = LATLON  
+      Number of search bins is          =    1
+
+
+                 FIELD NUMBER  13
+                 ************  
+
+            Field parameters 
+            ****************  
+
+
+            Input field symbolic name       = PFLPSI03
+            Output field symbolic name      = CLMPSI03
+            Field exchange frequency        =      900
+            Model sequential index          =  1
+            Field Lag                       =        0
+            Field I/O status                = EXPORTED
+            Number of basic operations      =    1
+
+
+            Restart file name               = pfl13.nc
+
+
+            Source grid periodicity type is      = R       
+            Number of overlapped grid points is  =  0
+            Target grid periodicity type is      = R       
+            Number of overlapped grid points is  =  0
+
+
+            Source longitude file string    = gpfl.lon
+            Source latitude file string     = gpfl.lat
+            Source mask file string         = gpfl.msk
+            Source surface file string      = gpfl.srf
+            Target longitude file string    = gclm.lon
+            Target latitude file string     = gclm.lat
+            Target mask file string         = gclm.msk
+            Target surface file string      = gclm.srf
+
+
+            ANALYSIS PARAMETERS 
+            ******************* 
+
+
+       ANALYSIS number  1 is SCRIPR  
+       ***************  
+
+      Remapping method is               = BILINEAR
+      Field type is                     = SCALAR  
+      Normalization option is           = NONORM  
+      Seach restriction type is         = LATLON  
+      Number of search bins is          =    1
+
+
+                 FIELD NUMBER  14
+                 ************  
+
+            Field parameters 
+            ****************  
+
+
+            Input field symbolic name       = PFLPSI04
+            Output field symbolic name      = CLMPSI04
+            Field exchange frequency        =      900
+            Model sequential index          =  1
+            Field Lag                       =        0
+            Field I/O status                = EXPORTED
+            Number of basic operations      =    1
+
+
+            Restart file name               = pfl14.nc
+
+
+            Source grid periodicity type is      = R       
+            Number of overlapped grid points is  =  0
+            Target grid periodicity type is      = R       
+            Number of overlapped grid points is  =  0
+
+
+            Source longitude file string    = gpfl.lon
+            Source latitude file string     = gpfl.lat
+            Source mask file string         = gpfl.msk
+            Source surface file string      = gpfl.srf
+            Target longitude file string    = gclm.lon
+            Target latitude file string     = gclm.lat
+            Target mask file string         = gclm.msk
+            Target surface file string      = gclm.srf
+
+
+            ANALYSIS PARAMETERS 
+            ******************* 
+
+
+       ANALYSIS number  1 is SCRIPR  
+       ***************  
+
+      Remapping method is               = BILINEAR
+      Field type is                     = SCALAR  
+      Normalization option is           = NONORM  
+      Seach restriction type is         = LATLON  
+      Number of search bins is          =    1
+
+
+                 FIELD NUMBER  15
+                 ************  
+
+            Field parameters 
+            ****************  
+
+
+            Input field symbolic name       = PFLPSI05
+            Output field symbolic name      = CLMPSI05
+            Field exchange frequency        =      900
+            Model sequential index          =  1
+            Field Lag                       =        0
+            Field I/O status                = EXPORTED
+            Number of basic operations      =    1
+
+
+            Restart file name               = pfl15.nc
+
+
+            Source grid periodicity type is      = R       
+            Number of overlapped grid points is  =  0
+            Target grid periodicity type is      = R       
+            Number of overlapped grid points is  =  0
+
+
+            Source longitude file string    = gpfl.lon
+            Source latitude file string     = gpfl.lat
+            Source mask file string         = gpfl.msk
+            Source surface file string      = gpfl.srf
+            Target longitude file string    = gclm.lon
+            Target latitude file string     = gclm.lat
+            Target mask file string         = gclm.msk
+            Target surface file string      = gclm.srf
+
+
+            ANALYSIS PARAMETERS 
+            ******************* 
+
+
+       ANALYSIS number  1 is SCRIPR  
+       ***************  
+
+      Remapping method is               = BILINEAR
+      Field type is                     = SCALAR  
+      Normalization option is           = NONORM  
+      Seach restriction type is         = LATLON  
+      Number of search bins is          =    1
+
+
+                 FIELD NUMBER  16
+                 ************  
+
+            Field parameters 
+            ****************  
+
+
+            Input field symbolic name       = PFLPSI06
+            Output field symbolic name      = CLMPSI06
+            Field exchange frequency        =      900
+            Model sequential index          =  1
+            Field Lag                       =        0
+            Field I/O status                = EXPORTED
+            Number of basic operations      =    1
+
+
+            Restart file name               = pfl16.nc
+
+
+            Source grid periodicity type is      = R       
+            Number of overlapped grid points is  =  0
+            Target grid periodicity type is      = R       
+            Number of overlapped grid points is  =  0
+
+
+            Source longitude file string    = gpfl.lon
+            Source latitude file string     = gpfl.lat
+            Source mask file string         = gpfl.msk
+            Source surface file string      = gpfl.srf
+            Target longitude file string    = gclm.lon
+            Target latitude file string     = gclm.lat
+            Target mask file string         = gclm.msk
+            Target surface file string      = gclm.srf
+
+
+            ANALYSIS PARAMETERS 
+            ******************* 
+
+
+       ANALYSIS number  1 is SCRIPR  
+       ***************  
+
+      Remapping method is               = BILINEAR
+      Field type is                     = SCALAR  
+      Normalization option is           = NONORM  
+      Seach restriction type is         = LATLON  
+      Number of search bins is          =    1
+
+
+                 FIELD NUMBER  17
+                 ************  
+
+            Field parameters 
+            ****************  
+
+
+            Input field symbolic name       = PFLPSI07
+            Output field symbolic name      = CLMPSI07
+            Field exchange frequency        =      900
+            Model sequential index          =  1
+            Field Lag                       =        0
+            Field I/O status                = EXPORTED
+            Number of basic operations      =    1
+
+
+            Restart file name               = pfl17.nc
+
+
+            Source grid periodicity type is      = R       
+            Number of overlapped grid points is  =  0
+            Target grid periodicity type is      = R       
+            Number of overlapped grid points is  =  0
+
+
+            Source longitude file string    = gpfl.lon
+            Source latitude file string     = gpfl.lat
+            Source mask file string         = gpfl.msk
+            Source surface file string      = gpfl.srf
+            Target longitude file string    = gclm.lon
+            Target latitude file string     = gclm.lat
+            Target mask file string         = gclm.msk
+            Target surface file string      = gclm.srf
+
+
+            ANALYSIS PARAMETERS 
+            ******************* 
+
+
+       ANALYSIS number  1 is SCRIPR  
+       ***************  
+
+      Remapping method is               = BILINEAR
+      Field type is                     = SCALAR  
+      Normalization option is           = NONORM  
+      Seach restriction type is         = LATLON  
+      Number of search bins is          =    1
+
+
+                 FIELD NUMBER  18
+                 ************  
+
+            Field parameters 
+            ****************  
+
+
+            Input field symbolic name       = PFLPSI08
+            Output field symbolic name      = CLMPSI08
+            Field exchange frequency        =      900
+            Model sequential index          =  1
+            Field Lag                       =        0
+            Field I/O status                = EXPORTED
+            Number of basic operations      =    1
+
+
+            Restart file name               = pfl18.nc
+
+
+            Source grid periodicity type is      = R       
+            Number of overlapped grid points is  =  0
+            Target grid periodicity type is      = R       
+            Number of overlapped grid points is  =  0
+
+
+            Source longitude file string    = gpfl.lon
+            Source latitude file string     = gpfl.lat
+            Source mask file string         = gpfl.msk
+            Source surface file string      = gpfl.srf
+            Target longitude file string    = gclm.lon
+            Target latitude file string     = gclm.lat
+            Target mask file string         = gclm.msk
+            Target surface file string      = gclm.srf
+
+
+            ANALYSIS PARAMETERS 
+            ******************* 
+
+
+       ANALYSIS number  1 is SCRIPR  
+       ***************  
+
+      Remapping method is               = BILINEAR
+      Field type is                     = SCALAR  
+      Normalization option is           = NONORM  
+      Seach restriction type is         = LATLON  
+      Number of search bins is          =    1
+
+
+                 FIELD NUMBER  19
+                 ************  
+
+            Field parameters 
+            ****************  
+
+
+            Input field symbolic name       = PFLPSI09
+            Output field symbolic name      = CLMPSI09
+            Field exchange frequency        =      900
+            Model sequential index          =  1
+            Field Lag                       =        0
+            Field I/O status                = EXPORTED
+            Number of basic operations      =    1
+
+
+            Restart file name               = pfl19.nc
+
+
+            Source grid periodicity type is      = R       
+            Number of overlapped grid points is  =  0
+            Target grid periodicity type is      = R       
+            Number of overlapped grid points is  =  0
+
+
+            Source longitude file string    = gpfl.lon
+            Source latitude file string     = gpfl.lat
+            Source mask file string         = gpfl.msk
+            Source surface file string      = gpfl.srf
+            Target longitude file string    = gclm.lon
+            Target latitude file string     = gclm.lat
+            Target mask file string         = gclm.msk
+            Target surface file string      = gclm.srf
+
+
+            ANALYSIS PARAMETERS 
+            ******************* 
+
+
+       ANALYSIS number  1 is SCRIPR  
+       ***************  
+
+      Remapping method is               = BILINEAR
+      Field type is                     = SCALAR  
+      Normalization option is           = NONORM  
+      Seach restriction type is         = LATLON  
+      Number of search bins is          =    1
+
+
+                 FIELD NUMBER  20
+                 ************  
+
+            Field parameters 
+            ****************  
+
+
+            Input field symbolic name       = PFLPSI10
+            Output field symbolic name      = CLMPSI10
+            Field exchange frequency        =      900
+            Model sequential index          =  1
+            Field Lag                       =        0
+            Field I/O status                = EXPORTED
+            Number of basic operations      =    1
+
+
+            Restart file name               = pfl20.nc
+
+
+            Source grid periodicity type is      = R       
+            Number of overlapped grid points is  =  0
+            Target grid periodicity type is      = R       
+            Number of overlapped grid points is  =  0
+
+
+            Source longitude file string    = gpfl.lon
+            Source latitude file string     = gpfl.lat
+            Source mask file string         = gpfl.msk
+            Source surface file string      = gpfl.srf
+            Target longitude file string    = gclm.lon
+            Target latitude file string     = gclm.lat
+            Target mask file string         = gclm.msk
+            Target surface file string      = gclm.srf
+
+
+            ANALYSIS PARAMETERS 
+            ******************* 
+
+
+       ANALYSIS number  1 is SCRIPR  
+       ***************  
+
+      Remapping method is               = BILINEAR
+      Field type is                     = SCALAR  
+      Normalization option is           = NONORM  
+      Seach restriction type is         = LATLON  
+      Number of search bins is          =    1
+
+
+                 FIELD NUMBER  21
+                 ************  
+
+            Field parameters 
+            ****************  
+
+
+            Input field symbolic name       = CLMFLX01
+            Output field symbolic name      = PFLFLX01
+            Field exchange frequency        =      900
+            Model sequential index          =  2
+            Field Lag                       =        0
+            Field I/O status                = EXPOUT  
+            Number of basic operations      =    1
+
+
+            Restart file name               = clm07.nc
+
+
+            Source grid periodicity type is      = R       
+            Number of overlapped grid points is  =  0
+            Target grid periodicity type is      = R       
+            Number of overlapped grid points is  =  0
+
+
+            Source longitude file string    = gclm.lon
+            Source latitude file string     = gclm.lat
+            Source mask file string         = gclm.msk
+            Source surface file string      = gclm.srf
+            Target longitude file string    = gpfl.lon
+            Target latitude file string     = gpfl.lat
+            Target mask file string         = gpfl.msk
+            Target surface file string      = gpfl.srf
+
+
+            ANALYSIS PARAMETERS 
+            ******************* 
+
+
+       ANALYSIS number  1 is SCRIPR  
+       ***************  
+
+      Remapping method is               = DISTWGT 
+      Field type is                     = SCALAR  
+      Normalization option is           = NONORM  
+      Seach restriction type is         = LATLON  
+      Number of search bins is          =    1
+
+
+                 FIELD NUMBER  22
+                 ************  
+
+            Field parameters 
+            ****************  
+
+
+            Input field symbolic name       = CLMFLX02
+            Output field symbolic name      = PFLFLX02
+            Field exchange frequency        =      900
+            Model sequential index          =  2
+            Field Lag                       =        0
+            Field I/O status                = EXPORTED
+            Number of basic operations      =    1
+
+
+            Restart file name               = clm08.nc
+
+
+            Source grid periodicity type is      = R       
+            Number of overlapped grid points is  =  0
+            Target grid periodicity type is      = R       
+            Number of overlapped grid points is  =  0
+
+
+            Source longitude file string    = gclm.lon
+            Source latitude file string     = gclm.lat
+            Source mask file string         = gclm.msk
+            Source surface file string      = gclm.srf
+            Target longitude file string    = gpfl.lon
+            Target latitude file string     = gpfl.lat
+            Target mask file string         = gpfl.msk
+            Target surface file string      = gpfl.srf
+
+
+            ANALYSIS PARAMETERS 
+            ******************* 
+
+
+       ANALYSIS number  1 is SCRIPR  
+       ***************  
+
+      Remapping method is               = DISTWGT 
+      Field type is                     = SCALAR  
+      Normalization option is           = NONORM  
+      Seach restriction type is         = LATLON  
+      Number of search bins is          =    1
+
+
+                 FIELD NUMBER  23
+                 ************  
+
+            Field parameters 
+            ****************  
+
+
+            Input field symbolic name       = CLMFLX03
+            Output field symbolic name      = PFLFLX03
+            Field exchange frequency        =      900
+            Model sequential index          =  2
+            Field Lag                       =        0
+            Field I/O status                = EXPORTED
+            Number of basic operations      =    1
+
+
+            Restart file name               = clm09.nc
+
+
+            Source grid periodicity type is      = R       
+            Number of overlapped grid points is  =  0
+            Target grid periodicity type is      = R       
+            Number of overlapped grid points is  =  0
+
+
+            Source longitude file string    = gclm.lon
+            Source latitude file string     = gclm.lat
+            Source mask file string         = gclm.msk
+            Source surface file string      = gclm.srf
+            Target longitude file string    = gpfl.lon
+            Target latitude file string     = gpfl.lat
+            Target mask file string         = gpfl.msk
+            Target surface file string      = gpfl.srf
+
+
+            ANALYSIS PARAMETERS 
+            ******************* 
+
+
+       ANALYSIS number  1 is SCRIPR  
+       ***************  
+
+      Remapping method is               = DISTWGT 
+      Field type is                     = SCALAR  
+      Normalization option is           = NONORM  
+      Seach restriction type is         = LATLON  
+      Number of search bins is          =    1
+
+
+                 FIELD NUMBER  24
+                 ************  
+
+            Field parameters 
+            ****************  
+
+
+            Input field symbolic name       = CLMFLX04
+            Output field symbolic name      = PFLFLX04
+            Field exchange frequency        =      900
+            Model sequential index          =  2
+            Field Lag                       =        0
+            Field I/O status                = EXPORTED
+            Number of basic operations      =    1
+
+
+            Restart file name               = clm10.nc
+
+
+            Source grid periodicity type is      = R       
+            Number of overlapped grid points is  =  0
+            Target grid periodicity type is      = R       
+            Number of overlapped grid points is  =  0
+
+
+            Source longitude file string    = gclm.lon
+            Source latitude file string     = gclm.lat
+            Source mask file string         = gclm.msk
+            Source surface file string      = gclm.srf
+            Target longitude file string    = gpfl.lon
+            Target latitude file string     = gpfl.lat
+            Target mask file string         = gpfl.msk
+            Target surface file string      = gpfl.srf
+
+
+            ANALYSIS PARAMETERS 
+            ******************* 
+
+
+       ANALYSIS number  1 is SCRIPR  
+       ***************  
+
+      Remapping method is               = DISTWGT 
+      Field type is                     = SCALAR  
+      Normalization option is           = NONORM  
+      Seach restriction type is         = LATLON  
+      Number of search bins is          =    1
+
+
+                 FIELD NUMBER  25
+                 ************  
+
+            Field parameters 
+            ****************  
+
+
+            Input field symbolic name       = CLMFLX05
+            Output field symbolic name      = PFLFLX05
+            Field exchange frequency        =      900
+            Model sequential index          =  2
+            Field Lag                       =        0
+            Field I/O status                = EXPORTED
+            Number of basic operations      =    1
+
+
+            Restart file name               = clm11.nc
+
+
+            Source grid periodicity type is      = R       
+            Number of overlapped grid points is  =  0
+            Target grid periodicity type is      = R       
+            Number of overlapped grid points is  =  0
+
+
+            Source longitude file string    = gclm.lon
+            Source latitude file string     = gclm.lat
+            Source mask file string         = gclm.msk
+            Source surface file string      = gclm.srf
+            Target longitude file string    = gpfl.lon
+            Target latitude file string     = gpfl.lat
+            Target mask file string         = gpfl.msk
+            Target surface file string      = gpfl.srf
+
+
+            ANALYSIS PARAMETERS 
+            ******************* 
+
+
+       ANALYSIS number  1 is SCRIPR  
+       ***************  
+
+      Remapping method is               = DISTWGT 
+      Field type is                     = SCALAR  
+      Normalization option is           = NONORM  
+      Seach restriction type is         = LATLON  
+      Number of search bins is          =    1
+
+
+                 FIELD NUMBER  26
+                 ************  
+
+            Field parameters 
+            ****************  
+
+
+            Input field symbolic name       = CLMFLX06
+            Output field symbolic name      = PFLFLX06
+            Field exchange frequency        =      900
+            Model sequential index          =  2
+            Field Lag                       =        0
+            Field I/O status                = EXPORTED
+            Number of basic operations      =    1
+
+
+            Restart file name               = clm12.nc
+
+
+            Source grid periodicity type is      = R       
+            Number of overlapped grid points is  =  0
+            Target grid periodicity type is      = R       
+            Number of overlapped grid points is  =  0
+
+
+            Source longitude file string    = gclm.lon
+            Source latitude file string     = gclm.lat
+            Source mask file string         = gclm.msk
+            Source surface file string      = gclm.srf
+            Target longitude file string    = gpfl.lon
+            Target latitude file string     = gpfl.lat
+            Target mask file string         = gpfl.msk
+            Target surface file string      = gpfl.srf
+
+
+            ANALYSIS PARAMETERS 
+            ******************* 
+
+
+       ANALYSIS number  1 is SCRIPR  
+       ***************  
+
+      Remapping method is               = DISTWGT 
+      Field type is                     = SCALAR  
+      Normalization option is           = NONORM  
+      Seach restriction type is         = LATLON  
+      Number of search bins is          =    1
+
+
+                 FIELD NUMBER  27
+                 ************  
+
+            Field parameters 
+            ****************  
+
+
+            Input field symbolic name       = CLMFLX07
+            Output field symbolic name      = PFLFLX07
+            Field exchange frequency        =      900
+            Model sequential index          =  2
+            Field Lag                       =        0
+            Field I/O status                = EXPORTED
+            Number of basic operations      =    1
+
+
+            Restart file name               = clm13.nc
+
+
+            Source grid periodicity type is      = R       
+            Number of overlapped grid points is  =  0
+            Target grid periodicity type is      = R       
+            Number of overlapped grid points is  =  0
+
+
+            Source longitude file string    = gclm.lon
+            Source latitude file string     = gclm.lat
+            Source mask file string         = gclm.msk
+            Source surface file string      = gclm.srf
+            Target longitude file string    = gpfl.lon
+            Target latitude file string     = gpfl.lat
+            Target mask file string         = gpfl.msk
+            Target surface file string      = gpfl.srf
+
+
+            ANALYSIS PARAMETERS 
+            ******************* 
+
+
+       ANALYSIS number  1 is SCRIPR  
+       ***************  
+
+      Remapping method is               = DISTWGT 
+      Field type is                     = SCALAR  
+      Normalization option is           = NONORM  
+      Seach restriction type is         = LATLON  
+      Number of search bins is          =    1
+
+
+                 FIELD NUMBER  28
+                 ************  
+
+            Field parameters 
+            ****************  
+
+
+            Input field symbolic name       = CLMFLX08
+            Output field symbolic name      = PFLFLX08
+            Field exchange frequency        =      900
+            Model sequential index          =  2
+            Field Lag                       =        0
+            Field I/O status                = EXPORTED
+            Number of basic operations      =    1
+
+
+            Restart file name               = clm14.nc
+
+
+            Source grid periodicity type is      = R       
+            Number of overlapped grid points is  =  0
+            Target grid periodicity type is      = R       
+            Number of overlapped grid points is  =  0
+
+
+            Source longitude file string    = gclm.lon
+            Source latitude file string     = gclm.lat
+            Source mask file string         = gclm.msk
+            Source surface file string      = gclm.srf
+            Target longitude file string    = gpfl.lon
+            Target latitude file string     = gpfl.lat
+            Target mask file string         = gpfl.msk
+            Target surface file string      = gpfl.srf
+
+
+            ANALYSIS PARAMETERS 
+            ******************* 
+
+
+       ANALYSIS number  1 is SCRIPR  
+       ***************  
+
+      Remapping method is               = DISTWGT 
+      Field type is                     = SCALAR  
+      Normalization option is           = NONORM  
+      Seach restriction type is         = LATLON  
+      Number of search bins is          =    1
+
+
+                 FIELD NUMBER  29
+                 ************  
+
+            Field parameters 
+            ****************  
+
+
+            Input field symbolic name       = CLMFLX09
+            Output field symbolic name      = PFLFLX09
+            Field exchange frequency        =      900
+            Model sequential index          =  2
+            Field Lag                       =        0
+            Field I/O status                = EXPORTED
+            Number of basic operations      =    1
+
+
+            Restart file name               = clm15.nc
+
+
+            Source grid periodicity type is      = R       
+            Number of overlapped grid points is  =  0
+            Target grid periodicity type is      = R       
+            Number of overlapped grid points is  =  0
+
+
+            Source longitude file string    = gclm.lon
+            Source latitude file string     = gclm.lat
+            Source mask file string         = gclm.msk
+            Source surface file string      = gclm.srf
+            Target longitude file string    = gpfl.lon
+            Target latitude file string     = gpfl.lat
+            Target mask file string         = gpfl.msk
+            Target surface file string      = gpfl.srf
+
+
+            ANALYSIS PARAMETERS 
+            ******************* 
+
+
+       ANALYSIS number  1 is SCRIPR  
+       ***************  
+
+      Remapping method is               = DISTWGT 
+      Field type is                     = SCALAR  
+      Normalization option is           = NONORM  
+      Seach restriction type is         = LATLON  
+      Number of search bins is          =    1
+
+
+                 FIELD NUMBER  30
+                 ************  
+
+            Field parameters 
+            ****************  
+
+
+            Input field symbolic name       = CLMFLX10
+            Output field symbolic name      = PFLFLX10
+            Field exchange frequency        =      900
+            Model sequential index          =  2
+            Field Lag                       =        0
+            Field I/O status                = EXPORTED
+            Number of basic operations      =    1
+
+
+            Restart file name               = clm16.nc
+
+
+            Source grid periodicity type is      = R       
+            Number of overlapped grid points is  =  0
+            Target grid periodicity type is      = R       
+            Number of overlapped grid points is  =  0
+
+
+            Source longitude file string    = gclm.lon
+            Source latitude file string     = gclm.lat
+            Source mask file string         = gclm.msk
+            Source surface file string      = gclm.srf
+            Target longitude file string    = gpfl.lon
+            Target latitude file string     = gpfl.lat
+            Target mask file string         = gpfl.msk
+            Target surface file string      = gpfl.srf
+
+
+            ANALYSIS PARAMETERS 
+            ******************* 
+
+
+       ANALYSIS number  1 is SCRIPR  
+       ***************  
+
+      Remapping method is               = DISTWGT 
+      Field type is                     = SCALAR  
+      Normalization option is           = NONORM  
+      Seach restriction type is         = LATLON  
+      Number of search bins is          =    1
+  
+ ------ End of ROUTINE inipar ----
+ oasis_namcouple_init allocating ig_nmodel+1           3
+ oasis_namcouple_init allocating ig_total_nfield          30
+ oasis_namcouple_init maximum unit number =         1024
+ oasis_namcouple_init total number of models =            2
+ oasis_namcouple_init           1 oaspfl
+ oasis_namcouple_init           2 oasclm
+  
+ oasis_namcouple_initnamlogprt            0
+  
+ oasis_namcouple_init           1 namsrcfld PFLSAT01
+ oasis_namcouple_init           1 namdstfld CLMSAT01
+ oasis_namcouple_init           1 namsrcgrd gpfl
+ oasis_namcouple_init           1 namsrc_nx          111
+ oasis_namcouple_init           1 namsrc_ny          108
+ oasis_namcouple_init           1 namdstgrd gclm
+ oasis_namcouple_init           1 namdst_nx        11988
+ oasis_namcouple_init           1 namdst_ny            1
+ oasis_namcouple_init           1 namfldseq            1
+ oasis_namcouple_init           1 namfldops            5
+ oasis_namcouple_init           1 namfldtrn            1
+ oasis_namcouple_init           1 namfldcon            0
+ oasis_namcouple_init           1 namfldcoo bfb
+ oasis_namcouple_init           1 namflddti          900
+ oasis_namcouple_init           1 namfldlag            0
+ oasis_namcouple_init           1 nammapfil idmap
+ oasis_namcouple_init           1 nammaploc src
+ oasis_namcouple_init           1 nammapopt bfb
+ oasis_namcouple_init           1 namrstfil pfl01.nc
+ oasis_namcouple_init           1 naminpfil 
+ oasis_namcouple_init           1 namchecki  F
+ oasis_namcouple_init           1 namchecko  F
+ oasis_namcouple_init           1 namfldsmu    1.00000000000000     
+ oasis_namcouple_init           1 namfldsad   0.000000000000000E+000
+ oasis_namcouple_init           1 namflddmu    1.00000000000000     
+ oasis_namcouple_init           1 namflddad   0.000000000000000E+000
+ oasis_namcouple_init           1 namscrmet BILINEAR
+ oasis_namcouple_init           1 namscrnor NONORM
+ oasis_namcouple_init           1 namscrtyp SCALAR
+ oasis_namcouple_init           1 namscrord 
+ oasis_namcouple_init           1 namscrres LATLON
+ oasis_namcouple_init           1 namscrvam    1.00000000000000     
+ oasis_namcouple_init           1 namscrnbr            0
+ oasis_namcouple_init           1 namscrbin            1
+  
+ oasis_namcouple_init           2 namsrcfld PFLSAT02
+ oasis_namcouple_init           2 namdstfld CLMSAT02
+ oasis_namcouple_init           2 namsrcgrd gpfl
+ oasis_namcouple_init           2 namsrc_nx          111
+ oasis_namcouple_init           2 namsrc_ny          108
+ oasis_namcouple_init           2 namdstgrd gclm
+ oasis_namcouple_init           2 namdst_nx        11988
+ oasis_namcouple_init           2 namdst_ny            1
+ oasis_namcouple_init           2 namfldseq            1
+ oasis_namcouple_init           2 namfldops            1
+ oasis_namcouple_init           2 namfldtrn            1
+ oasis_namcouple_init           2 namfldcon            0
+ oasis_namcouple_init           2 namfldcoo bfb
+ oasis_namcouple_init           2 namflddti          900
+ oasis_namcouple_init           2 namfldlag            0
+ oasis_namcouple_init           2 nammapfil idmap
+ oasis_namcouple_init           2 nammaploc src
+ oasis_namcouple_init           2 nammapopt bfb
+ oasis_namcouple_init           2 namrstfil pfl02.nc
+ oasis_namcouple_init           2 naminpfil 
+ oasis_namcouple_init           2 namchecki  F
+ oasis_namcouple_init           2 namchecko  F
+ oasis_namcouple_init           2 namfldsmu    1.00000000000000     
+ oasis_namcouple_init           2 namfldsad   0.000000000000000E+000
+ oasis_namcouple_init           2 namflddmu    1.00000000000000     
+ oasis_namcouple_init           2 namflddad   0.000000000000000E+000
+ oasis_namcouple_init           2 namscrmet BILINEAR
+ oasis_namcouple_init           2 namscrnor NONORM
+ oasis_namcouple_init           2 namscrtyp SCALAR
+ oasis_namcouple_init           2 namscrord 
+ oasis_namcouple_init           2 namscrres LATLON
+ oasis_namcouple_init           2 namscrvam    1.00000000000000     
+ oasis_namcouple_init           2 namscrnbr            0
+ oasis_namcouple_init           2 namscrbin            1
+  
+ oasis_namcouple_init           3 namsrcfld PFLSAT03
+ oasis_namcouple_init           3 namdstfld CLMSAT03
+ oasis_namcouple_init           3 namsrcgrd gpfl
+ oasis_namcouple_init           3 namsrc_nx          111
+ oasis_namcouple_init           3 namsrc_ny          108
+ oasis_namcouple_init           3 namdstgrd gclm
+ oasis_namcouple_init           3 namdst_nx        11988
+ oasis_namcouple_init           3 namdst_ny            1
+ oasis_namcouple_init           3 namfldseq            1
+ oasis_namcouple_init           3 namfldops            1
+ oasis_namcouple_init           3 namfldtrn            1
+ oasis_namcouple_init           3 namfldcon            0
+ oasis_namcouple_init           3 namfldcoo bfb
+ oasis_namcouple_init           3 namflddti          900
+ oasis_namcouple_init           3 namfldlag            0
+ oasis_namcouple_init           3 nammapfil idmap
+ oasis_namcouple_init           3 nammaploc src
+ oasis_namcouple_init           3 nammapopt bfb
+ oasis_namcouple_init           3 namrstfil pfl03.nc
+ oasis_namcouple_init           3 naminpfil 
+ oasis_namcouple_init           3 namchecki  F
+ oasis_namcouple_init           3 namchecko  F
+ oasis_namcouple_init           3 namfldsmu    1.00000000000000     
+ oasis_namcouple_init           3 namfldsad   0.000000000000000E+000
+ oasis_namcouple_init           3 namflddmu    1.00000000000000     
+ oasis_namcouple_init           3 namflddad   0.000000000000000E+000
+ oasis_namcouple_init           3 namscrmet BILINEAR
+ oasis_namcouple_init           3 namscrnor NONORM
+ oasis_namcouple_init           3 namscrtyp SCALAR
+ oasis_namcouple_init           3 namscrord 
+ oasis_namcouple_init           3 namscrres LATLON
+ oasis_namcouple_init           3 namscrvam    1.00000000000000     
+ oasis_namcouple_init           3 namscrnbr            0
+ oasis_namcouple_init           3 namscrbin            1
+  
+ oasis_namcouple_init           4 namsrcfld PFLSAT04
+ oasis_namcouple_init           4 namdstfld CLMSAT04
+ oasis_namcouple_init           4 namsrcgrd gpfl
+ oasis_namcouple_init           4 namsrc_nx          111
+ oasis_namcouple_init           4 namsrc_ny          108
+ oasis_namcouple_init           4 namdstgrd gclm
+ oasis_namcouple_init           4 namdst_nx        11988
+ oasis_namcouple_init           4 namdst_ny            1
+ oasis_namcouple_init           4 namfldseq            1
+ oasis_namcouple_init           4 namfldops            1
+ oasis_namcouple_init           4 namfldtrn            1
+ oasis_namcouple_init           4 namfldcon            0
+ oasis_namcouple_init           4 namfldcoo bfb
+ oasis_namcouple_init           4 namflddti          900
+ oasis_namcouple_init           4 namfldlag            0
+ oasis_namcouple_init           4 nammapfil idmap
+ oasis_namcouple_init           4 nammaploc src
+ oasis_namcouple_init           4 nammapopt bfb
+ oasis_namcouple_init           4 namrstfil pfl04.nc
+ oasis_namcouple_init           4 naminpfil 
+ oasis_namcouple_init           4 namchecki  F
+ oasis_namcouple_init           4 namchecko  F
+ oasis_namcouple_init           4 namfldsmu    1.00000000000000     
+ oasis_namcouple_init           4 namfldsad   0.000000000000000E+000
+ oasis_namcouple_init           4 namflddmu    1.00000000000000     
+ oasis_namcouple_init           4 namflddad   0.000000000000000E+000
+ oasis_namcouple_init           4 namscrmet BILINEAR
+ oasis_namcouple_init           4 namscrnor NONORM
+ oasis_namcouple_init           4 namscrtyp SCALAR
+ oasis_namcouple_init           4 namscrord 
+ oasis_namcouple_init           4 namscrres LATLON
+ oasis_namcouple_init           4 namscrvam    1.00000000000000     
+ oasis_namcouple_init           4 namscrnbr            0
+ oasis_namcouple_init           4 namscrbin            1
+  
+ oasis_namcouple_init           5 namsrcfld PFLSAT05
+ oasis_namcouple_init           5 namdstfld CLMSAT05
+ oasis_namcouple_init           5 namsrcgrd gpfl
+ oasis_namcouple_init           5 namsrc_nx          111
+ oasis_namcouple_init           5 namsrc_ny          108
+ oasis_namcouple_init           5 namdstgrd gclm
+ oasis_namcouple_init           5 namdst_nx        11988
+ oasis_namcouple_init           5 namdst_ny            1
+ oasis_namcouple_init           5 namfldseq            1
+ oasis_namcouple_init           5 namfldops            1
+ oasis_namcouple_init           5 namfldtrn            1
+ oasis_namcouple_init           5 namfldcon            0
+ oasis_namcouple_init           5 namfldcoo bfb
+ oasis_namcouple_init           5 namflddti          900
+ oasis_namcouple_init           5 namfldlag            0
+ oasis_namcouple_init           5 nammapfil idmap
+ oasis_namcouple_init           5 nammaploc src
+ oasis_namcouple_init           5 nammapopt bfb
+ oasis_namcouple_init           5 namrstfil pfl05.nc
+ oasis_namcouple_init           5 naminpfil 
+ oasis_namcouple_init           5 namchecki  F
+ oasis_namcouple_init           5 namchecko  F
+ oasis_namcouple_init           5 namfldsmu    1.00000000000000     
+ oasis_namcouple_init           5 namfldsad   0.000000000000000E+000
+ oasis_namcouple_init           5 namflddmu    1.00000000000000     
+ oasis_namcouple_init           5 namflddad   0.000000000000000E+000
+ oasis_namcouple_init           5 namscrmet BILINEAR
+ oasis_namcouple_init           5 namscrnor NONORM
+ oasis_namcouple_init           5 namscrtyp SCALAR
+ oasis_namcouple_init           5 namscrord 
+ oasis_namcouple_init           5 namscrres LATLON
+ oasis_namcouple_init           5 namscrvam    1.00000000000000     
+ oasis_namcouple_init           5 namscrnbr            0
+ oasis_namcouple_init           5 namscrbin            1
+  
+ oasis_namcouple_init           6 namsrcfld PFLSAT06
+ oasis_namcouple_init           6 namdstfld CLMSAT06
+ oasis_namcouple_init           6 namsrcgrd gpfl
+ oasis_namcouple_init           6 namsrc_nx          111
+ oasis_namcouple_init           6 namsrc_ny          108
+ oasis_namcouple_init           6 namdstgrd gclm
+ oasis_namcouple_init           6 namdst_nx        11988
+ oasis_namcouple_init           6 namdst_ny            1
+ oasis_namcouple_init           6 namfldseq            1
+ oasis_namcouple_init           6 namfldops            1
+ oasis_namcouple_init           6 namfldtrn            1
+ oasis_namcouple_init           6 namfldcon            0
+ oasis_namcouple_init           6 namfldcoo bfb
+ oasis_namcouple_init           6 namflddti          900
+ oasis_namcouple_init           6 namfldlag            0
+ oasis_namcouple_init           6 nammapfil idmap
+ oasis_namcouple_init           6 nammaploc src
+ oasis_namcouple_init           6 nammapopt bfb
+ oasis_namcouple_init           6 namrstfil pfl06.nc
+ oasis_namcouple_init           6 naminpfil 
+ oasis_namcouple_init           6 namchecki  F
+ oasis_namcouple_init           6 namchecko  F
+ oasis_namcouple_init           6 namfldsmu    1.00000000000000     
+ oasis_namcouple_init           6 namfldsad   0.000000000000000E+000
+ oasis_namcouple_init           6 namflddmu    1.00000000000000     
+ oasis_namcouple_init           6 namflddad   0.000000000000000E+000
+ oasis_namcouple_init           6 namscrmet BILINEAR
+ oasis_namcouple_init           6 namscrnor NONORM
+ oasis_namcouple_init           6 namscrtyp SCALAR
+ oasis_namcouple_init           6 namscrord 
+ oasis_namcouple_init           6 namscrres LATLON
+ oasis_namcouple_init           6 namscrvam    1.00000000000000     
+ oasis_namcouple_init           6 namscrnbr            0
+ oasis_namcouple_init           6 namscrbin            1
+  
+ oasis_namcouple_init           7 namsrcfld PFLSAT07
+ oasis_namcouple_init           7 namdstfld CLMSAT07
+ oasis_namcouple_init           7 namsrcgrd gpfl
+ oasis_namcouple_init           7 namsrc_nx          111
+ oasis_namcouple_init           7 namsrc_ny          108
+ oasis_namcouple_init           7 namdstgrd gclm
+ oasis_namcouple_init           7 namdst_nx        11988
+ oasis_namcouple_init           7 namdst_ny            1
+ oasis_namcouple_init           7 namfldseq            1
+ oasis_namcouple_init           7 namfldops            1
+ oasis_namcouple_init           7 namfldtrn            1
+ oasis_namcouple_init           7 namfldcon            0
+ oasis_namcouple_init           7 namfldcoo bfb
+ oasis_namcouple_init           7 namflddti          900
+ oasis_namcouple_init           7 namfldlag            0
+ oasis_namcouple_init           7 nammapfil idmap
+ oasis_namcouple_init           7 nammaploc src
+ oasis_namcouple_init           7 nammapopt bfb
+ oasis_namcouple_init           7 namrstfil pfl07.nc
+ oasis_namcouple_init           7 naminpfil 
+ oasis_namcouple_init           7 namchecki  F
+ oasis_namcouple_init           7 namchecko  F
+ oasis_namcouple_init           7 namfldsmu    1.00000000000000     
+ oasis_namcouple_init           7 namfldsad   0.000000000000000E+000
+ oasis_namcouple_init           7 namflddmu    1.00000000000000     
+ oasis_namcouple_init           7 namflddad   0.000000000000000E+000
+ oasis_namcouple_init           7 namscrmet BILINEAR
+ oasis_namcouple_init           7 namscrnor NONORM
+ oasis_namcouple_init           7 namscrtyp SCALAR
+ oasis_namcouple_init           7 namscrord 
+ oasis_namcouple_init           7 namscrres LATLON
+ oasis_namcouple_init           7 namscrvam    1.00000000000000     
+ oasis_namcouple_init           7 namscrnbr            0
+ oasis_namcouple_init           7 namscrbin            1
+  
+ oasis_namcouple_init           8 namsrcfld PFLSAT08
+ oasis_namcouple_init           8 namdstfld CLMSAT08
+ oasis_namcouple_init           8 namsrcgrd gpfl
+ oasis_namcouple_init           8 namsrc_nx          111
+ oasis_namcouple_init           8 namsrc_ny          108
+ oasis_namcouple_init           8 namdstgrd gclm
+ oasis_namcouple_init           8 namdst_nx        11988
+ oasis_namcouple_init           8 namdst_ny            1
+ oasis_namcouple_init           8 namfldseq            1
+ oasis_namcouple_init           8 namfldops            1
+ oasis_namcouple_init           8 namfldtrn            1
+ oasis_namcouple_init           8 namfldcon            0
+ oasis_namcouple_init           8 namfldcoo bfb
+ oasis_namcouple_init           8 namflddti          900
+ oasis_namcouple_init           8 namfldlag            0
+ oasis_namcouple_init           8 nammapfil idmap
+ oasis_namcouple_init           8 nammaploc src
+ oasis_namcouple_init           8 nammapopt bfb
+ oasis_namcouple_init           8 namrstfil pfl08.nc
+ oasis_namcouple_init           8 naminpfil 
+ oasis_namcouple_init           8 namchecki  F
+ oasis_namcouple_init           8 namchecko  F
+ oasis_namcouple_init           8 namfldsmu    1.00000000000000     
+ oasis_namcouple_init           8 namfldsad   0.000000000000000E+000
+ oasis_namcouple_init           8 namflddmu    1.00000000000000     
+ oasis_namcouple_init           8 namflddad   0.000000000000000E+000
+ oasis_namcouple_init           8 namscrmet BILINEAR
+ oasis_namcouple_init           8 namscrnor NONORM
+ oasis_namcouple_init           8 namscrtyp SCALAR
+ oasis_namcouple_init           8 namscrord 
+ oasis_namcouple_init           8 namscrres LATLON
+ oasis_namcouple_init           8 namscrvam    1.00000000000000     
+ oasis_namcouple_init           8 namscrnbr            0
+ oasis_namcouple_init           8 namscrbin            1
+  
+ oasis_namcouple_init           9 namsrcfld PFLSAT09
+ oasis_namcouple_init           9 namdstfld CLMSAT09
+ oasis_namcouple_init           9 namsrcgrd gpfl
+ oasis_namcouple_init           9 namsrc_nx          111
+ oasis_namcouple_init           9 namsrc_ny          108
+ oasis_namcouple_init           9 namdstgrd gclm
+ oasis_namcouple_init           9 namdst_nx        11988
+ oasis_namcouple_init           9 namdst_ny            1
+ oasis_namcouple_init           9 namfldseq            1
+ oasis_namcouple_init           9 namfldops            1
+ oasis_namcouple_init           9 namfldtrn            1
+ oasis_namcouple_init           9 namfldcon            0
+ oasis_namcouple_init           9 namfldcoo bfb
+ oasis_namcouple_init           9 namflddti          900
+ oasis_namcouple_init           9 namfldlag            0
+ oasis_namcouple_init           9 nammapfil idmap
+ oasis_namcouple_init           9 nammaploc src
+ oasis_namcouple_init           9 nammapopt bfb
+ oasis_namcouple_init           9 namrstfil pfl09.nc
+ oasis_namcouple_init           9 naminpfil 
+ oasis_namcouple_init           9 namchecki  F
+ oasis_namcouple_init           9 namchecko  F
+ oasis_namcouple_init           9 namfldsmu    1.00000000000000     
+ oasis_namcouple_init           9 namfldsad   0.000000000000000E+000
+ oasis_namcouple_init           9 namflddmu    1.00000000000000     
+ oasis_namcouple_init           9 namflddad   0.000000000000000E+000
+ oasis_namcouple_init           9 namscrmet BILINEAR
+ oasis_namcouple_init           9 namscrnor NONORM
+ oasis_namcouple_init           9 namscrtyp SCALAR
+ oasis_namcouple_init           9 namscrord 
+ oasis_namcouple_init           9 namscrres LATLON
+ oasis_namcouple_init           9 namscrvam    1.00000000000000     
+ oasis_namcouple_init           9 namscrnbr            0
+ oasis_namcouple_init           9 namscrbin            1
+  
+ oasis_namcouple_init          10 namsrcfld PFLSAT10
+ oasis_namcouple_init          10 namdstfld CLMSAT10
+ oasis_namcouple_init          10 namsrcgrd gpfl
+ oasis_namcouple_init          10 namsrc_nx          111
+ oasis_namcouple_init          10 namsrc_ny          108
+ oasis_namcouple_init          10 namdstgrd gclm
+ oasis_namcouple_init          10 namdst_nx        11988
+ oasis_namcouple_init          10 namdst_ny            1
+ oasis_namcouple_init          10 namfldseq            1
+ oasis_namcouple_init          10 namfldops            1
+ oasis_namcouple_init          10 namfldtrn            1
+ oasis_namcouple_init          10 namfldcon            0
+ oasis_namcouple_init          10 namfldcoo bfb
+ oasis_namcouple_init          10 namflddti          900
+ oasis_namcouple_init          10 namfldlag            0
+ oasis_namcouple_init          10 nammapfil idmap
+ oasis_namcouple_init          10 nammaploc src
+ oasis_namcouple_init          10 nammapopt bfb
+ oasis_namcouple_init          10 namrstfil pfl10.nc
+ oasis_namcouple_init          10 naminpfil 
+ oasis_namcouple_init          10 namchecki  F
+ oasis_namcouple_init          10 namchecko  F
+ oasis_namcouple_init          10 namfldsmu    1.00000000000000     
+ oasis_namcouple_init          10 namfldsad   0.000000000000000E+000
+ oasis_namcouple_init          10 namflddmu    1.00000000000000     
+ oasis_namcouple_init          10 namflddad   0.000000000000000E+000
+ oasis_namcouple_init          10 namscrmet BILINEAR
+ oasis_namcouple_init          10 namscrnor NONORM
+ oasis_namcouple_init          10 namscrtyp SCALAR
+ oasis_namcouple_init          10 namscrord 
+ oasis_namcouple_init          10 namscrres LATLON
+ oasis_namcouple_init          10 namscrvam    1.00000000000000     
+ oasis_namcouple_init          10 namscrnbr            0
+ oasis_namcouple_init          10 namscrbin            1
+  
+ oasis_namcouple_init          11 namsrcfld PFLPSI01
+ oasis_namcouple_init          11 namdstfld CLMPSI01
+ oasis_namcouple_init          11 namsrcgrd gpfl
+ oasis_namcouple_init          11 namsrc_nx          111
+ oasis_namcouple_init          11 namsrc_ny          108
+ oasis_namcouple_init          11 namdstgrd gclm
+ oasis_namcouple_init          11 namdst_nx        11988
+ oasis_namcouple_init          11 namdst_ny            1
+ oasis_namcouple_init          11 namfldseq            1
+ oasis_namcouple_init          11 namfldops            1
+ oasis_namcouple_init          11 namfldtrn            1
+ oasis_namcouple_init          11 namfldcon            0
+ oasis_namcouple_init          11 namfldcoo bfb
+ oasis_namcouple_init          11 namflddti          900
+ oasis_namcouple_init          11 namfldlag            0
+ oasis_namcouple_init          11 nammapfil idmap
+ oasis_namcouple_init          11 nammaploc src
+ oasis_namcouple_init          11 nammapopt bfb
+ oasis_namcouple_init          11 namrstfil pfl11.nc
+ oasis_namcouple_init          11 naminpfil 
+ oasis_namcouple_init          11 namchecki  F
+ oasis_namcouple_init          11 namchecko  F
+ oasis_namcouple_init          11 namfldsmu    1.00000000000000     
+ oasis_namcouple_init          11 namfldsad   0.000000000000000E+000
+ oasis_namcouple_init          11 namflddmu    1.00000000000000     
+ oasis_namcouple_init          11 namflddad   0.000000000000000E+000
+ oasis_namcouple_init          11 namscrmet BILINEAR
+ oasis_namcouple_init          11 namscrnor NONORM
+ oasis_namcouple_init          11 namscrtyp SCALAR
+ oasis_namcouple_init          11 namscrord 
+ oasis_namcouple_init          11 namscrres LATLON
+ oasis_namcouple_init          11 namscrvam    1.00000000000000     
+ oasis_namcouple_init          11 namscrnbr            0
+ oasis_namcouple_init          11 namscrbin            1
+  
+ oasis_namcouple_init          12 namsrcfld PFLPSI02
+ oasis_namcouple_init          12 namdstfld CLMPSI02
+ oasis_namcouple_init          12 namsrcgrd gpfl
+ oasis_namcouple_init          12 namsrc_nx          111
+ oasis_namcouple_init          12 namsrc_ny          108
+ oasis_namcouple_init          12 namdstgrd gclm
+ oasis_namcouple_init          12 namdst_nx        11988
+ oasis_namcouple_init          12 namdst_ny            1
+ oasis_namcouple_init          12 namfldseq            1
+ oasis_namcouple_init          12 namfldops            1
+ oasis_namcouple_init          12 namfldtrn            1
+ oasis_namcouple_init          12 namfldcon            0
+ oasis_namcouple_init          12 namfldcoo bfb
+ oasis_namcouple_init          12 namflddti          900
+ oasis_namcouple_init          12 namfldlag            0
+ oasis_namcouple_init          12 nammapfil idmap
+ oasis_namcouple_init          12 nammaploc src
+ oasis_namcouple_init          12 nammapopt bfb
+ oasis_namcouple_init          12 namrstfil pfl12.nc
+ oasis_namcouple_init          12 naminpfil 
+ oasis_namcouple_init          12 namchecki  F
+ oasis_namcouple_init          12 namchecko  F
+ oasis_namcouple_init          12 namfldsmu    1.00000000000000     
+ oasis_namcouple_init          12 namfldsad   0.000000000000000E+000
+ oasis_namcouple_init          12 namflddmu    1.00000000000000     
+ oasis_namcouple_init          12 namflddad   0.000000000000000E+000
+ oasis_namcouple_init          12 namscrmet BILINEAR
+ oasis_namcouple_init          12 namscrnor NONORM
+ oasis_namcouple_init          12 namscrtyp SCALAR
+ oasis_namcouple_init          12 namscrord 
+ oasis_namcouple_init          12 namscrres LATLON
+ oasis_namcouple_init          12 namscrvam    1.00000000000000     
+ oasis_namcouple_init          12 namscrnbr            0
+ oasis_namcouple_init          12 namscrbin            1
+  
+ oasis_namcouple_init          13 namsrcfld PFLPSI03
+ oasis_namcouple_init          13 namdstfld CLMPSI03
+ oasis_namcouple_init          13 namsrcgrd gpfl
+ oasis_namcouple_init          13 namsrc_nx          111
+ oasis_namcouple_init          13 namsrc_ny          108
+ oasis_namcouple_init          13 namdstgrd gclm
+ oasis_namcouple_init          13 namdst_nx        11988
+ oasis_namcouple_init          13 namdst_ny            1
+ oasis_namcouple_init          13 namfldseq            1
+ oasis_namcouple_init          13 namfldops            1
+ oasis_namcouple_init          13 namfldtrn            1
+ oasis_namcouple_init          13 namfldcon            0
+ oasis_namcouple_init          13 namfldcoo bfb
+ oasis_namcouple_init          13 namflddti          900
+ oasis_namcouple_init          13 namfldlag            0
+ oasis_namcouple_init          13 nammapfil idmap
+ oasis_namcouple_init          13 nammaploc src
+ oasis_namcouple_init          13 nammapopt bfb
+ oasis_namcouple_init          13 namrstfil pfl13.nc
+ oasis_namcouple_init          13 naminpfil 
+ oasis_namcouple_init          13 namchecki  F
+ oasis_namcouple_init          13 namchecko  F
+ oasis_namcouple_init          13 namfldsmu    1.00000000000000     
+ oasis_namcouple_init          13 namfldsad   0.000000000000000E+000
+ oasis_namcouple_init          13 namflddmu    1.00000000000000     
+ oasis_namcouple_init          13 namflddad   0.000000000000000E+000
+ oasis_namcouple_init          13 namscrmet BILINEAR
+ oasis_namcouple_init          13 namscrnor NONORM
+ oasis_namcouple_init          13 namscrtyp SCALAR
+ oasis_namcouple_init          13 namscrord 
+ oasis_namcouple_init          13 namscrres LATLON
+ oasis_namcouple_init          13 namscrvam    1.00000000000000     
+ oasis_namcouple_init          13 namscrnbr            0
+ oasis_namcouple_init          13 namscrbin            1
+  
+ oasis_namcouple_init          14 namsrcfld PFLPSI04
+ oasis_namcouple_init          14 namdstfld CLMPSI04
+ oasis_namcouple_init          14 namsrcgrd gpfl
+ oasis_namcouple_init          14 namsrc_nx          111
+ oasis_namcouple_init          14 namsrc_ny          108
+ oasis_namcouple_init          14 namdstgrd gclm
+ oasis_namcouple_init          14 namdst_nx        11988
+ oasis_namcouple_init          14 namdst_ny            1
+ oasis_namcouple_init          14 namfldseq            1
+ oasis_namcouple_init          14 namfldops            1
+ oasis_namcouple_init          14 namfldtrn            1
+ oasis_namcouple_init          14 namfldcon            0
+ oasis_namcouple_init          14 namfldcoo bfb
+ oasis_namcouple_init          14 namflddti          900
+ oasis_namcouple_init          14 namfldlag            0
+ oasis_namcouple_init          14 nammapfil idmap
+ oasis_namcouple_init          14 nammaploc src
+ oasis_namcouple_init          14 nammapopt bfb
+ oasis_namcouple_init          14 namrstfil pfl14.nc
+ oasis_namcouple_init          14 naminpfil 
+ oasis_namcouple_init          14 namchecki  F
+ oasis_namcouple_init          14 namchecko  F
+ oasis_namcouple_init          14 namfldsmu    1.00000000000000     
+ oasis_namcouple_init          14 namfldsad   0.000000000000000E+000
+ oasis_namcouple_init          14 namflddmu    1.00000000000000     
+ oasis_namcouple_init          14 namflddad   0.000000000000000E+000
+ oasis_namcouple_init          14 namscrmet BILINEAR
+ oasis_namcouple_init          14 namscrnor NONORM
+ oasis_namcouple_init          14 namscrtyp SCALAR
+ oasis_namcouple_init          14 namscrord 
+ oasis_namcouple_init          14 namscrres LATLON
+ oasis_namcouple_init          14 namscrvam    1.00000000000000     
+ oasis_namcouple_init          14 namscrnbr            0
+ oasis_namcouple_init          14 namscrbin            1
+  
+ oasis_namcouple_init          15 namsrcfld PFLPSI05
+ oasis_namcouple_init          15 namdstfld CLMPSI05
+ oasis_namcouple_init          15 namsrcgrd gpfl
+ oasis_namcouple_init          15 namsrc_nx          111
+ oasis_namcouple_init          15 namsrc_ny          108
+ oasis_namcouple_init          15 namdstgrd gclm
+ oasis_namcouple_init          15 namdst_nx        11988
+ oasis_namcouple_init          15 namdst_ny            1
+ oasis_namcouple_init          15 namfldseq            1
+ oasis_namcouple_init          15 namfldops            1
+ oasis_namcouple_init          15 namfldtrn            1
+ oasis_namcouple_init          15 namfldcon            0
+ oasis_namcouple_init          15 namfldcoo bfb
+ oasis_namcouple_init          15 namflddti          900
+ oasis_namcouple_init          15 namfldlag            0
+ oasis_namcouple_init          15 nammapfil idmap
+ oasis_namcouple_init          15 nammaploc src
+ oasis_namcouple_init          15 nammapopt bfb
+ oasis_namcouple_init          15 namrstfil pfl15.nc
+ oasis_namcouple_init          15 naminpfil 
+ oasis_namcouple_init          15 namchecki  F
+ oasis_namcouple_init          15 namchecko  F
+ oasis_namcouple_init          15 namfldsmu    1.00000000000000     
+ oasis_namcouple_init          15 namfldsad   0.000000000000000E+000
+ oasis_namcouple_init          15 namflddmu    1.00000000000000     
+ oasis_namcouple_init          15 namflddad   0.000000000000000E+000
+ oasis_namcouple_init          15 namscrmet BILINEAR
+ oasis_namcouple_init          15 namscrnor NONORM
+ oasis_namcouple_init          15 namscrtyp SCALAR
+ oasis_namcouple_init          15 namscrord 
+ oasis_namcouple_init          15 namscrres LATLON
+ oasis_namcouple_init          15 namscrvam    1.00000000000000     
+ oasis_namcouple_init          15 namscrnbr            0
+ oasis_namcouple_init          15 namscrbin            1
+  
+ oasis_namcouple_init          16 namsrcfld PFLPSI06
+ oasis_namcouple_init          16 namdstfld CLMPSI06
+ oasis_namcouple_init          16 namsrcgrd gpfl
+ oasis_namcouple_init          16 namsrc_nx          111
+ oasis_namcouple_init          16 namsrc_ny          108
+ oasis_namcouple_init          16 namdstgrd gclm
+ oasis_namcouple_init          16 namdst_nx        11988
+ oasis_namcouple_init          16 namdst_ny            1
+ oasis_namcouple_init          16 namfldseq            1
+ oasis_namcouple_init          16 namfldops            1
+ oasis_namcouple_init          16 namfldtrn            1
+ oasis_namcouple_init          16 namfldcon            0
+ oasis_namcouple_init          16 namfldcoo bfb
+ oasis_namcouple_init          16 namflddti          900
+ oasis_namcouple_init          16 namfldlag            0
+ oasis_namcouple_init          16 nammapfil idmap
+ oasis_namcouple_init          16 nammaploc src
+ oasis_namcouple_init          16 nammapopt bfb
+ oasis_namcouple_init          16 namrstfil pfl16.nc
+ oasis_namcouple_init          16 naminpfil 
+ oasis_namcouple_init          16 namchecki  F
+ oasis_namcouple_init          16 namchecko  F
+ oasis_namcouple_init          16 namfldsmu    1.00000000000000     
+ oasis_namcouple_init          16 namfldsad   0.000000000000000E+000
+ oasis_namcouple_init          16 namflddmu    1.00000000000000     
+ oasis_namcouple_init          16 namflddad   0.000000000000000E+000
+ oasis_namcouple_init          16 namscrmet BILINEAR
+ oasis_namcouple_init          16 namscrnor NONORM
+ oasis_namcouple_init          16 namscrtyp SCALAR
+ oasis_namcouple_init          16 namscrord 
+ oasis_namcouple_init          16 namscrres LATLON
+ oasis_namcouple_init          16 namscrvam    1.00000000000000     
+ oasis_namcouple_init          16 namscrnbr            0
+ oasis_namcouple_init          16 namscrbin            1
+  
+ oasis_namcouple_init          17 namsrcfld PFLPSI07
+ oasis_namcouple_init          17 namdstfld CLMPSI07
+ oasis_namcouple_init          17 namsrcgrd gpfl
+ oasis_namcouple_init          17 namsrc_nx          111
+ oasis_namcouple_init          17 namsrc_ny          108
+ oasis_namcouple_init          17 namdstgrd gclm
+ oasis_namcouple_init          17 namdst_nx        11988
+ oasis_namcouple_init          17 namdst_ny            1
+ oasis_namcouple_init          17 namfldseq            1
+ oasis_namcouple_init          17 namfldops            1
+ oasis_namcouple_init          17 namfldtrn            1
+ oasis_namcouple_init          17 namfldcon            0
+ oasis_namcouple_init          17 namfldcoo bfb
+ oasis_namcouple_init          17 namflddti          900
+ oasis_namcouple_init          17 namfldlag            0
+ oasis_namcouple_init          17 nammapfil idmap
+ oasis_namcouple_init          17 nammaploc src
+ oasis_namcouple_init          17 nammapopt bfb
+ oasis_namcouple_init          17 namrstfil pfl17.nc
+ oasis_namcouple_init          17 naminpfil 
+ oasis_namcouple_init          17 namchecki  F
+ oasis_namcouple_init          17 namchecko  F
+ oasis_namcouple_init          17 namfldsmu    1.00000000000000     
+ oasis_namcouple_init          17 namfldsad   0.000000000000000E+000
+ oasis_namcouple_init          17 namflddmu    1.00000000000000     
+ oasis_namcouple_init          17 namflddad   0.000000000000000E+000
+ oasis_namcouple_init          17 namscrmet BILINEAR
+ oasis_namcouple_init          17 namscrnor NONORM
+ oasis_namcouple_init          17 namscrtyp SCALAR
+ oasis_namcouple_init          17 namscrord 
+ oasis_namcouple_init          17 namscrres LATLON
+ oasis_namcouple_init          17 namscrvam    1.00000000000000     
+ oasis_namcouple_init          17 namscrnbr            0
+ oasis_namcouple_init          17 namscrbin            1
+  
+ oasis_namcouple_init          18 namsrcfld PFLPSI08
+ oasis_namcouple_init          18 namdstfld CLMPSI08
+ oasis_namcouple_init          18 namsrcgrd gpfl
+ oasis_namcouple_init          18 namsrc_nx          111
+ oasis_namcouple_init          18 namsrc_ny          108
+ oasis_namcouple_init          18 namdstgrd gclm
+ oasis_namcouple_init          18 namdst_nx        11988
+ oasis_namcouple_init          18 namdst_ny            1
+ oasis_namcouple_init          18 namfldseq            1
+ oasis_namcouple_init          18 namfldops            1
+ oasis_namcouple_init          18 namfldtrn            1
+ oasis_namcouple_init          18 namfldcon            0
+ oasis_namcouple_init          18 namfldcoo bfb
+ oasis_namcouple_init          18 namflddti          900
+ oasis_namcouple_init          18 namfldlag            0
+ oasis_namcouple_init          18 nammapfil idmap
+ oasis_namcouple_init          18 nammaploc src
+ oasis_namcouple_init          18 nammapopt bfb
+ oasis_namcouple_init          18 namrstfil pfl18.nc
+ oasis_namcouple_init          18 naminpfil 
+ oasis_namcouple_init          18 namchecki  F
+ oasis_namcouple_init          18 namchecko  F
+ oasis_namcouple_init          18 namfldsmu    1.00000000000000     
+ oasis_namcouple_init          18 namfldsad   0.000000000000000E+000
+ oasis_namcouple_init          18 namflddmu    1.00000000000000     
+ oasis_namcouple_init          18 namflddad   0.000000000000000E+000
+ oasis_namcouple_init          18 namscrmet BILINEAR
+ oasis_namcouple_init          18 namscrnor NONORM
+ oasis_namcouple_init          18 namscrtyp SCALAR
+ oasis_namcouple_init          18 namscrord 
+ oasis_namcouple_init          18 namscrres LATLON
+ oasis_namcouple_init          18 namscrvam    1.00000000000000     
+ oasis_namcouple_init          18 namscrnbr            0
+ oasis_namcouple_init          18 namscrbin            1
+  
+ oasis_namcouple_init          19 namsrcfld PFLPSI09
+ oasis_namcouple_init          19 namdstfld CLMPSI09
+ oasis_namcouple_init          19 namsrcgrd gpfl
+ oasis_namcouple_init          19 namsrc_nx          111
+ oasis_namcouple_init          19 namsrc_ny          108
+ oasis_namcouple_init          19 namdstgrd gclm
+ oasis_namcouple_init          19 namdst_nx        11988
+ oasis_namcouple_init          19 namdst_ny            1
+ oasis_namcouple_init          19 namfldseq            1
+ oasis_namcouple_init          19 namfldops            1
+ oasis_namcouple_init          19 namfldtrn            1
+ oasis_namcouple_init          19 namfldcon            0
+ oasis_namcouple_init          19 namfldcoo bfb
+ oasis_namcouple_init          19 namflddti          900
+ oasis_namcouple_init          19 namfldlag            0
+ oasis_namcouple_init          19 nammapfil idmap
+ oasis_namcouple_init          19 nammaploc src
+ oasis_namcouple_init          19 nammapopt bfb
+ oasis_namcouple_init          19 namrstfil pfl19.nc
+ oasis_namcouple_init          19 naminpfil 
+ oasis_namcouple_init          19 namchecki  F
+ oasis_namcouple_init          19 namchecko  F
+ oasis_namcouple_init          19 namfldsmu    1.00000000000000     
+ oasis_namcouple_init          19 namfldsad   0.000000000000000E+000
+ oasis_namcouple_init          19 namflddmu    1.00000000000000     
+ oasis_namcouple_init          19 namflddad   0.000000000000000E+000
+ oasis_namcouple_init          19 namscrmet BILINEAR
+ oasis_namcouple_init          19 namscrnor NONORM
+ oasis_namcouple_init          19 namscrtyp SCALAR
+ oasis_namcouple_init          19 namscrord 
+ oasis_namcouple_init          19 namscrres LATLON
+ oasis_namcouple_init          19 namscrvam    1.00000000000000     
+ oasis_namcouple_init          19 namscrnbr            0
+ oasis_namcouple_init          19 namscrbin            1
+  
+ oasis_namcouple_init          20 namsrcfld PFLPSI10
+ oasis_namcouple_init          20 namdstfld CLMPSI10
+ oasis_namcouple_init          20 namsrcgrd gpfl
+ oasis_namcouple_init          20 namsrc_nx          111
+ oasis_namcouple_init          20 namsrc_ny          108
+ oasis_namcouple_init          20 namdstgrd gclm
+ oasis_namcouple_init          20 namdst_nx        11988
+ oasis_namcouple_init          20 namdst_ny            1
+ oasis_namcouple_init          20 namfldseq            1
+ oasis_namcouple_init          20 namfldops            1
+ oasis_namcouple_init          20 namfldtrn            1
+ oasis_namcouple_init          20 namfldcon            0
+ oasis_namcouple_init          20 namfldcoo bfb
+ oasis_namcouple_init          20 namflddti          900
+ oasis_namcouple_init          20 namfldlag            0
+ oasis_namcouple_init          20 nammapfil idmap
+ oasis_namcouple_init          20 nammaploc src
+ oasis_namcouple_init          20 nammapopt bfb
+ oasis_namcouple_init          20 namrstfil pfl20.nc
+ oasis_namcouple_init          20 naminpfil 
+ oasis_namcouple_init          20 namchecki  F
+ oasis_namcouple_init          20 namchecko  F
+ oasis_namcouple_init          20 namfldsmu    1.00000000000000     
+ oasis_namcouple_init          20 namfldsad   0.000000000000000E+000
+ oasis_namcouple_init          20 namflddmu    1.00000000000000     
+ oasis_namcouple_init          20 namflddad   0.000000000000000E+000
+ oasis_namcouple_init          20 namscrmet BILINEAR
+ oasis_namcouple_init          20 namscrnor NONORM
+ oasis_namcouple_init          20 namscrtyp SCALAR
+ oasis_namcouple_init          20 namscrord 
+ oasis_namcouple_init          20 namscrres LATLON
+ oasis_namcouple_init          20 namscrvam    1.00000000000000     
+ oasis_namcouple_init          20 namscrnbr            0
+ oasis_namcouple_init          20 namscrbin            1
+  
+ oasis_namcouple_init          21 namsrcfld CLMFLX01
+ oasis_namcouple_init          21 namdstfld PFLFLX01
+ oasis_namcouple_init          21 namsrcgrd gclm
+ oasis_namcouple_init          21 namsrc_nx        11988
+ oasis_namcouple_init          21 namsrc_ny            1
+ oasis_namcouple_init          21 namdstgrd gpfl
+ oasis_namcouple_init          21 namdst_nx          111
+ oasis_namcouple_init          21 namdst_ny          108
+ oasis_namcouple_init          21 namfldseq            2
+ oasis_namcouple_init          21 namfldops            5
+ oasis_namcouple_init          21 namfldtrn            1
+ oasis_namcouple_init          21 namfldcon            0
+ oasis_namcouple_init          21 namfldcoo bfb
+ oasis_namcouple_init          21 namflddti          900
+ oasis_namcouple_init          21 namfldlag            0
+ oasis_namcouple_init          21 nammapfil idmap
+ oasis_namcouple_init          21 nammaploc src
+ oasis_namcouple_init          21 nammapopt bfb
+ oasis_namcouple_init          21 namrstfil clm07.nc
+ oasis_namcouple_init          21 naminpfil 
+ oasis_namcouple_init          21 namchecki  F
+ oasis_namcouple_init          21 namchecko  F
+ oasis_namcouple_init          21 namfldsmu    1.00000000000000     
+ oasis_namcouple_init          21 namfldsad   0.000000000000000E+000
+ oasis_namcouple_init          21 namflddmu    1.00000000000000     
+ oasis_namcouple_init          21 namflddad   0.000000000000000E+000
+ oasis_namcouple_init          21 namscrmet DISTWGT
+ oasis_namcouple_init          21 namscrnor NONORM
+ oasis_namcouple_init          21 namscrtyp SCALAR
+ oasis_namcouple_init          21 namscrord 
+ oasis_namcouple_init          21 namscrres LATLON
+ oasis_namcouple_init          21 namscrvam    1.00000000000000     
+ oasis_namcouple_init          21 namscrnbr            4
+ oasis_namcouple_init          21 namscrbin            1
+  
+ oasis_namcouple_init          22 namsrcfld CLMFLX02
+ oasis_namcouple_init          22 namdstfld PFLFLX02
+ oasis_namcouple_init          22 namsrcgrd gclm
+ oasis_namcouple_init          22 namsrc_nx        11988
+ oasis_namcouple_init          22 namsrc_ny            1
+ oasis_namcouple_init          22 namdstgrd gpfl
+ oasis_namcouple_init          22 namdst_nx          111
+ oasis_namcouple_init          22 namdst_ny          108
+ oasis_namcouple_init          22 namfldseq            2
+ oasis_namcouple_init          22 namfldops            1
+ oasis_namcouple_init          22 namfldtrn            1
+ oasis_namcouple_init          22 namfldcon            0
+ oasis_namcouple_init          22 namfldcoo bfb
+ oasis_namcouple_init          22 namflddti          900
+ oasis_namcouple_init          22 namfldlag            0
+ oasis_namcouple_init          22 nammapfil idmap
+ oasis_namcouple_init          22 nammaploc src
+ oasis_namcouple_init          22 nammapopt bfb
+ oasis_namcouple_init          22 namrstfil clm08.nc
+ oasis_namcouple_init          22 naminpfil 
+ oasis_namcouple_init          22 namchecki  F
+ oasis_namcouple_init          22 namchecko  F
+ oasis_namcouple_init          22 namfldsmu    1.00000000000000     
+ oasis_namcouple_init          22 namfldsad   0.000000000000000E+000
+ oasis_namcouple_init          22 namflddmu    1.00000000000000     
+ oasis_namcouple_init          22 namflddad   0.000000000000000E+000
+ oasis_namcouple_init          22 namscrmet DISTWGT
+ oasis_namcouple_init          22 namscrnor NONORM
+ oasis_namcouple_init          22 namscrtyp SCALAR
+ oasis_namcouple_init          22 namscrord 
+ oasis_namcouple_init          22 namscrres LATLON
+ oasis_namcouple_init          22 namscrvam    1.00000000000000     
+ oasis_namcouple_init          22 namscrnbr            4
+ oasis_namcouple_init          22 namscrbin            1
+  
+ oasis_namcouple_init          23 namsrcfld CLMFLX03
+ oasis_namcouple_init          23 namdstfld PFLFLX03
+ oasis_namcouple_init          23 namsrcgrd gclm
+ oasis_namcouple_init          23 namsrc_nx        11988
+ oasis_namcouple_init          23 namsrc_ny            1
+ oasis_namcouple_init          23 namdstgrd gpfl
+ oasis_namcouple_init          23 namdst_nx          111
+ oasis_namcouple_init          23 namdst_ny          108
+ oasis_namcouple_init          23 namfldseq            2
+ oasis_namcouple_init          23 namfldops            1
+ oasis_namcouple_init          23 namfldtrn            1
+ oasis_namcouple_init          23 namfldcon            0
+ oasis_namcouple_init          23 namfldcoo bfb
+ oasis_namcouple_init          23 namflddti          900
+ oasis_namcouple_init          23 namfldlag            0
+ oasis_namcouple_init          23 nammapfil idmap
+ oasis_namcouple_init          23 nammaploc src
+ oasis_namcouple_init          23 nammapopt bfb
+ oasis_namcouple_init          23 namrstfil clm09.nc
+ oasis_namcouple_init          23 naminpfil 
+ oasis_namcouple_init          23 namchecki  F
+ oasis_namcouple_init          23 namchecko  F
+ oasis_namcouple_init          23 namfldsmu    1.00000000000000     
+ oasis_namcouple_init          23 namfldsad   0.000000000000000E+000
+ oasis_namcouple_init          23 namflddmu    1.00000000000000     
+ oasis_namcouple_init          23 namflddad   0.000000000000000E+000
+ oasis_namcouple_init          23 namscrmet DISTWGT
+ oasis_namcouple_init          23 namscrnor NONORM
+ oasis_namcouple_init          23 namscrtyp SCALAR
+ oasis_namcouple_init          23 namscrord 
+ oasis_namcouple_init          23 namscrres LATLON
+ oasis_namcouple_init          23 namscrvam    1.00000000000000     
+ oasis_namcouple_init          23 namscrnbr            4
+ oasis_namcouple_init          23 namscrbin            1
+  
+ oasis_namcouple_init          24 namsrcfld CLMFLX04
+ oasis_namcouple_init          24 namdstfld PFLFLX04
+ oasis_namcouple_init          24 namsrcgrd gclm
+ oasis_namcouple_init          24 namsrc_nx        11988
+ oasis_namcouple_init          24 namsrc_ny            1
+ oasis_namcouple_init          24 namdstgrd gpfl
+ oasis_namcouple_init          24 namdst_nx          111
+ oasis_namcouple_init          24 namdst_ny          108
+ oasis_namcouple_init          24 namfldseq            2
+ oasis_namcouple_init          24 namfldops            1
+ oasis_namcouple_init          24 namfldtrn            1
+ oasis_namcouple_init          24 namfldcon            0
+ oasis_namcouple_init          24 namfldcoo bfb
+ oasis_namcouple_init          24 namflddti          900
+ oasis_namcouple_init          24 namfldlag            0
+ oasis_namcouple_init          24 nammapfil idmap
+ oasis_namcouple_init          24 nammaploc src
+ oasis_namcouple_init          24 nammapopt bfb
+ oasis_namcouple_init          24 namrstfil clm10.nc
+ oasis_namcouple_init          24 naminpfil 
+ oasis_namcouple_init          24 namchecki  F
+ oasis_namcouple_init          24 namchecko  F
+ oasis_namcouple_init          24 namfldsmu    1.00000000000000     
+ oasis_namcouple_init          24 namfldsad   0.000000000000000E+000
+ oasis_namcouple_init          24 namflddmu    1.00000000000000     
+ oasis_namcouple_init          24 namflddad   0.000000000000000E+000
+ oasis_namcouple_init          24 namscrmet DISTWGT
+ oasis_namcouple_init          24 namscrnor NONORM
+ oasis_namcouple_init          24 namscrtyp SCALAR
+ oasis_namcouple_init          24 namscrord 
+ oasis_namcouple_init          24 namscrres LATLON
+ oasis_namcouple_init          24 namscrvam    1.00000000000000     
+ oasis_namcouple_init          24 namscrnbr            4
+ oasis_namcouple_init          24 namscrbin            1
+  
+ oasis_namcouple_init          25 namsrcfld CLMFLX05
+ oasis_namcouple_init          25 namdstfld PFLFLX05
+ oasis_namcouple_init          25 namsrcgrd gclm
+ oasis_namcouple_init          25 namsrc_nx        11988
+ oasis_namcouple_init          25 namsrc_ny            1
+ oasis_namcouple_init          25 namdstgrd gpfl
+ oasis_namcouple_init          25 namdst_nx          111
+ oasis_namcouple_init          25 namdst_ny          108
+ oasis_namcouple_init          25 namfldseq            2
+ oasis_namcouple_init          25 namfldops            1
+ oasis_namcouple_init          25 namfldtrn            1
+ oasis_namcouple_init          25 namfldcon            0
+ oasis_namcouple_init          25 namfldcoo bfb
+ oasis_namcouple_init          25 namflddti          900
+ oasis_namcouple_init          25 namfldlag            0
+ oasis_namcouple_init          25 nammapfil idmap
+ oasis_namcouple_init          25 nammaploc src
+ oasis_namcouple_init          25 nammapopt bfb
+ oasis_namcouple_init          25 namrstfil clm11.nc
+ oasis_namcouple_init          25 naminpfil 
+ oasis_namcouple_init          25 namchecki  F
+ oasis_namcouple_init          25 namchecko  F
+ oasis_namcouple_init          25 namfldsmu    1.00000000000000     
+ oasis_namcouple_init          25 namfldsad   0.000000000000000E+000
+ oasis_namcouple_init          25 namflddmu    1.00000000000000     
+ oasis_namcouple_init          25 namflddad   0.000000000000000E+000
+ oasis_namcouple_init          25 namscrmet DISTWGT
+ oasis_namcouple_init          25 namscrnor NONORM
+ oasis_namcouple_init          25 namscrtyp SCALAR
+ oasis_namcouple_init          25 namscrord 
+ oasis_namcouple_init          25 namscrres LATLON
+ oasis_namcouple_init          25 namscrvam    1.00000000000000     
+ oasis_namcouple_init          25 namscrnbr            4
+ oasis_namcouple_init          25 namscrbin            1
+  
+ oasis_namcouple_init          26 namsrcfld CLMFLX06
+ oasis_namcouple_init          26 namdstfld PFLFLX06
+ oasis_namcouple_init          26 namsrcgrd gclm
+ oasis_namcouple_init          26 namsrc_nx        11988
+ oasis_namcouple_init          26 namsrc_ny            1
+ oasis_namcouple_init          26 namdstgrd gpfl
+ oasis_namcouple_init          26 namdst_nx          111
+ oasis_namcouple_init          26 namdst_ny          108
+ oasis_namcouple_init          26 namfldseq            2
+ oasis_namcouple_init          26 namfldops            1
+ oasis_namcouple_init          26 namfldtrn            1
+ oasis_namcouple_init          26 namfldcon            0
+ oasis_namcouple_init          26 namfldcoo bfb
+ oasis_namcouple_init          26 namflddti          900
+ oasis_namcouple_init          26 namfldlag            0
+ oasis_namcouple_init          26 nammapfil idmap
+ oasis_namcouple_init          26 nammaploc src
+ oasis_namcouple_init          26 nammapopt bfb
+ oasis_namcouple_init          26 namrstfil clm12.nc
+ oasis_namcouple_init          26 naminpfil 
+ oasis_namcouple_init          26 namchecki  F
+ oasis_namcouple_init          26 namchecko  F
+ oasis_namcouple_init          26 namfldsmu    1.00000000000000     
+ oasis_namcouple_init          26 namfldsad   0.000000000000000E+000
+ oasis_namcouple_init          26 namflddmu    1.00000000000000     
+ oasis_namcouple_init          26 namflddad   0.000000000000000E+000
+ oasis_namcouple_init          26 namscrmet DISTWGT
+ oasis_namcouple_init          26 namscrnor NONORM
+ oasis_namcouple_init          26 namscrtyp SCALAR
+ oasis_namcouple_init          26 namscrord 
+ oasis_namcouple_init          26 namscrres LATLON
+ oasis_namcouple_init          26 namscrvam    1.00000000000000     
+ oasis_namcouple_init          26 namscrnbr            4
+ oasis_namcouple_init          26 namscrbin            1
+  
+ oasis_namcouple_init          27 namsrcfld CLMFLX07
+ oasis_namcouple_init          27 namdstfld PFLFLX07
+ oasis_namcouple_init          27 namsrcgrd gclm
+ oasis_namcouple_init          27 namsrc_nx        11988
+ oasis_namcouple_init          27 namsrc_ny            1
+ oasis_namcouple_init          27 namdstgrd gpfl
+ oasis_namcouple_init          27 namdst_nx          111
+ oasis_namcouple_init          27 namdst_ny          108
+ oasis_namcouple_init          27 namfldseq            2
+ oasis_namcouple_init          27 namfldops            1
+ oasis_namcouple_init          27 namfldtrn            1
+ oasis_namcouple_init          27 namfldcon            0
+ oasis_namcouple_init          27 namfldcoo bfb
+ oasis_namcouple_init          27 namflddti          900
+ oasis_namcouple_init          27 namfldlag            0
+ oasis_namcouple_init          27 nammapfil idmap
+ oasis_namcouple_init          27 nammaploc src
+ oasis_namcouple_init          27 nammapopt bfb
+ oasis_namcouple_init          27 namrstfil clm13.nc
+ oasis_namcouple_init          27 naminpfil 
+ oasis_namcouple_init          27 namchecki  F
+ oasis_namcouple_init          27 namchecko  F
+ oasis_namcouple_init          27 namfldsmu    1.00000000000000     
+ oasis_namcouple_init          27 namfldsad   0.000000000000000E+000
+ oasis_namcouple_init          27 namflddmu    1.00000000000000     
+ oasis_namcouple_init          27 namflddad   0.000000000000000E+000
+ oasis_namcouple_init          27 namscrmet DISTWGT
+ oasis_namcouple_init          27 namscrnor NONORM
+ oasis_namcouple_init          27 namscrtyp SCALAR
+ oasis_namcouple_init          27 namscrord 
+ oasis_namcouple_init          27 namscrres LATLON
+ oasis_namcouple_init          27 namscrvam    1.00000000000000     
+ oasis_namcouple_init          27 namscrnbr            4
+ oasis_namcouple_init          27 namscrbin            1
+  
+ oasis_namcouple_init          28 namsrcfld CLMFLX08
+ oasis_namcouple_init          28 namdstfld PFLFLX08
+ oasis_namcouple_init          28 namsrcgrd gclm
+ oasis_namcouple_init          28 namsrc_nx        11988
+ oasis_namcouple_init          28 namsrc_ny            1
+ oasis_namcouple_init          28 namdstgrd gpfl
+ oasis_namcouple_init          28 namdst_nx          111
+ oasis_namcouple_init          28 namdst_ny          108
+ oasis_namcouple_init          28 namfldseq            2
+ oasis_namcouple_init          28 namfldops            1
+ oasis_namcouple_init          28 namfldtrn            1
+ oasis_namcouple_init          28 namfldcon            0
+ oasis_namcouple_init          28 namfldcoo bfb
+ oasis_namcouple_init          28 namflddti          900
+ oasis_namcouple_init          28 namfldlag            0
+ oasis_namcouple_init          28 nammapfil idmap
+ oasis_namcouple_init          28 nammaploc src
+ oasis_namcouple_init          28 nammapopt bfb
+ oasis_namcouple_init          28 namrstfil clm14.nc
+ oasis_namcouple_init          28 naminpfil 
+ oasis_namcouple_init          28 namchecki  F
+ oasis_namcouple_init          28 namchecko  F
+ oasis_namcouple_init          28 namfldsmu    1.00000000000000     
+ oasis_namcouple_init          28 namfldsad   0.000000000000000E+000
+ oasis_namcouple_init          28 namflddmu    1.00000000000000     
+ oasis_namcouple_init          28 namflddad   0.000000000000000E+000
+ oasis_namcouple_init          28 namscrmet DISTWGT
+ oasis_namcouple_init          28 namscrnor NONORM
+ oasis_namcouple_init          28 namscrtyp SCALAR
+ oasis_namcouple_init          28 namscrord 
+ oasis_namcouple_init          28 namscrres LATLON
+ oasis_namcouple_init          28 namscrvam    1.00000000000000     
+ oasis_namcouple_init          28 namscrnbr            4
+ oasis_namcouple_init          28 namscrbin            1
+  
+ oasis_namcouple_init          29 namsrcfld CLMFLX09
+ oasis_namcouple_init          29 namdstfld PFLFLX09
+ oasis_namcouple_init          29 namsrcgrd gclm
+ oasis_namcouple_init          29 namsrc_nx        11988
+ oasis_namcouple_init          29 namsrc_ny            1
+ oasis_namcouple_init          29 namdstgrd gpfl
+ oasis_namcouple_init          29 namdst_nx          111
+ oasis_namcouple_init          29 namdst_ny          108
+ oasis_namcouple_init          29 namfldseq            2
+ oasis_namcouple_init          29 namfldops            1
+ oasis_namcouple_init          29 namfldtrn            1
+ oasis_namcouple_init          29 namfldcon            0
+ oasis_namcouple_init          29 namfldcoo bfb
+ oasis_namcouple_init          29 namflddti          900
+ oasis_namcouple_init          29 namfldlag            0
+ oasis_namcouple_init          29 nammapfil idmap
+ oasis_namcouple_init          29 nammaploc src
+ oasis_namcouple_init          29 nammapopt bfb
+ oasis_namcouple_init          29 namrstfil clm15.nc
+ oasis_namcouple_init          29 naminpfil 
+ oasis_namcouple_init          29 namchecki  F
+ oasis_namcouple_init          29 namchecko  F
+ oasis_namcouple_init          29 namfldsmu    1.00000000000000     
+ oasis_namcouple_init          29 namfldsad   0.000000000000000E+000
+ oasis_namcouple_init          29 namflddmu    1.00000000000000     
+ oasis_namcouple_init          29 namflddad   0.000000000000000E+000
+ oasis_namcouple_init          29 namscrmet DISTWGT
+ oasis_namcouple_init          29 namscrnor NONORM
+ oasis_namcouple_init          29 namscrtyp SCALAR
+ oasis_namcouple_init          29 namscrord 
+ oasis_namcouple_init          29 namscrres LATLON
+ oasis_namcouple_init          29 namscrvam    1.00000000000000     
+ oasis_namcouple_init          29 namscrnbr            4
+ oasis_namcouple_init          29 namscrbin            1
+  
+ oasis_namcouple_init          30 namsrcfld CLMFLX10
+ oasis_namcouple_init          30 namdstfld PFLFLX10
+ oasis_namcouple_init          30 namsrcgrd gclm
+ oasis_namcouple_init          30 namsrc_nx        11988
+ oasis_namcouple_init          30 namsrc_ny            1
+ oasis_namcouple_init          30 namdstgrd gpfl
+ oasis_namcouple_init          30 namdst_nx          111
+ oasis_namcouple_init          30 namdst_ny          108
+ oasis_namcouple_init          30 namfldseq            2
+ oasis_namcouple_init          30 namfldops            1
+ oasis_namcouple_init          30 namfldtrn            1
+ oasis_namcouple_init          30 namfldcon            0
+ oasis_namcouple_init          30 namfldcoo bfb
+ oasis_namcouple_init          30 namflddti          900
+ oasis_namcouple_init          30 namfldlag            0
+ oasis_namcouple_init          30 nammapfil idmap
+ oasis_namcouple_init          30 nammaploc src
+ oasis_namcouple_init          30 nammapopt bfb
+ oasis_namcouple_init          30 namrstfil clm16.nc
+ oasis_namcouple_init          30 naminpfil 
+ oasis_namcouple_init          30 namchecki  F
+ oasis_namcouple_init          30 namchecko  F
+ oasis_namcouple_init          30 namfldsmu    1.00000000000000     
+ oasis_namcouple_init          30 namfldsad   0.000000000000000E+000
+ oasis_namcouple_init          30 namflddmu    1.00000000000000     
+ oasis_namcouple_init          30 namflddad   0.000000000000000E+000
+ oasis_namcouple_init          30 namscrmet DISTWGT
+ oasis_namcouple_init          30 namscrnor NONORM
+ oasis_namcouple_init          30 namscrtyp SCALAR
+ oasis_namcouple_init          30 namscrord 
+ oasis_namcouple_init          30 namscrres LATLON
+ oasis_namcouple_init          30 namscrvam    1.00000000000000     
+ oasis_namcouple_init          30 namscrnbr            4
+ oasis_namcouple_init          30 namscrbin            1
+  
+ oasis_namcouple_init sort            1           1           1
+ oasis_namcouple_init sort            2           2           1
+ oasis_namcouple_init sort            3           3           1
+ oasis_namcouple_init sort            4           4           1
+ oasis_namcouple_init sort            5           5           1
+ oasis_namcouple_init sort            6           6           1
+ oasis_namcouple_init sort            7           7           1
+ oasis_namcouple_init sort            8           8           1
+ oasis_namcouple_init sort            9           9           1
+ oasis_namcouple_init sort           10          10           1
+ oasis_namcouple_init sort           11          11           1
+ oasis_namcouple_init sort           12          12           1
+ oasis_namcouple_init sort           13          13           1
+ oasis_namcouple_init sort           14          14           1
+ oasis_namcouple_init sort           15          15           1
+ oasis_namcouple_init sort           16          16           1
+ oasis_namcouple_init sort           17          17           1
+ oasis_namcouple_init sort           18          18           1
+ oasis_namcouple_init sort           19          19           1
+ oasis_namcouple_init sort           20          20           1
+ oasis_namcouple_init sort           21          21           2
+ oasis_namcouple_init sort           22          22           2
+ oasis_namcouple_init sort           23          23           2
+ oasis_namcouple_init sort           24          24           2
+ oasis_namcouple_init sort           25          25           2
+ oasis_namcouple_init sort           26          26           2
+ oasis_namcouple_init sort           27          27           2
+ oasis_namcouple_init sort           28          28           2
+ oasis_namcouple_init sort           29          29           2
+ oasis_namcouple_init sort           30          30           2
+ Total number of coupling fields :          30
+ oasis_init_compCoupling fields  namsrcfld:PFLSAT01
+ oasis_init_compCoupling fields namdstfld:CLMSAT01
+ oasis_init_compCoupling fields  namsrcfld:PFLSAT02
+ oasis_init_compCoupling fields namdstfld:CLMSAT02
+ oasis_init_compCoupling fields  namsrcfld:PFLSAT03
+ oasis_init_compCoupling fields namdstfld:CLMSAT03
+ oasis_init_compCoupling fields  namsrcfld:PFLSAT04
+ oasis_init_compCoupling fields namdstfld:CLMSAT04
+ oasis_init_compCoupling fields  namsrcfld:PFLSAT05
+ oasis_init_compCoupling fields namdstfld:CLMSAT05
+ oasis_init_compCoupling fields  namsrcfld:PFLSAT06
+ oasis_init_compCoupling fields namdstfld:CLMSAT06
+ oasis_init_compCoupling fields  namsrcfld:PFLSAT07
+ oasis_init_compCoupling fields namdstfld:CLMSAT07
+ oasis_init_compCoupling fields  namsrcfld:PFLSAT08
+ oasis_init_compCoupling fields namdstfld:CLMSAT08
+ oasis_init_compCoupling fields  namsrcfld:PFLSAT09
+ oasis_init_compCoupling fields namdstfld:CLMSAT09
+ oasis_init_compCoupling fields  namsrcfld:PFLSAT10
+ oasis_init_compCoupling fields namdstfld:CLMSAT10
+ oasis_init_compCoupling fields  namsrcfld:PFLPSI01
+ oasis_init_compCoupling fields namdstfld:CLMPSI01
+ oasis_init_compCoupling fields  namsrcfld:PFLPSI02
+ oasis_init_compCoupling fields namdstfld:CLMPSI02
+ oasis_init_compCoupling fields  namsrcfld:PFLPSI03
+ oasis_init_compCoupling fields namdstfld:CLMPSI03
+ oasis_init_compCoupling fields  namsrcfld:PFLPSI04
+ oasis_init_compCoupling fields namdstfld:CLMPSI04
+ oasis_init_compCoupling fields  namsrcfld:PFLPSI05
+ oasis_init_compCoupling fields namdstfld:CLMPSI05
+ oasis_init_compCoupling fields  namsrcfld:PFLPSI06
+ oasis_init_compCoupling fields namdstfld:CLMPSI06
+ oasis_init_compCoupling fields  namsrcfld:PFLPSI07
+ oasis_init_compCoupling fields namdstfld:CLMPSI07
+ oasis_init_compCoupling fields  namsrcfld:PFLPSI08
+ oasis_init_compCoupling fields namdstfld:CLMPSI08
+ oasis_init_compCoupling fields  namsrcfld:PFLPSI09
+ oasis_init_compCoupling fields namdstfld:CLMPSI09
+ oasis_init_compCoupling fields  namsrcfld:PFLPSI10
+ oasis_init_compCoupling fields namdstfld:CLMPSI10
+ oasis_init_compCoupling fields  namsrcfld:CLMFLX01
+ oasis_init_compCoupling fields namdstfld:PFLFLX01
+ oasis_init_compCoupling fields  namsrcfld:CLMFLX02
+ oasis_init_compCoupling fields namdstfld:PFLFLX02
+ oasis_init_compCoupling fields  namsrcfld:CLMFLX03
+ oasis_init_compCoupling fields namdstfld:PFLFLX03
+ oasis_init_compCoupling fields  namsrcfld:CLMFLX04
+ oasis_init_compCoupling fields namdstfld:PFLFLX04
+ oasis_init_compCoupling fields  namsrcfld:CLMFLX05
+ oasis_init_compCoupling fields namdstfld:PFLFLX05
+ oasis_init_compCoupling fields  namsrcfld:CLMFLX06
+ oasis_init_compCoupling fields namdstfld:PFLFLX06
+ oasis_init_compCoupling fields  namsrcfld:CLMFLX07
+ oasis_init_compCoupling fields namdstfld:PFLFLX07
+ oasis_init_compCoupling fields  namsrcfld:CLMFLX08
+ oasis_init_compCoupling fields namdstfld:PFLFLX08
+ oasis_init_compCoupling fields  namsrcfld:CLMFLX09
+ oasis_init_compCoupling fields namdstfld:PFLFLX09
+ oasis_init_compCoupling fields  namsrcfld:CLMFLX10
+ oasis_init_compCoupling fields namdstfld:PFLFLX10
+ oasis_init_compcdnam :oaspfl mynummod :           1
+ oasis_init_comp   n,prism_model,root =            1 oaspfl           0
+ oasis_init_comp   n,prism_model,root =            2 oasclm          81

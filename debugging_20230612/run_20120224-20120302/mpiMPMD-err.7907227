@@ -1,0 +1,241 @@
+/var/spool/parastation/jobs/7907227: line 16: loadenvs: No such file or directory
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+oasis_init_comp: Calling MPI_Init
+application called MPI_Abort(comm=0x84000001, 1) - process 0Fatal error in PMPI_Waitany: Other MPI error, error stack:
+PMPI_Waitany(282)...: MPI_Waitany(count=1, req_array=0x7ffe6bdb9340, index=0x7ffe6bdb79a0, status=0x7ffe6bdbab40) failed
+PMPI_Waitany(265)...: 
+mpid_irecv_done(103): read from socket failed - request state:recv(pde)doneFatal error in PMPI_Waitany: Other MPI error, error stack:
+PMPI_Waitany(282)...: MPI_Waitany(count=1, req_array=0x7ffdad65d5c0, index=0x7ffdad65bc20, status=0x7ffdad65edc0) failed
+PMPI_Waitany(265)...: 
+mpid_irecv_done(103): read from socket failed - request state:recv(pde)doneFatal error in PMPI_Waitany: Other MPI error, error stack:
+PMPI_Waitany(282)...: MPI_Waitany(count=1, req_array=0x7fffcc8ca640, index=0x7fffcc8c8ca0, status=0x7fffcc8cbe40) failed
+PMPI_Waitany(265)...: 
+mpid_irecv_done(103): read from socket failed - request state:recv(pde)doneFatal error in PMPI_Waitany: Other MPI error, error stack:
+PMPI_Waitany(282)...: MPI_Waitany(count=1, req_array=0x7ffda06781c0, index=0x7ffda0676820, status=0x7ffda06799c0) failed
+PMPI_Waitany(265)...: 
+mpid_irecv_done(103): read from socket failed - request state:recv(pde)doneFatal error in PMPI_Waitany: Other MPI error, error stack:
+PMPI_Waitany(282)...: MPI_Waitany(count=1, req_array=0x7fff8b8ef740, index=0x7fff8b8edda0, status=0x7fff8b8f0f40) failed
+PMPI_Waitany(265)...: 
+mpid_irecv_done(103): read from socket failed - request state:recv(pde)doneFatal error in PMPI_Waitany: Other MPI error, error stack:
+PMPI_Waitany(282)...: MPI_Waitany(count=1, req_array=0x7ffcd221b0c0, index=0x7ffcd2219720, status=0x7ffcd221c8c0) failed
+PMPI_Waitany(265)...: 
+mpid_irecv_done(103): read from socket failed - request state:recv(pde)doneFatal error in PMPI_Waitany: Other MPI error, error stack:
+PMPI_Waitany(282)...: MPI_Waitany(count=1, req_array=0x7fffcb8d3bc0, index=0x7fffcb8d2220, status=0x7fffcb8d53c0) failed
+PMPI_Waitany(265)...: 
+mpid_irecv_done(103): read from socket failed - request state:recv(pde)doneFatal error in PMPI_Waitany: Other MPI error, error stack:
+PMPI_Waitany(282)...: MPI_Waitany(count=1, req_array=0x7ffda92d7a40, index=0x7ffda92d60a0, status=0x7ffda92d9240) failed
+PMPI_Waitany(265)...: 
+mpid_irecv_done(103): read from socket failed - request state:recv(pde)doneFatal error in PMPI_Waitany: Other MPI error, error stack:
+PMPI_Waitany(282)...: MPI_Waitany(count=1, req_array=0x7ffd032b7740, index=0x7ffd032b5da0, status=0x7ffd032b8f40) failed
+PMPI_Waitany(265)...: 
+mpid_irecv_done(103): read from socket failed - request state:recv(pde)doneFatal error in PMPI_Waitany: Other MPI error, error stack:
+PMPI_Waitany(282)...: MPI_Waitany(count=1, req_array=0x7ffcac393540, index=0x7ffcac391ba0, status=0x7ffcac394d40) failed
+PMPI_Waitany(265)...: 
+mpid_irecv_done(103): read from socket failed - request state:recv(pde)doneFatal error in PMPI_Waitany: Other MPI error, error stack:
+PMPI_Waitany(282)...: MPI_Waitany(count=1, req_array=0x7ffee9d20cc0, index=0x7ffee9d1f320, status=0x7ffee9d224c0) failed
+PMPI_Waitany(265)...: 
+mpid_irecv_done(103): read from socket failed - request state:recv(pde)doneFatal error in PMPI_Waitany: Other MPI error, error stack:
+PMPI_Waitany(282)...: MPI_Waitany(count=1, req_array=0x7ffe5956ff40, index=0x7ffe5956e5a0, status=0x7ffe59571740) failed
+PMPI_Waitany(265)...: 
+mpid_irecv_done(103): read from socket failed - request state:recv(pde)doneFatal error in PMPI_Waitany: Other MPI error, error stack:
+PMPI_Waitany(282)...: MPI_Waitany(count=1, req_array=0x7fff627313c0, index=0x7fff6272fa20, status=0x7fff62732bc0) failed
+PMPI_Waitany(265)...: 
+mpid_irecv_done(103): read from socket failed - request state:recv(pde)doneFatal error in PMPI_Waitany: Other MPI error, error stack:
+PMPI_Waitany(282)...: MPI_Waitany(count=1, req_array=0x7fff45b37d40, index=0x7fff45b363a0, status=0x7fff45b39540) failed
+PMPI_Waitany(265)...: 
+mpid_irecv_done(103): read from socket failed - request state:recv(pde)donereadFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+kvsprovider[7858]: sighandler: Terminating the job.
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+readFromPMIClient: lost connection to the PMI client
+srun: error: jwc03n033: tasks 48-80: Terminated
+srun: error: jwc03n033: tasks 82-95: Exited with exit code 143
+srun: error: jwc03n033: task 81: Exited with exit code 1
+srun: error: jwc03n032: tasks 0-47: Terminated
+srun: Force Terminated StepId=7907227.0
